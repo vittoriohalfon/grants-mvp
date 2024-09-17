@@ -19,7 +19,7 @@ export async function POST(req: Request) {
       body: JSON.stringify({ 
         domain,
         requestId,
-        callbackUrl: 'http://localhost:3000/api/receive-results',
+        callbackUrl: 'https://grants-m7dcw60z2-skim-ai.vercel.app/api/receive-results',
       }),
     });
 
