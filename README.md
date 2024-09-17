@@ -1,3 +1,5 @@
+# MVP FOR AI GRANT ASSISTANT
+
 This project is a simple MVP to test the integration of n8n with Vercel.
 We plan to use this to trigger a workflow in n8n when a user submits a form in the app.
 
