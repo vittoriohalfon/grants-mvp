@@ -27,10 +27,10 @@ export function LandingPageComponent() {
         throw new Error('Failed to process data')
       }
 
-      const { workflowId } = await response.json()
+      const { requestId } = await response.json()
 
-      // Store the workflowId in localStorage
-      localStorage.setItem('workflowId', workflowId)
+      // Store the requestId in localStorage
+      localStorage.setItem('requestId', requestId)
 
       //Navigate to the company profile page
       router.push('/company-profile')

@@ -7,25 +7,6 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
 
-// Update the fetchWebsiteData function to use the actual API data
-const fetchWebsiteData = async () => {
-  try {
-    const response = await fetch('/api/n8n', {
-      method: 'GET',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    });
-    if (!response.ok) {
-      throw new Error('Failed to fetch n8n data');
-    }
-    return await response.json();
-  } catch (error) {
-    console.error('Error fetching n8n data:', error);
-    return null;
-  }
-}
-
 // Update the dataStructure to match the API response
 interface DataField {
   label: string;
@@ -62,28 +43,27 @@ export function CompanyProfileComponent() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const workflowId = localStorage.getItem('workflowId')
-      if (!workflowId) {
+      const requestId = localStorage.getItem('requestId')
+      if (!requestId) {
         window.location.href = '/'
         return
       }
 
       try {
-        const response = await fetch(`/api/get-results/${workflowId}`)
-        if (response.status === 200) {
+        const response = await fetch(`/api/get-results?requestId=${requestId}`)
+        if (response.ok) {
           const resultData = await response.json()
           setData(resultData)
+          setLoading(false)
         } else if (response.status === 404) {
           // Results not ready yet, poll again after a delay
           setTimeout(fetchData, 3000)
-          return
         } else {
           throw new Error('Failed to fetch results')
         }
       } catch (error) {
         console.error('Error fetching results:', error)
         alert('An error occurred while fetching results. Please try again.')
-      } finally {
         setLoading(false)
       }
     }
