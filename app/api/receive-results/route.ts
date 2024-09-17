@@ -8,11 +8,6 @@ const redis = new Redis({
 
 export async function POST(req: Request) {
   try {
-    const apiKey = req.headers.get('x-api-key');
-    if (apiKey !== process.env.N8N_API_KEY) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
-    }
-
     const body = await req.json();
     const requestId = req.headers.get('x-request-id');
 
