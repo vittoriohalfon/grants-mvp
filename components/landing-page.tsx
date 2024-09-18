@@ -11,11 +11,51 @@ import Image from 'next/image'
 export function LandingPageComponent() {
   const [url, setUrl] = useState('')
   const [isLoading, setIsLoading] = useState(false)
+  const [error, setError] = useState('')
   const router = useRouter()
+
+  const preprocessUrl = (input: string): string => {
+    let processedUrl = input.trim().toLowerCase()
+    
+    // Add https:// if no protocol is specified
+    if (!processedUrl.startsWith('http://') && !processedUrl.startsWith('https://')) {
+      processedUrl = 'https://' + processedUrl
+    }
+    
+    // Remove trailing slash if present
+    processedUrl = processedUrl.replace(/\/$/, '')
+    
+    // Remove 'www.' if present
+    processedUrl = processedUrl.replace(/^(https?:\/\/)www\./, '$1')
+    
+    return processedUrl
+  }
+
+  const isValidUrl = (url: string): boolean => {
+    try {
+      new URL(url)
+      return true
+    } catch {
+      return false
+    }
+  }
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
+    setError('')
     setIsLoading(true)
+
+    let processedUrl = preprocessUrl(url)
+
+    if (!isValidUrl(processedUrl)) {
+      processedUrl = `https://${processedUrl}`
+    }
+
+    if (!isValidUrl(processedUrl)) {
+      setError('Please enter a valid URL')
+      setIsLoading(false)
+      return
+    }
 
     try {
       const response = await fetch('/api/trigger-workflow', {
@@ -23,7 +63,7 @@ export function LandingPageComponent() {
         headers: {
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ domain: url }),
+        body: JSON.stringify({ domain: processedUrl }),
       })
 
       if (!response.ok) {
@@ -81,7 +121,7 @@ export function LandingPageComponent() {
               <div className="w-full max-w-md mx-auto space-y-2">
                 <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-2">
                   <Input
-                    type="url"
+                    type="text"
                     placeholder="Insert your business URL here"
                     value={url}
                     onChange={(e) => setUrl(e.target.value)}
@@ -92,6 +132,7 @@ export function LandingPageComponent() {
                     {isLoading ? 'Processing...' : 'Enter'}
                   </Button>
                 </form>
+                {error && <p className="text-red-500 text-sm mt-2">{error}</p>}
               </div>
             </div>
           </div>
