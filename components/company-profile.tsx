@@ -1,11 +1,12 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { Loader2, Edit2 } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
+import Script from 'next/script'
 
 // Update the dataStructure to match the API response
 interface DataField {
@@ -40,6 +41,7 @@ export function CompanyProfileComponent() {
   const [loading, setLoading] = useState(true)
   const [data, setData] = useState<Record<string, string> | null>(null)
   const [editMode, setEditMode] = useState<Record<string, boolean>>({})
+  const calendlyScriptLoaded = useRef(false);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -57,7 +59,7 @@ export function CompanyProfileComponent() {
           setLoading(false)
         } else if (response.status === 404) {
           // Results not ready yet, poll again after a delay
-          setTimeout(fetchData, 3000)
+          setTimeout(fetchData, 1500)
         } else {
           throw new Error('Failed to fetch results')
         }
@@ -71,6 +73,23 @@ export function CompanyProfileComponent() {
     fetchData()
   }, [])
 
+  useEffect(() => {
+    if (!calendlyScriptLoaded.current) {
+      const script = document.createElement('script');
+      script.src = "https://assets.calendly.com/assets/external/widget.js";
+      script.async = true;
+      script.onload = () => {
+        calendlyScriptLoaded.current = true;
+      };
+      document.body.appendChild(script);
+
+      const link = document.createElement('link');
+      link.href = "https://assets.calendly.com/assets/external/widget.css";
+      link.rel = "stylesheet";
+      document.head.appendChild(link);
+    }
+  }, []);
+
   const handleEdit = (key: string) => {
     setEditMode(prev => ({ ...prev, [key]: true }))
   }
@@ -80,10 +99,37 @@ export function CompanyProfileComponent() {
     setEditMode(prev => ({ ...prev, [key]: false }))
   }
 
-  const handleConfirm = () => {
-    console.log("Confirmed data:", data)
-    // Here you would typically send this data to your backend or next step in the process
-  }
+  const openCalendly = () => {
+    if (typeof window !== 'undefined' && (window as any).Calendly) {
+      (window as any).Calendly.initPopupWidget({
+        url: 'https://calendly.com/justin-justskim/skim-discovery'
+      });
+    } else {
+      console.error('Calendly widget is not available');
+    }
+  };
+
+  const handleConfirm = async () => {
+    try {
+      openCalendly();
+      const response = await fetch('/api/confirm-profile', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to confirm profile');
+      }
+
+      // Handle successful confirmation (e.g., show a success message)
+    } catch (error) {
+      console.error('Error confirming profile:', error);
+      alert('An error occurred while confirming your profile. Please try again.');
+    }
+  };
 
   if (loading) {
     return (
@@ -97,56 +143,59 @@ export function CompanyProfileComponent() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8">{data?.company_name}</h1>
-        
-        {Object.entries(dataStructure).map(([section, fields]) => (
-          <Card key={section} className="mb-8">
-            <CardHeader>
-              <CardTitle>{section}</CardTitle>
-            </CardHeader>
-            <CardContent>
-              {fields.map(({ label, key, type }) => (
-                <div key={key} className="mb-4">
-                  <label className="block text-sm font-medium text-gray-700 mb-1">{label}</label>
-                  {editMode[key] ? (
-                    <div className="flex flex-col space-y-2">
-                      {type === 'textarea' ? (
-                        <Textarea 
-                          value={data?.[key] || ''}
-                          onChange={(e) => setData(prev => prev ? {...prev, [key]: e.target.value} : null)}
-                          className="min-h-[100px]"
-                        />
-                      ) : (
-                        <Input 
-                          value={data?.[key] || ''}
-                          onChange={(e) => setData(prev => prev ? {...prev, [key]: e.target.value} : null)}
-                        />
-                      )}
-                      <Button onClick={() => handleSave(key, data?.[key] || '')} className="self-end">
-                        Save Changes
-                      </Button>
-                    </div>
-                  ) : (
-                    <div className="flex justify-between items-start">
-                      <p className="text-gray-900 whitespace-pre-wrap">{data?.[key]}</p>
-                      <Button onClick={() => handleEdit(key)} variant="ghost" size="sm" className="mt-1">
-                        <Edit2 className="h-4 w-4 mr-2" />
-                        Edit
-                      </Button>
-                    </div>
-                  )}
-                </div>
-              ))}
-            </CardContent>
-          </Card>
-        ))}
-        
-        <Button onClick={handleConfirm} className="w-full py-6 text-lg">
-          Confirm Information and Find Grants
-        </Button>
+    <>
+      {/* Remove the Script component for Calendly */}
+      <div className="min-h-screen bg-gray-100 py-12 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-4xl mx-auto">
+          <h1 className="text-4xl font-bold text-center mb-8">{data?.company_name}</h1>
+          
+          {Object.entries(dataStructure).map(([section, fields]) => (
+            <Card key={section} className="mb-8">
+              <CardHeader>
+                <CardTitle>{section}</CardTitle>
+              </CardHeader>
+              <CardContent>
+                {fields.map(({ label, key, type }) => (
+                  <div key={key} className="mb-4">
+                    <label className="block text-sm font-medium text-gray-700 mb-1">{label}</label>
+                    {editMode[key] ? (
+                      <div className="flex flex-col space-y-2">
+                        {type === 'textarea' ? (
+                          <Textarea 
+                            value={data?.[key] || ''}
+                            onChange={(e) => setData(prev => prev ? {...prev, [key]: e.target.value} : null)}
+                            className="min-h-[100px]"
+                          />
+                        ) : (
+                          <Input 
+                            value={data?.[key] || ''}
+                            onChange={(e) => setData(prev => prev ? {...prev, [key]: e.target.value} : null)}
+                          />
+                        )}
+                        <Button onClick={() => handleSave(key, data?.[key] || '')} className="self-end">
+                          Save Changes
+                        </Button>
+                      </div>
+                    ) : (
+                      <div className="flex justify-between items-start">
+                        <p className="text-gray-900 whitespace-pre-wrap">{data?.[key]}</p>
+                        <Button onClick={() => handleEdit(key)} variant="ghost" size="sm" className="mt-1">
+                          <Edit2 className="h-4 w-4 mr-2" />
+                          Edit
+                        </Button>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </CardContent>
+            </Card>
+          ))}
+          
+          <Button onClick={handleConfirm} className="w-full py-6 text-lg">
+            Confirm Information and Find Grants
+          </Button>
+        </div>
       </div>
-    </div>
+    </>
   )
 }

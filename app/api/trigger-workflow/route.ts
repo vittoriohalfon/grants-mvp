@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import { v4 as uuidv4 } from 'uuid';
 
 const N8N_WEBHOOK_URL = process.env.N8N_WEBHOOK_URL || 'http://localhost:5678/webhook/8756b09a-1e66-4c45-a08d-f11851db23e0';
+const CALLBACK_URL = process.env.CALLBACK_URL || 'https://grants-m7dcw60z2-skim-ai.vercel.app/api/receive-results';
 
 export async function POST(req: Request) {
   try {
@@ -19,7 +20,7 @@ export async function POST(req: Request) {
       body: JSON.stringify({ 
         domain,
         requestId,
-        callbackUrl: 'https://grants-m7dcw60z2-skim-ai.vercel.app/api/receive-results',
+        callbackUrl: CALLBACK_URL,
       }),
     });
 
