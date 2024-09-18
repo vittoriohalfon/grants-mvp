@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
+import { LoadingComponent } from './loading-component'
 
 // Update the dataStructure to match the API response
 interface DataField {
@@ -131,14 +132,7 @@ export function CompanyProfileComponent() {
   };
 
   if (loading) {
-    return (
-      <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-        <div className="text-center">
-          <Loader2 className="h-12 w-12 animate-spin text-blue-500 mx-auto" />
-          <p className="mt-4 text-lg text-gray-600">Analyzing your website...</p>
-        </div>
-      </div>
-    )
+    return <LoadingComponent />
   }
 
   return (
