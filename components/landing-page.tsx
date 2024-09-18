@@ -67,9 +67,9 @@ export function LandingPageComponent() {
                 <Image
                   src="/logo.png"
                   alt="Skim Logo"
-                  width={200}
-                  height={200}
-                  className="mx-auto mb-8"
+                  width={180}
+                  height={180}
+                  className="mx-auto mb-6"
                 />
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
                   AI for Government Grants
