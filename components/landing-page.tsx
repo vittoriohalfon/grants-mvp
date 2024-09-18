@@ -141,7 +141,7 @@ export function LandingPageComponent() {
                     }}
                     width={80}
                   />
-                  <p className="text-lg font-semibold mb-2">"{testimonial.quote}"</p>
+                  <p className="text-lg font-semibold mb-2">&ldquo;{testimonial.quote}&rdquo;</p>
                   <p className="text-sm text-muted-foreground">{testimonial.name}, {testimonial.role}</p>
                 </div>
               ))}

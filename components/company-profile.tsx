@@ -6,7 +6,6 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
-import Script from 'next/script'
 
 // Update the dataStructure to match the API response
 interface DataField {
@@ -100,8 +99,8 @@ export function CompanyProfileComponent() {
   }
 
   const openCalendly = () => {
-    if (typeof window !== 'undefined' && (window as any).Calendly) {
-      (window as any).Calendly.initPopupWidget({
+    if (typeof window !== 'undefined' && window.Calendly) {
+      window.Calendly.initPopupWidget({
         url: 'https://calendly.com/justin-justskim/skim-discovery'
       });
     } else {
