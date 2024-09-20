@@ -1,4 +1,4 @@
-# Contracts POC
+# Contracts POC - MONOREPO
 
 This repository contains two related projects:
 
