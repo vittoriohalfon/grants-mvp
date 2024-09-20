@@ -1,0 +1,39 @@
+[config]
+model="gpt-4-turbo-2024-04-09"
+model_turbo="gpt-4-turbo-2024-04-09"
+fallback_models=["gpt-4-0125-preview"]
+git_provider="github"
+publish_output=true
+verbosity_level=1
+max_model_tokens = 32000
+large_patch_policy = "clip"
+enable_large_pr_handling=true
+max_ai_calls=3
+
+[github_app]
+handle_pr_actions = ['opened', 'reopened', 'ready_for_review']
+pr_commands = [
+    "/review --pr_reviewer.num_code_suggestions=0",
+]
+
+[pr_reviewer]
+require_score_review=true
+require_tests_review=true
+require_security_review=true
+num_code_suggestions=0
+inline_code_comments = true
+persistent_comment=true
+extra_instructions = "Focus on identifying security vulnerabilities and potential issues when merging to the 'develop' branch."
+enable_review_labels_security=true
+enable_review_labels_effort=true
+
+[pr_code_suggestions]
+max_context_tokens=10000
+num_code_suggestions=4
+auto_extended_mode=true
+num_code_suggestions_per_chunk=4
+max_number_of_calls = 3
+parallel_calls = true
+
+[ignore]
+glob = ['*.md', 'LICENSE', '*.txt']
