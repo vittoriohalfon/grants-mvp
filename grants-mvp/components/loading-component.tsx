@@ -83,46 +83,4 @@ export function LoadingComponent() {
   )
 }
 
-// Handwriting animation component
-const HandwritingAnimation = ({ text }: { text: string }) => {
-  return (
-    <motion.svg
-      width="100%"
-      height="40"
-      viewBox="0 0 300 40"
-      initial="hidden"
-      animate="visible"
-    >
-      <motion.text
-        x="10"
-        y="30"
-        fill="none"
-        stroke="#60A5FA"
-        strokeWidth="1"
-        fontFamily="cursive"
-        fontSize="24"
-        variants={{
-          hidden: { pathLength: 0 },
-          visible: {
-            pathLength: 1,
-            transition: {
-              duration: 3,
-              ease: "easeInOut",
-            },
-          },
-        }}
-      >
-        {text}
-      </motion.text>
-    </motion.svg>
-  )
-}
-
-// Add this to your global CSS file or use a CSS-in-JS solution
-const globalStyles = `
-  @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
-
-  .font-handwriting {
-    font-family: 'Caveat', cursive;
-  }
-`
+// Remove the unused HandwritingAnimation component and globalStyles variable

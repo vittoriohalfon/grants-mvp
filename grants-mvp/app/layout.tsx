@@ -1,14 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import { Inter } from 'next/font/google'
-// import {
-//   ClerkProvider,
-//   SignInButton,
-//   SignedIn,
-//   SignedOut,
-//   UserButton
-// } from '@clerk/nextjs'
+import { Inter, Caveat } from 'next/font/google'
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -22,6 +15,7 @@ const geistMono = localFont({
 });
 
 const inter = Inter({ subsets: ['latin'] });
+const caveat = Caveat({ subsets: ['latin'], variable: "--font-caveat" });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -34,24 +28,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    // <ClerkProvider>
-      <html lang="en">
-        <head>
-          <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet" />
-        </head>
-        <body
-          className={`${geistSans.variable} ${geistMono.variable} antialiased ${inter.className}`}
-        >
-          {/* <SignedOut>
-            <SignInButton />
-          </SignedOut>
-          <SignedIn>
-            <UserButton />
-          </SignedIn> */}
-          {children}
-          <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-        </body>
-      </html>
-    // </ClerkProvider>
+    <html lang="en">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} ${caveat.variable} antialiased ${inter.className}`}
+      >
+        {children}
+        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+      </body>
+    </html>
   );
 }
