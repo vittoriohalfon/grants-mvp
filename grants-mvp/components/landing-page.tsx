@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { SearchIcon, FileTextIcon, AwardIcon, ChevronRightIcon } from "lucide-react"
+import { SearchIcon, FileTextIcon, AwardIcon } from "lucide-react"
 import Link from "next/link"
 import Image from 'next/image'
 

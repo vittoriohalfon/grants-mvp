@@ -89,7 +89,7 @@ export function Dashboard() {
     red: "bg-rose-500",
   }
 
-  const renderOpportunityCard = (item: { id: number; name: string; status: string; eligibility: number; description: string; amount: number }, type: string) => (
+  const renderOpportunityCard = (item: { id: number; name: string; status: string; eligibility: number; description: string; amount: number }) => (
     <Card key={item.id} className="w-full transition-all hover:shadow-lg">
       <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
         <CardTitle className="text-lg font-semibold">
@@ -178,12 +178,12 @@ export function Dashboard() {
               </TabsList>
               <TabsContent value="grants" className="space-y-6">
                 <div className="grid gap-6 md:grid-cols-2">
-                  {grants.map(grant => renderOpportunityCard(grant, 'grant'))}
+                  {grants.map(grant => renderOpportunityCard(grant))}
                 </div>
               </TabsContent>
               <TabsContent value="contracts" className="space-y-6">
                 <div className="grid gap-6 md:grid-cols-2">
-                  {contracts.map(contract => renderOpportunityCard(contract, 'contract'))}
+                  {contracts.map(contract => renderOpportunityCard(contract))}
                 </div>
               </TabsContent>
             </Tabs>
