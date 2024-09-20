@@ -82,25 +82,25 @@ export function LandingPageComponent() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen bg-background">
-      <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background">
+    <div className="flex flex-col min-h-screen bg-gray-100">
+      <header className="sticky top-0 z-50 w-full border-b bg-white shadow-sm">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between">
             <Link className="flex items-center justify-center" href="#">
-              <FileTextIcon className="h-6 w-6 mr-2" />
-              <span className="font-bold text-xl">Skim</span>
+              <FileTextIcon className="h-6 w-6 mr-2 text-primary" />
+              <span className="font-bold text-xl text-gray-900">Skim</span>
             </Link>
             <nav className="flex gap-4 sm:gap-6">
-              <Link className="text-sm font-medium hover:text-primary" href="#">Features</Link>
-              <Link className="text-sm font-medium hover:text-primary" href="#">Pricing</Link>
-              <Link className="text-sm font-medium hover:text-primary" href="#">About</Link>
-              <Link className="text-sm font-medium hover:text-primary" href="#">Contact</Link>
+              <Link className="text-sm font-medium text-gray-600 hover:text-primary" href="#">Features</Link>
+              <Link className="text-sm font-medium text-gray-600 hover:text-primary" href="#">Pricing</Link>
+              <Link className="text-sm font-medium text-gray-600 hover:text-primary" href="#">About</Link>
+              <Link className="text-sm font-medium text-gray-600 hover:text-primary" href="#">Contact</Link>
             </nav>
           </div>
         </div>
       </header>
       <main className="flex-1">
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center bg-white">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
@@ -111,10 +111,10 @@ export function LandingPageComponent() {
                   height={180}
                   className="mx-auto mb-6"
                 />
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
+                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none text-gray-900">
                   AI for Government Grants
                 </h1>
-                <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
+                <p className="mx-auto max-w-[700px] text-gray-600 md:text-xl">
                   Skim leverages AI to help you find, manage, and bid on federal, state, local, and education government opportunities.
                 </p>
               </div>
@@ -138,9 +138,9 @@ export function LandingPageComponent() {
           </div>
         </section>
         
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-muted flex items-center">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-gray-100 flex items-center">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12">
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12 text-gray-900">
               How Skim Works
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -151,17 +151,17 @@ export function LandingPageComponent() {
               ].map((item, index) => (
                 <div key={index} className="flex flex-col items-center text-center">
                   <item.icon className="h-12 w-12 mb-4 text-primary" />
-                  <h3 className="text-xl font-bold mb-2">{item.title}</h3>
-                  <p className="text-muted-foreground">{item.description}</p>
+                  <h3 className="text-xl font-bold mb-2 text-gray-900">{item.title}</h3>
+                  <p className="text-gray-600">{item.description}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
 
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center bg-white">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12">
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12 text-gray-900">
               What Our Clients Say
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -182,22 +182,22 @@ export function LandingPageComponent() {
                     }}
                     width={80}
                   />
-                  <p className="text-lg font-semibold mb-2">&ldquo;{testimonial.quote}&rdquo;</p>
-                  <p className="text-sm text-muted-foreground">{testimonial.name}, {testimonial.role}</p>
+                  <p className="text-lg font-semibold mb-2 text-gray-900">&ldquo;{testimonial.quote}&rdquo;</p>
+                  <p className="text-sm text-gray-600">{testimonial.name}, {testimonial.role}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
         
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-muted flex items-center">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-gray-100 flex items-center">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-gray-900">
                   Ready to win more contracts?
                 </h2>
-                <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
+                <p className="mx-auto max-w-[600px] text-gray-600 md:text-xl">
                   Join Skim today and start leveraging AI to boost your government contracting success.
                 </p>
               </div>
@@ -211,15 +211,15 @@ export function LandingPageComponent() {
           </div>
         </section>
       </main>
-      <footer className="border-t bg-muted">
+      <footer className="border-t bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row justify-between items-center py-6">
-            <p className="text-xs text-muted-foreground">© 2023 Skim. All rights reserved.</p>
+            <p className="text-xs text-gray-600">© 2023 Skim. All rights reserved.</p>
             <nav className="flex gap-4 sm:gap-6 mt-4 sm:mt-0">
-              <Link className="text-xs text-muted-foreground hover:underline underline-offset-4" href="#">
+              <Link className="text-xs text-gray-600 hover:underline underline-offset-4" href="#">
                 Terms of Service
               </Link>
-              <Link className="text-xs text-muted-foreground hover:underline underline-offset-4" href="#">
+              <Link className="text-xs text-gray-600 hover:underline underline-offset-4" href="#">
                 Privacy
               </Link>
             </nav>
