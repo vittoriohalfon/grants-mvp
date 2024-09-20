@@ -17,15 +17,11 @@ export function LandingPageComponent() {
   const preprocessUrl = (input: string): string => {
     let processedUrl = input.trim().toLowerCase()
     
-    // Add https:// if no protocol is specified
     if (!processedUrl.startsWith('http://') && !processedUrl.startsWith('https://')) {
       processedUrl = 'https://' + processedUrl
     }
     
-    // Remove trailing slash if present
     processedUrl = processedUrl.replace(/\/$/, '')
-    
-    // Remove 'www.' if present
     processedUrl = processedUrl.replace(/^(https?:\/\/)www\./, '$1')
     
     return processedUrl
@@ -82,34 +78,34 @@ export function LandingPageComponent() {
   }
 
   return (
-    <div className="flex flex-col min-h-screen bg-gradient-to-b from-gray-50 to-white">
-      <header className="sticky top-0 z-50 w-full border-b bg-white/80 backdrop-blur-md shadow-sm">
+    <div className="flex flex-col min-h-screen bg-gradient-to-b from-[#05071A] to-[#0A0E2E]">
+      <header className="sticky top-0 z-50 w-full border-b border-gray-800 bg-[#05071A]/80 backdrop-blur-md shadow-sm">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between">
             <Link className="flex items-center justify-center" href="#">
-              <FileTextIcon className="h-8 w-8 mr-2 text-blue-600" />
-              <span className="font-bold text-2xl text-gray-900">Skim AI</span>
+              <FileTextIcon className="h-8 w-8 mr-2 text-blue-400" />
+              <span className="font-bold text-2xl text-white">Skim AI</span>
             </Link>
             <nav className="hidden md:flex gap-6">
-              <Link className="text-sm font-medium text-gray-600 hover:text-blue-600 transition-colors" href="#">Features</Link>
-              <Link className="text-sm font-medium text-gray-600 hover:text-blue-600 transition-colors" href="#">Pricing</Link>
-              <Link className="text-sm font-medium text-gray-600 hover:text-blue-600 transition-colors" href="#">About</Link>
-              <Link className="text-sm font-medium text-gray-600 hover:text-blue-600 transition-colors" href="#">Contact</Link>
+              <Link className="text-sm font-medium text-gray-300 hover:text-blue-400 transition-colors" href="#">Features</Link>
+              <Link className="text-sm font-medium text-gray-300 hover:text-blue-400 transition-colors" href="#">Pricing</Link>
+              <Link className="text-sm font-medium text-gray-300 hover:text-blue-400 transition-colors" href="#">About</Link>
+              <Link className="text-sm font-medium text-gray-300 hover:text-blue-400 transition-colors" href="#">Contact</Link>
             </nav>
-            <Button className="hidden md:inline-flex">Get Started</Button>
+            <Button className="hidden md:inline-flex bg-blue-500 hover:bg-blue-600 text-white">Get Started</Button>
           </div>
         </div>
       </header>
       <main className="flex-1">
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center bg-gradient-to-br from-blue-50 via-white to-purple-50">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center bg-gradient-to-br from-[#05071A] via-[#0A0E2E] to-[#10153E]">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col items-center space-y-8 text-center">
               <div className="space-y-4">
-                <h1 className="text-5xl font-extrabold tracking-tighter sm:text-6xl md:text-7xl lg:text-8xl/none bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
+                <h1 className="text-5xl font-extrabold tracking-tighter sm:text-6xl md:text-7xl lg:text-8xl/none bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
                   Skim AI
                 </h1>
-                <p className="text-2xl font-semibold text-gray-900">AI for Government Grants</p>
-                <p className="mx-auto max-w-[700px] text-gray-600 md:text-xl">
+                <p className="text-2xl font-semibold text-gray-200">AI for Government Grants</p>
+                <p className="mx-auto max-w-[700px] text-gray-300 md:text-xl">
                   Leverage AI to find, manage, and bid on federal, state, local, and education government opportunities with unprecedented efficiency.
                 </p>
               </div>
@@ -120,22 +116,22 @@ export function LandingPageComponent() {
                     placeholder="Insert your business URL here"
                     value={url}
                     onChange={(e) => setUrl(e.target.value)}
-                    className="flex-1 bg-white/50 backdrop-blur-sm border-gray-200 focus:border-blue-300 focus:ring focus:ring-blue-200 focus:ring-opacity-50"
+                    className="flex-1 bg-white/10 backdrop-blur-sm border-gray-600 text-white placeholder-gray-400 focus:border-blue-400 focus:ring focus:ring-blue-300 focus:ring-opacity-50"
                     disabled={isLoading}
                   />
-                  <Button type="submit" disabled={isLoading} className="w-full sm:w-auto bg-blue-600 hover:bg-blue-700 text-white">
+                  <Button type="submit" disabled={isLoading} className="w-full sm:w-auto bg-blue-500 hover:bg-blue-600 text-white">
                     {isLoading ? 'Processing...' : 'Get Started'}
                   </Button>
                 </form>
-                {error && <p className="text-red-500 text-sm mt-2">{error}</p>}
+                {error && <p className="text-red-400 text-sm mt-2">{error}</p>}
               </div>
             </div>
           </div>
         </section>
         
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-white flex items-center">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-[#0A0E2E] flex items-center">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-16 text-gray-900">
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-16 text-white">
               How Skim AI Works
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -145,20 +141,20 @@ export function LandingPageComponent() {
                 { icon: AwardIcon, title: "Win Contracts", description: "Increase your chances of winning with optimized bids and proposals." }
               ].map((item, index) => (
                 <div key={index} className="flex flex-col items-center text-center group">
-                  <div className="mb-6 p-4 bg-blue-100 rounded-full transition-all duration-300 group-hover:bg-blue-600">
-                    <item.icon className="h-10 w-10 text-blue-600 transition-all duration-300 group-hover:text-white" />
+                  <div className="mb-6 p-4 bg-blue-900 rounded-full transition-all duration-300 group-hover:bg-blue-700">
+                    <item.icon className="h-10 w-10 text-blue-400 transition-all duration-300 group-hover:text-white" />
                   </div>
-                  <h3 className="text-xl font-bold mb-3 text-gray-900">{item.title}</h3>
-                  <p className="text-gray-600">{item.description}</p>
+                  <h3 className="text-xl font-bold mb-3 text-white">{item.title}</h3>
+                  <p className="text-gray-300">{item.description}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
 
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center bg-gradient-to-br from-gray-50 to-white">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 flex items-center bg-gradient-to-br from-[#05071A] to-[#0A0E2E]">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-16 text-gray-900">
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-16 text-white">
               What Our Clients Say
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
@@ -167,10 +163,10 @@ export function LandingPageComponent() {
                 { name: "Jane Smith", role: "CFO of BuildRight Construction", quote: "We've doubled our contract win rate with Skim AI." },
                 { name: "Mike Johnson", role: "Owner of GreenLeaf Landscaping", quote: "Skim AI's AI-powered proposals are game-changing." }
               ].map((testimonial, index) => (
-                <div key={index} className="flex flex-col items-center text-center bg-white p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
+                <div key={index} className="flex flex-col items-center text-center bg-[#10153E] p-8 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300">
                   <Image
                     alt={testimonial.name}
-                    className="rounded-full mb-6 border-4 border-blue-100"
+                    className="rounded-full mb-6 border-4 border-blue-900"
                     height={100}
                     src="/placeholder.svg?height=100&width=100"
                     style={{
@@ -179,50 +175,49 @@ export function LandingPageComponent() {
                     }}
                     width={100}
                   />
-                  <p className="text-lg font-semibold mb-4 text-gray-900">&ldquo;{testimonial.quote}&rdquo;</p>
-                  <p className="text-sm text-gray-600">{testimonial.name}</p>
-                  <p className="text-xs text-gray-500">{testimonial.role}</p>
+                  <p className="text-lg font-semibold mb-4 text-white">&ldquo;{testimonial.quote}&rdquo;</p>
+                  <p className="text-sm text-gray-300">{testimonial.name}</p>
+                  <p className="text-xs text-gray-400">{testimonial.role}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
         
-        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-blue-600 flex items-center">
+        <section className="w-full py-24 md:py-32 lg:py-48 xl:py-64 bg-blue-900 flex items-center">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col items-center space-y-8 text-center">
               <div className="space-y-4">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white">
                   Ready to win more contracts?
                 </h2>
-                <p className="mx-auto max-w-[600px] text-blue-100 md:text-xl">
+                <p className="mx-auto max-w-[600px] text-blue-200 md:text-xl">
                   Join Skim AI today and start leveraging AI to boost your government contracting success.
                 </p>
               </div>
               <div className="w-full max-w-md mx-auto space-y-4">
                 <form className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-2">
-                <Input className="flex-1 bg-white/10 backdrop-blur-sm border-blue-400 text-white placeholder-white" placeholder="Enter your email" type="email" />
-
-                  <Button type="submit" className="w-full sm:w-auto bg-white text-blue-600 hover:bg-blue-50">Get Started</Button>
+                <Input className="flex-1 bg-white/10 backdrop-blur-sm border-blue-700 text-white placeholder-blue-300" placeholder="Enter your email" type="email" />
+                  <Button type="submit" className="w-full sm:w-auto bg-white text-blue-900 hover:bg-blue-100">Get Started</Button>
                 </form>
               </div>
             </div>
           </div>
         </section>
       </main>
-      <footer className="border-t bg-white">
+      <footer className="border-t border-gray-800 bg-[#05071A]">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row justify-between items-center py-8">
             <div className="flex items-center mb-4 sm:mb-0">
-              <FileTextIcon className="h-6 w-6 mr-2 text-blue-600" />
-              <span className="font-bold text-xl text-gray-900">Skim AI</span>
+              <FileTextIcon className="h-6 w-6 mr-2 text-blue-400" />
+              <span className="font-bold text-xl text-white">Skim AI</span>
             </div>
-            <p className="text-sm text-gray-600">© 2023 Skim AI. All rights reserved.</p>
+            <p className="text-sm text-gray-400">© 2023 Skim AI. All rights reserved.</p>
             <nav className="flex gap-6 mt-4 sm:mt-0">
-              <Link className="text-sm text-gray-600 hover:text-blue-600 transition-colors" href="#">
+              <Link className="text-sm text-gray-400 hover:text-blue-400 transition-colors" href="#">
                 Terms of Service
               </Link>
-              <Link className="text-sm text-gray-600 hover:text-blue-600 transition-colors" href="#">
+              <Link className="text-sm text-gray-400 hover:text-blue-400 transition-colors" href="#">
                 Privacy Policy
               </Link>
             </nav>
