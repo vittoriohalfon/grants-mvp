@@ -83,7 +83,13 @@ export function LandingPageComponent() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between">
             <Link className="flex items-center justify-center" href="#">
-              <FileTextIcon className="h-8 w-8 mr-2 text-blue-400" />
+              <Image
+                src="/logo.png"
+                alt="Skim AI Logo"
+                width={100}
+                height={100}
+                className="mr-2"
+              />
               <span className="font-bold text-2xl text-white">Skim AI</span>
             </Link>
             <nav className="hidden md:flex gap-6">
@@ -209,7 +215,13 @@ export function LandingPageComponent() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col sm:flex-row justify-between items-center py-8">
             <div className="flex items-center mb-4 sm:mb-0">
-              <FileTextIcon className="h-6 w-6 mr-2 text-blue-400" />
+              <Image
+                src="/logo.png"
+                alt="Skim AI Logo"
+                width={24}
+                height={24}
+                className="mr-2"
+              />
               <span className="font-bold text-xl text-white">Skim AI</span>
             </div>
             <p className="text-sm text-gray-400">© 2023 Skim AI. All rights reserved.</p>

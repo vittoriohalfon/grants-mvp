@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+    <ext:UBLExtensions xmlns="">
+        <ext:UBLExtension>
+            <ext:ExtensionContent>
+                <efext:EformsExtension>
+                    <efac:NoticeSubType>
+                        <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+                    </efac:NoticeSubType>
+                    <efac:Organizations>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cbc:WebsiteURI>https://www.hrb.ie/</cbc:WebsiteURI>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="ENG">The Health Research Board</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>67-72 Lower Mount Street,</cbc:StreetName>
+                                    <cbc:CityName>Dublin</cbc:CityName>
+                                    <cbc:PostalZone>DO2 H638</cbc:PostalZone>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">IRL</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>N/A</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>012345000</cbc:Telephone>
+                                    <cbc:ElectronicMail>dmurphy@hrb.ie</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="ENG">The High Court of Ireland</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:StreetName>Four Courts, Inns Quay, Dublin 7</cbc:StreetName>
+                                    <cbc:Department>The High Court of Ireland</cbc:Department>
+                                    <cbc:CityName>Dublin</cbc:CityName>
+                                    <cbc:PostalZone>D07 WDX8</cbc:PostalZone>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">IRL</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>The High Court of Ireland</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+353 1 8886000</cbc:Telephone>
+                                    <cbc:ElectronicMail>HighCourtCentralOffice@courts.ie</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                        <efac:Organization>
+                            <efac:Company>
+                                <cac:PartyIdentification>
+                                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                                </cac:PartyIdentification>
+                                <cac:PartyName>
+                                    <cbc:Name languageID="ENG">European Dynamics S.A.</cbc:Name>
+                                </cac:PartyName>
+                                <cac:PostalAddress>
+                                    <cbc:Department>European Dynamics S.A.</cbc:Department>
+                                    <cbc:CityName>Athens</cbc:CityName>
+                                    <cac:Country>
+                                        <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                                    </cac:Country>
+                                </cac:PostalAddress>
+                                <cac:PartyLegalEntity>
+                                    <cbc:CompanyID>002024901000</cbc:CompanyID>
+                                </cac:PartyLegalEntity>
+                                <cac:Contact>
+                                    <cbc:Telephone>+30 2108094500</cbc:Telephone>
+                                    <cbc:ElectronicMail>eproc-esender@eurodyn.com</cbc:ElectronicMail>
+                                </cac:Contact>
+                            </efac:Company>
+                        </efac:Organization>
+                    </efac:Organizations>
+                <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00112010-2024</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">38/2024</efbc:GazetteID><efbc:PublicationDate>2024-02-22Z</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+            </ext:ExtensionContent>
+        </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID xmlns="">2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID xmlns="">eforms-sdk-1.9</cbc:CustomizationID>
+    <cbc:ID xmlns="" schemeName="notice-id">2d5bac06-e879-46d5-bde1-3a606ee57cb4</cbc:ID>
+    <cbc:ContractFolderID xmlns="">70bb85ce-ae18-4d0b-bd66-ab89ff4a7be9</cbc:ContractFolderID>
+    <cbc:IssueDate xmlns="">2024-02-21+00:00</cbc:IssueDate>
+    <cbc:IssueTime xmlns="">10:12:11+00:00</cbc:IssueTime>
+    <cbc:VersionID xmlns="">01</cbc:VersionID>
+    <cbc:RegulatoryDomain xmlns="">32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode xmlns="" listName="competition">cn-standard</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode xmlns="" listName="language">ENG</cbc:NoticeLanguageCode>
+    <cac:ContractingParty xmlns="">
+        <cbc:BuyerProfileURI>https://www.hrb.ie/</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType>
+            <cbc:PartyTypeCode listName="buyer-legal-type">pub-undert</cbc:PartyTypeCode>
+        </cac:ContractingPartyType>
+        <cac:ContractingActivity>
+            <cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+            <cac:PartyIdentification>
+                <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+            <cac:ServiceProviderParty>
+                <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+                <cac:Party>
+                    <cac:PartyIdentification>
+                        <cbc:ID>ORG-0003</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:Party>
+            </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingTerms xmlns="">
+        <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+                <cbc:TendererRequirementTypeCode listName="exclusion-ground">corruption</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+        </cac:TendererQualificationRequest>
+        <cac:LotDistribution>
+            <cbc:MaximumLotsSubmittedNumeric>0</cbc:MaximumLotsSubmittedNumeric>
+        </cac:LotDistribution>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess xmlns="">
+        <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+        <cac:ProcessJustification>
+            <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+        </cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject xmlns="">
+        <cbc:Name languageID="ENG">HRB - Editing and Proofreading - 2023</cbc:Name>
+        <cbc:Description languageID="ENG">The HRB is a statutory agency under the aegis of the Department of Health. The Health Research Board (HRB) is the lead agency in Ireland supporting and funding health research. We provide funding, maintain health information systems and conduct research linked to national health priorities. Our aim is to improve people's health, build health research capacity and make a significant contribution to Ireland's knowledge economy. The HRB aims to be an independent, credible voice for research and evidence and a trusted thought leader. To achieve this, we seek to position the HRB as a trusted, objective source for health research and evidence to guide policy, inform decision-making, and influence behaviour by communicating the impact of HRB work clearly and effectively to defined audiences in order to build awareness, reinforce credibility and build trust. The purpose of this Request for Tender (RFT) is to invite tenderers to provide Editing and Proofreading services for a four (4) year contract. The Health Research Board wish to contract an editing and proofreading service to ensure that all HRB reports, no matter how complex the topic, are well written and reader friendly. We produce a wide range of publications, from in-depth evidence reviews on specific subjects, to brochures, and detailed statistical information reports as well as newsletters. Making our content accessible for the reader is essential in terms of establishing trust and advancing knowledge brokering. We need a cost effective, consistent service with a team who can cope with increased volume at various times of the year for the for the period 2024-2028. Details of the RFT are as follow: Provision of specialist copy-editing and proof-reading service: Specialist skills to take complex topics and ensure that they are reader friendly. Expertise to identify errant grammatical errors or mistakes or incorrect phrasing which could compromise the quality of a report. The content that requires editing includes • Complex Evidence Reviews (approximately 40-80,000 words) (nine each year) • Annual Reports (three each year) • Promotional material (two each year) • DrugNet newsletters (four each year) • Reports for the European Drugs Agency (12 each year) No sample available • Funding publications (one or two each year) Summary materials: Experience to distil simple messages from complex material to create useful summaries for lay readers. Mentoring: Provide one-to-one mentoring for report writers to help make their work more readable and reduce the volume of corrections or edits required. The successful supplier will be expected to edit within the HRB templates and use a HRB style and reference guide when editing HRB documents.</cbc:Description>
+        <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+        <cac:RequestedTenderTotal>
+            <ext:UBLExtensions>
+                <ext:UBLExtension>
+                    <ext:ExtensionContent>
+                        <efext:EformsExtension>
+                            <efbc:FrameworkMaximumAmount currencyID="EUR">300000</efbc:FrameworkMaximumAmount>
+                        </efext:EformsExtension>
+                    </ext:ExtensionContent>
+                </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">300000</cbc:EstimatedOverallContractAmount>
+        </cac:RequestedTenderTotal>
+        <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79821100</cbc:ItemClassificationCode>
+        </cac:MainCommodityClassification>
+    </cac:ProcurementProject>
+    <cac:ProcurementProjectLot xmlns="">
+        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+        <cac:TenderingTerms>
+            <ext:UBLExtensions>
+                <ext:UBLExtension>
+                    <ext:ExtensionContent>
+                        <efext:EformsExtension>
+                            <efac:SelectionCriteria>
+                                <cbc:CriterionTypeCode listName="selection-criterion">ef-stand</cbc:CriterionTypeCode>
+                            </efac:SelectionCriteria>
+                            <efac:SelectionCriteria>
+                                <cbc:CriterionTypeCode listName="selection-criterion">tp-abil</cbc:CriterionTypeCode>
+                            </efac:SelectionCriteria>
+                            <efac:StrategicProcurement>
+                                <efbc:ApplicableLegalBasis>false</efbc:ApplicableLegalBasis>
+                            </efac:StrategicProcurement>
+                        </efext:EformsExtension>
+                    </ext:ExtensionContent>
+                </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+            <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+            <cac:CallForTendersDocumentReference>
+                <ext:UBLExtensions>
+                    <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                            <efext:EformsExtension>
+                                <efac:NonOfficialLanguages>
+                                    <cac:Language>
+                                        <cbc:ID>ENG</cbc:ID>
+                                    </cac:Language>
+                                </efac:NonOfficialLanguages>
+                                <efac:OfficialLanguages>
+                                    <cac:Language>
+                                        <cbc:ID>ENG</cbc:ID>
+                                    </cac:Language>
+                                </efac:OfficialLanguages>
+                            </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                    </ext:UBLExtension>
+                </ext:UBLExtensions>
+                <cbc:ID>N/A</cbc:ID>
+                <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+                <cac:Attachment>
+                    <cac:ExternalReference>
+                        <cbc:URI>https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3123587</cbc:URI>
+                    </cac:ExternalReference>
+                </cac:Attachment>
+            </cac:CallForTendersDocumentReference>
+            <cac:TendererQualificationRequest>
+                <cac:SpecificTendererRequirement>
+                    <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+                </cac:SpecificTendererRequirement>
+            </cac:TendererQualificationRequest>
+            <cac:ContractExecutionRequirement>
+                <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+            </cac:ContractExecutionRequirement>
+            <cac:ContractExecutionRequirement>
+                <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+            </cac:ContractExecutionRequirement>
+            <cac:ContractExecutionRequirement>
+                <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+            </cac:ContractExecutionRequirement>
+            <cac:DocumentProviderParty>
+                <cac:PartyIdentification>
+                    <cbc:ID>ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+            </cac:DocumentProviderParty>
+            <cac:TenderRecipientParty>
+                <cbc:EndpointID>https://www.etenders.gov.ie/epps/eawarding/showTenderList.do?resourceId=3123587</cbc:EndpointID>
+                <cac:PartyIdentification>
+                    <cbc:ID>ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+            </cac:TenderRecipientParty>
+            <cac:TenderEvaluationParty>
+                <cac:PartyIdentification>
+                    <cbc:ID>ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+            </cac:TenderEvaluationParty>
+            <cac:AppealTerms>
+                <cac:AppealReceiverParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID>ORG-0002</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealReceiverParty>
+            </cac:AppealTerms>
+            <cac:Language>
+                <cbc:ID>ENG</cbc:ID>
+            </cac:Language>
+            <cac:PostAwardProcess>
+                <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+                <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+            </cac:PostAwardProcess>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+            <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+            <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+            <cac:TenderSubmissionDeadlinePeriod>
+                <cbc:EndDate>2024-03-21+00:00</cbc:EndDate>
+                <cbc:EndTime>13:00:00+00:00</cbc:EndTime>
+            </cac:TenderSubmissionDeadlinePeriod>
+            <cac:OpenTenderEvent>
+                <cbc:OccurrenceDate>2024-03-21+00:00</cbc:OccurrenceDate>
+                <cbc:OccurrenceTime>13:30:00+00:00</cbc:OccurrenceTime>
+                <cac:OccurenceLocation>
+                    <cbc:Description languageID="ENG">https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3123587</cbc:Description>
+                </cac:OccurenceLocation>
+            </cac:OpenTenderEvent>
+            <cac:AuctionTerms>
+                <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+            </cac:AuctionTerms>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+            <cac:ContractingSystem>
+                <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+            </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+            <cbc:ID>0</cbc:ID>
+            <cbc:Name languageID="ENG">HRB - Editing and Proofreading - 2023</cbc:Name>
+            <cbc:Description languageID="ENG">The HRB is a statutory agency under the aegis of the Department of Health. The Health Research Board (HRB) is the lead agency in Ireland supporting and funding health research. We provide funding, maintain health information systems and conduct research linked to national health priorities. Our aim is to improve people's health, build health research capacity and make a significant contribution to Ireland's knowledge economy. The HRB aims to be an independent, credible voice for research and evidence and a trusted thought leader. To achieve this, we seek to position the HRB as a trusted, objective source for health research and evidence to guide policy, inform decision-making, and influence behaviour by communicating the impact of HRB work clearly and effectively to defined audiences in order to build awareness, reinforce credibility and build trust. The purpose of this Request for Tender (RFT) is to invite tenderers to provide Editing and Proofreading services for a four (4) year contract. The Health Research Board wish to contract an editing and proofreading service to ensure that all HRB reports, no matter how complex the topic, are well written and reader friendly. We produce a wide range of publications, from in-depth evidence reviews on specific subjects, to brochures, and detailed statistical information reports as well as newsletters. Making our content accessible for the reader is essential in terms of establishing trust and advancing knowledge brokering. We need a cost effective, consistent service with a team who can cope with increased volume at various times of the year for the for the period 2024-2028. Details of the RFT are as follow: Provision of specialist copy-editing and proof-reading service: Specialist skills to take complex topics and ensure that they are reader friendly. Expertise to identify errant grammatical errors or mistakes or incorrect phrasing which could compromise the quality of a report. The content that requires editing includes • Complex Evidence Reviews (approximately 40-80,000 words) (nine each year) • Annual Reports (three each year) • Promotional material (two each year) • DrugNet newsletters (four each year) • Reports for the European Drugs Agency (12 each year) No sample available • Funding publications (one or two each year) Summary materials: Experience to distil simple messages from complex material to create useful summaries for lay readers. Mentoring: Provide one-to-one mentoring for report writers to help make their work more readable and reduce the volume of corrections or edits required. The successful supplier will be expected to edit within the HRB templates and use a HRB style and reference guide when editing HRB documents.</cbc:Description>
+            <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+            <cac:RequestedTenderTotal>
+                <ext:UBLExtensions>
+                    <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                            <efext:EformsExtension>
+                                <efbc:FrameworkMaximumAmount currencyID="EUR">300000</efbc:FrameworkMaximumAmount>
+                            </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                    </ext:UBLExtension>
+                </ext:UBLExtensions>
+                <cbc:EstimatedOverallContractAmount currencyID="EUR">300000</cbc:EstimatedOverallContractAmount>
+            </cac:RequestedTenderTotal>
+            <cac:MainCommodityClassification>
+                <cbc:ItemClassificationCode listName="cpv">79821100</cbc:ItemClassificationCode>
+            </cac:MainCommodityClassification>
+        </cac:ProcurementProject>
+    </cac:ProcurementProjectLot>
+</ContractNotice>

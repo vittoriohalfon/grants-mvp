@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">20</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.enterprise-ireland.com/en/</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">Enterprise Ireland</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>The Plaza, East Point Business Park</cbc:StreetName>
+                           <cbc:CityName>Dublin</cbc:CityName>
+                           <cbc:PostalZone>D3 E5R6</cbc:PostalZone>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">IRL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>Not Applicable </cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+353 14020114</cbc:Telephone>
+                           <cbc:ElectronicMail>tenders@greenville.ie</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">The High Court of Ireland</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Four Courts, Inns Quay, Dublin 7</cbc:StreetName>
+                           <cbc:Department>The High Court of Ireland</cbc:Department>
+                           <cbc:CityName>Dublin</cbc:CityName>
+                           <cbc:PostalZone>D07 WDX8</cbc:PostalZone>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">IRL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>The High Court of Ireland</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+353 1 8886000</cbc:Telephone>
+                           <cbc:ElectronicMail>HighCourtCentralOffice@courts.ie</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">European Dynamics S.A.</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:Department>European Dynamics S.A.</cbc:Department>
+                           <cbc:CityName>Athens</cbc:CityName>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>002024901000</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+30 2108094500</cbc:Telephone>
+                           <cbc:ElectronicMail>eproc-esender@eurodyn.com</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00678631-2023</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">215/2023</efbc:GazetteID><efbc:PublicationDate>2023-11-08Z</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.8</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">9808092b-c1d9-4fdf-8ea9-97fa41483df3</cbc:ID>
+   <cbc:ContractFolderID>8d9b7308-5c46-4a04-9149-1b16efc82765</cbc:ContractFolderID>
+   <cbc:IssueDate>2023-11-06+00:00</cbc:IssueDate>
+   <cbc:IssueTime>14:46:31+00:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-social</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">ENG</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://www.enterprise-ireland.com/en/</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">econ-aff</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID>ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:LotDistribution>
+         <cbc:MaximumLotsSubmittedNumeric>0</cbc:MaximumLotsSubmittedNumeric>
+      </cac:LotDistribution>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:Description languageID="ENG">See documents for details on Competitive Procedure with Negotiation </cbc:Description>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-w-call</cbc:ProcedureCode>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="ENG">2023/30 Establishment of a single-party framework for the Design and Delivery of Enterprise Ireland’s Leadership for Growth Journey and Management of Associated Leadership Supports</cbc:Name>
+      <cbc:Description languageID="ENG">Enterprise Ireland proposes to engage in a competitive process for the establishment of a framework agreement for the Design and Delivery of Enterprise Ireland’s Leadership for Growth Journey and Management of Associated Leadership Supports. Enterprise Ireland uses a Competency Framework for SMEs based on on-going research of Enterprise Ireland clients learning requirements. The SME Competency Framework sets out the key capability areas required of SMEs to achieve their growth objectives for successful scaling and internationalisation and is anchored in six (6) key business areas (internally referred to as the 6 Pillars of Business Growth): - Leadership/People - Strategy - Strategic Finance - Sales/Marketing - Operations - Innovation A recent evolution to Enterprise Ireland’s Client Engagement and Experience Model has prioritised Leadership/Readiness and Strategy as key drivers for international growth, especially in our scaling clients. Based on the success/impact of the (2006-2023) Leadership for Growth programmes and the continued client need regarding CEO ambition and strategic leadership, Enterprise Ireland is looking to continue the programme and expand support through the establishment of a new framework. A Single Party Framework will enable close partnering with a provider for both the educational services and intensive coaching required on the leadership journey to provide an immersive and impactful learning experience for participants. Modification/re-calibration of design is expected, with the biggest change to current specification being the extension of the Leadership for Growth programme to a leadership journey (henceforth referred to as Leadership for Growth Journey), co-managed by the provider, now involving: • The Leading Edge pre-programme sessions, • The Leadership for Growth programme, and • The Alumni Leaders post-programme network. And additionally, • Internal Enterprise Ireland staff training on e.g., Leadership and Strategy This journey is expected to incorporate, for example, opportunities for blended or asynchronous learning, focus on sustainability and digitalisation/AI as modern considerations for leaders, and maximising peer to peer learning and bonding, with consideration to the post-programme alumni journey, translation of learnings into Enterprise Ireland and potential cross over points with other C-suite programmes. Ex-ante evaluation to ensure business impact and the achievement of associated learning outcomes can be better managed through a single provider. Please see documentation for further details. Applicants should associate themselves with the competition in order to ask and receive queries, access the documents and submit a response. All responses should be submitted in a ZIP-FILE format.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efbc:FrameworkMaximumAmount currencyID="EUR">25000000</efbc:FrameworkMaximumAmount>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:EstimatedOverallContractAmount currencyID="EUR">25000000</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">80000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79411100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">80430000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">80521000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">80570000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">80532000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79998000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">72221000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79400000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79410000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79411000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:CriterionTypeCode listName="selection-criterion">other</cbc:CriterionTypeCode>
+                        <cbc:Description languageID="ENG">See documents for full details</cbc:Description>
+                        <cbc:CalculationExpressionCode listName="usage">used</cbc:CalculationExpressionCode>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <cbc:ID>2648652</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2648652</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.etenders.gov.ie/epps/eawarding/showTenderList.do?resourceId=2648652</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:AppealTerms>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>ENG</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2023-12-06+00:00</cbc:EndDate>
+            <cbc:EndTime>12:00:00+00:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cac:OccurenceLocation>
+               <cbc:Description languageID="ENG">https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2648652</cbc:Description>
+            </cac:OccurenceLocation>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID>0</cbc:ID>
+         <cbc:Name languageID="ENG">2023/30 Establishment of a single-party framework for the Design and Delivery of Enterprise Ireland’s Leadership for Growth Journey and Management of Associated Leadership Supports</cbc:Name>
+         <cbc:Description languageID="ENG">Enterprise Ireland proposes to engage in a competitive process for the establishment of a framework agreement for the Design and Delivery of Enterprise Ireland’s Leadership for Growth Journey and Management of Associated Leadership Supports. Enterprise Ireland uses a Competency Framework for SMEs based on on-going research of Enterprise Ireland clients learning requirements. The SME Competency Framework sets out the key capability areas required of SMEs to achieve their growth objectives for successful scaling and internationalisation and is anchored in six (6) key business areas (internally referred to as the 6 Pillars of Business Growth): - Leadership/People - Strategy - Strategic Finance - Sales/Marketing - Operations - Innovation A recent evolution to Enterprise Ireland’s Client Engagement and Experience Model has prioritised Leadership/Readiness and Strategy as key drivers for international growth, especially in our scaling clients. Based on the success/impact of the (2006-2023) Leadership for Growth programmes and the continued client need regarding CEO ambition and strategic leadership, Enterprise Ireland is looking to continue the programme and expand support through the establishment of a new framework. A Single Party Framework will enable close partnering with a provider for both the educational services and intensive coaching required on the leadership journey to provide an immersive and impactful learning experience for participants. Modification/re-calibration of design is expected, with the biggest change to current specification being the extension of the Leadership for Growth programme to a leadership journey (henceforth referred to as Leadership for Growth Journey), co-managed by the provider, now involving: • The Leading Edge pre-programme sessions, • The Leadership for Growth programme, and • The Alumni Leaders post-programme network. And additionally, • Internal Enterprise Ireland staff training on e.g., Leadership and Strategy This journey is expected to incorporate, for example, opportunities for blended or asynchronous learning, focus on sustainability and digitalisation/AI as modern considerations for leaders, and maximising peer to peer learning and bonding, with consideration to the post-programme alumni journey, translation of learnings into Enterprise Ireland and potential cross over points with other C-suite programmes. Ex-ante evaluation to ensure business impact and the achievement of associated learning outcomes can be better managed through a single provider. Please see documentation for further details. Applicants should associate themselves with the competition in order to ask and receive queries, access the documents and submit a response. All responses should be submitted in a ZIP-FILE format.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="ENG">Please consult the associated documentation, which contains full instructions regarding the submission of PQQ Responses and is available to download from www.etenders.gov.ie using eTenders Resource ID – 2648652
+(1)	Interested parties must associate their organisation with this competition on the eTenders web site (www.etenders.gov.ie) in order to be included on the mailing list for clarifications and to upload tender responses.   To do this you must do the following:  Log-in to the eTenders portal; Locate the competition using the Advanced Search by searching under the Contracting Authority or Resource ID. Click on the hyperlink for the competition which will bring you to the CfT Workspace.  In the Show CfT Menu for the competition click on the “Expression of Interest in the drop-down menu. Complete the Association with the CfT tab. This will then provide you with a link to Tender under the Show CfT Menu where you can prepare your submission. 
+(2)	When finalising your PQQ submission please upload your final response as a ZIP file as individual documents may lose their titles if uploaded individually.   Also ensure that you receive a message under the status header called Submitted, as the percentage tab does not necessarily imply you have successfully submitted your response. 
+(3)	There is a maximum upload limit of 250MB per file and 500MB per submission. 
+(4)	Suppliers should note the following when making their submission suppliers must ensure that they give themselves sufficient time to upload &amp; submit all required documentation before the submission deadline. Suppliers should consider the fact that upload speeds vary and that the new eTenders system operates in a different manner to the previous platform operated by EU-Supply. The submit button will be disable automatically upon the expiration of the response deadline. 
+(5)	If you experience difficulty when uploading documents, please contact the eTenders Support Desk for technical assistance. Email irish-eproc-helpdesk@eurodym.com or Telephone: +353(0)818 001459 (09:00 – 17:00 hours).
+(6)	Tenders submitted by any other means (including but not limited to email, post, messaging system on etenders or hand delivery) will not be accepted. 
+(7)	All information relating to attachments, including clarifications and changes, will be published on the Irish Government Procurement Opportunities Portal (www.etenders.gov.ie) only. Registration is free of charge. The contracting authority will not accept responsibility for information relayed (or not relayed) via third parties.
+(8)	All queries regarding this tender requirement or process must be submitted through the Irish Government Procurement Opportunities Portal www.etenders.gov.ie as a specific question. Responses will be circulated to those tenderers that have registered an interest in this notice on www.etenders.gov.ie.   The details of the person making a query will not be disclosed when circulating the response
+(9)	The contracting authority will not be responsible for any costs, charges or expenses incurred by candidates or tenderers. Contract award will be subject to the approval of the competent authorities.
+(10)	Without prejudice to the principle of equal treatment, the contracting authority is not obliged to engage in a clarification process in respect of the procurement documents with missing or incomplete information. Therefore, respondents are advised to ensure that they return completed documentation in order to avoid the risk of elimination from the competition.
+(11)	Where applicable, please note in relation to all documents, that where reference is made to a particular standard, make, source, process, trademark, type, or patent, that this is not to be regarded as a de facto requirement. In all such cases it should be understood that such indications are to be treated strictly and solely for reference purposes only, to which the words "or equivalent" will always be appended.
+(12)	At its absolute discretion, the contracting authority may elect to terminate this procurement process, the framework agreement or any contract awarded under the framework agreement at any time.
+</cbc:Note>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:RequestedTenderTotal>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efbc:FrameworkMaximumAmount currencyID="EUR">25000000</efbc:FrameworkMaximumAmount>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">25000000</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80000000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79411100</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80430000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80521000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80570000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80532000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79998000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">72221000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79400000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79410000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">79411000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

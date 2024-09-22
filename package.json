@@ -1,0 +1,12 @@
+{
+    "name": "contracts-poc",
+    "private": true,
+    "workspaces": [
+        "grants-mvp",
+        "ted-data"
+    ],
+    "scripts": {
+      "start:grants": "cd grants-mvp && npm run dev",
+      "start:ted": "source .venv/bin/activate && cd ted-data && python main.py"
+    }
+}
