@@ -9,6 +9,9 @@ __pycache__/
 venv/
 env/
 **/venv*/
+*/ted_env/*
+
+ted-data/contracts_xml/
 
 # Environment variables
 .env
@@ -36,5 +39,9 @@ yarn-error.log*
 # Logs
 *.log
 
+# ALL XML FILES
 *.xml
+
+# ALL JSON FILES
 processed_contracts.json
+processed_files_hashes.json

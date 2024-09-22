@@ -3,6 +3,7 @@ import json
 import logging
 from pathlib import Path
 import sys
+import hashlib
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -97,28 +98,66 @@ def process_xml_file(file_path):
     except Exception as e:
         logging.error(f"Unexpected error processing file {file_path}: {e}")
 
+def calculate_file_hash(file_path):
+    """Calculate the MD5 hash of a file."""
+    hash_md5 = hashlib.md5()
+    with open(file_path, "rb") as f:
+        for chunk in iter(lambda: f.read(4096), b""):
+            hash_md5.update(chunk)
+    return hash_md5.hexdigest()
+
 def main():
     # Get the directory of the script
     script_dir = Path(__file__).parent.resolve()
-    input_directory = script_dir / "contracts_xml"  # Change to contracts_xml folder
+    input_directory = script_dir / "contracts_xml"
     output_file = script_dir / "processed_contracts.json"
+    hash_file = script_dir / "processed_files_hashes.json"
 
     all_contracts = []
+    processed_hashes = {}
+
+    # Load existing processed file hashes
+    if hash_file.exists():
+        with open(hash_file, 'r') as f:
+            processed_hashes = json.load(f)
+
+    new_processed = 0
 
     # Process all XML files in the contracts_xml directory
     for xml_file in input_directory.glob("*.xml"):
+        file_hash = calculate_file_hash(xml_file)
+        
+        if file_hash in processed_hashes:
+            logging.info(f"Skipping already processed file: {xml_file.name}")
+            continue
+
         logging.info(f"Processing file: {xml_file}")
         contract_info = process_xml_file(xml_file)
         if contract_info:
             all_contracts.append(contract_info)
+            processed_hashes[file_hash] = xml_file.name
+            new_processed += 1
 
-    # Ensure the output directory exists
-    output_file.parent.mkdir(parents=True, exist_ok=True)
+    if new_processed > 0:
+        # Ensure the output directory exists
+        output_file.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(all_contracts, f, ensure_ascii=False, indent=2)
+        # Load existing processed contracts if the file exists
+        if output_file.exists():
+            with open(output_file, 'r', encoding='utf-8') as f:
+                existing_contracts = json.load(f)
+            all_contracts = existing_contracts + all_contracts
 
-    logging.info(f"Processed {len(all_contracts)} contracts. Output saved to {output_file}")
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(all_contracts, f, ensure_ascii=False, indent=2)
+
+        # Save updated hash file
+        with open(hash_file, 'w') as f:
+            json.dump(processed_hashes, f, indent=2)
+
+        logging.info(f"Processed {new_processed} new contracts. Total contracts: {len(all_contracts)}. Output saved to {output_file}")
+    else:
+        logging.info("No new contracts to process.")
 
 if __name__ == "__main__":
     main()

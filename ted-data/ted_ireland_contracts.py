@@ -3,6 +3,10 @@ import json
 from datetime import datetime
 from pathlib import Path
 import subprocess
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # TED API endpoint
 API_URL = "https://api.ted.europa.eu/v3/notices/search"
@@ -58,13 +62,25 @@ def save_to_json(data, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def download_xml_file(xml_url, filepath):
+    try:
+        response = requests.get(xml_url)
+        response.raise_for_status()
+        with open(filepath, 'wb') as file:
+            file.write(response.content)
+        logging.info(f"Downloaded: {filepath.name}")
+        return True
+    except requests.RequestException as e:
+        logging.error(f"Failed to download {filepath.name}: {e}")
+        return False
+
 def main():
     all_notices = []
     page = 1
     total_retrieved = 0
 
     while True:
-        print(f"Retrieving page {page}...")
+        logging.info(f"Retrieving page {page}...")
         result = search_ted_contracts(page=page)
         
         if not result or 'notices' not in result:
@@ -74,7 +90,7 @@ def main():
         all_notices.extend(notices)
         total_retrieved += len(notices)
         
-        print(f"Retrieved {len(notices)} notices. Total: {total_retrieved}")
+        logging.info(f"Retrieved {len(notices)} notices. Total: {total_retrieved}")
 
         if len(notices) < 250 or total_retrieved >= 15000:
             break
@@ -84,7 +100,7 @@ def main():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = f"TED_IRELAND_CONTRACTS_{timestamp}.json"
     save_to_json(all_notices, filename)
-    print(f"Saved {len(all_notices)} notices to {filename}")
+    logging.info(f"Saved {len(all_notices)} notices to {filename}")
 
     # Load the JSON file containing contract information
     with open(filename, 'r') as file:
@@ -95,6 +111,7 @@ def main():
     xml_dir.mkdir(exist_ok=True)
 
     # Download XML files
+    new_downloads = 0
     for contract in contracts:
         xml_url = contract['links']['xml']['MUL']
         publication_number = contract['publication-number']
@@ -103,19 +120,25 @@ def main():
         filename = f"{publication_number}.xml"
         filepath = xml_dir / filename
         
-        # Download the XML file
-        response = requests.get(xml_url)
-        if response.status_code == 200:
-            with open(filepath, 'wb') as file:
-                file.write(response.content)
-            print(f"Downloaded: {filename}")
-        else:
-            print(f"Failed to download: {filename}")
+        if filepath.exists():
+            logging.info(f"Skipping existing file: {filename}")
+            continue
+
+        if download_xml_file(xml_url, filepath):
+            new_downloads += 1
+
+    logging.info(f"Downloaded {new_downloads} new XML files.")
 
     # After downloading all XML files, run process_xml.py
-    subprocess.run(["python", "process_xml.py"])
-
-    print("XML processing complete. Check processed_contracts.json for results.")
+    if new_downloads > 0:
+        logging.info("Running process_xml.py...")
+        try:
+            subprocess.run(["python", "process_xml.py"], check=True)
+            logging.info("XML processing complete. Check processed_contracts.json for results.")
+        except subprocess.CalledProcessError as e:
+            logging.error(f"Error running process_xml.py: {e}")
+    else:
+        logging.info("No new XML files to process. Skipping process_xml.py")
 
 if __name__ == "__main__":
     main()
