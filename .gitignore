@@ -35,3 +35,6 @@ yarn-error.log*
 
 # Logs
 *.log
+
+*.xml
+processed_contracts.json
