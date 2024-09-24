@@ -21,6 +21,11 @@ bun dev
 ```
  s
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Before pushing to Vercel, run the following commands to check for linting errors:
+```bash
+npm run build
+npm run lint
+```
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
