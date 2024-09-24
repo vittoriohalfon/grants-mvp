@@ -6,34 +6,40 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
-import { LoadingComponent } from './loading-component'
+import { LoadingComponent } from './loading'
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
+import ReactMarkdown from 'react-markdown'
 
 interface DataField {
-  label: string;
+  label: React.ReactNode;
   key: string;
   type: 'input' | 'textarea';
+  promptIndex: number;
 }
 
 const dataStructure: { [key: string]: DataField[] } = {
+  'Company Details': [
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Company Name</span>, key: 'company_name', type: 'input', promptIndex: 0 },
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Contact Email</span>, key: 'contact_email', type: 'input', promptIndex: -1 },
+  ],
   'Company Information': [
-    { label: 'Company Name', key: 'company_name', type: 'input' },
-    { label: 'Contact Email', key: 'contact_email', type: 'input' },
-    { label: 'Industry Sector', key: 'industry_sector', type: 'input' },
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Industry Sector</span>, key: 'industry_sector', type: 'textarea', promptIndex: 1 },
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Company Overview</span>, key: 'company_overview', type: 'textarea', promptIndex: 2 },
   ],
-  'Business Description': [
-    { label: 'Company Overview', key: 'company_overview', type: 'textarea' },
-    { label: 'Core Products/Services', key: 'core_products_or_services', type: 'textarea' },
-    { label: 'Unique Selling Proposition (USP)', key: 'unique_selling_proposition', type: 'textarea' },
-    { label: 'Company Vision/Mission', key: 'company_vision', type: 'textarea' },
+  'Products and Services': [
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Core Products/Services</span>, key: 'core_products_or_services', type: 'textarea', promptIndex: 3 },
   ],
-  'Project or Innovation Information': [
-    { label: 'Research & Development Activities', key: 'research_development_activities', type: 'textarea' },
+  'Unique Selling Proposition': [
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Unique Selling Proposition</span>, key: 'unique_selling_proposition', type: 'textarea', promptIndex: 4 },
   ],
-  'Target Markets and Clients': [
-    { label: 'Target Audience/Market', key: 'target_audience', type: 'textarea' },
-    { label: 'Key Clients or Partners', key: 'key_clients_or_partners', type: 'textarea' },
-    { label: 'Market Reach', key: 'market_reach', type: 'input' },
+  'Research and Development': [
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Research & Development Activities</span>, key: 'research_development_activities', type: 'textarea', promptIndex: 5 },
+  ],
+  'Target Audience': [
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Target Audience</span>, key: 'target_audience', type: 'textarea', promptIndex: 6 },
+  ],
+  'Key Clients and Partners': [
+    { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Key Clients/Partners</span>, key: 'key_clients_partners', type: 'textarea', promptIndex: 7 },
   ],
 }
 
@@ -56,7 +62,18 @@ export function CompanyProfileComponent() {
         const response = await fetch(`/api/get-results?requestId=${requestId}`)
         if (response.ok) {
           const resultData = await response.json()
-          setData(resultData)
+          const formattedData: Record<string, any> = {
+            domain: resultData.domain,
+            contact_email: '',
+            research_development_activities: '',
+          }
+          resultData.results.forEach((result: any, index: number) => {
+            const key = Object.values(dataStructure).flat().find(field => field.promptIndex === index)?.key
+            if (key) {
+              formattedData[key] = result.answer
+            }
+          })
+          setData(formattedData)
           setLoading(false)
         } else if (response.status === 404) {
           setTimeout(fetchData, 1500)
@@ -115,9 +132,6 @@ export function CompanyProfileComponent() {
     if (!data?.contact_email) {
       newErrors.contact_email = "Contact Email is required";
     }
-    if (!data?.research_development_activities) {
-      newErrors.research_development_activities = "Research & Development Activities is required";
-    }
 
     setErrors(newErrors);
     return Object.keys(newErrors).length === 0;
@@ -166,7 +180,7 @@ export function CompanyProfileComponent() {
                 <div key={key} className="mb-4">
                   <label className="block text-sm font-medium text-gray-300 mb-1">
                     {label}
-                    {(key === 'contact_email' || key === 'research_development_activities') && (
+                    {key === 'contact_email' && (
                       <span className="text-red-400 ml-1">*</span>
                     )}
                   </label>
@@ -198,7 +212,9 @@ export function CompanyProfileComponent() {
                     </div>
                   ) : (
                     <div className="flex justify-between items-start">
-                      <p className="text-gray-200 whitespace-pre-wrap">{data?.[key]}</p>
+                      <ReactMarkdown className="text-gray-200 whitespace-pre-wrap">
+                        {data?.[key] || ''}
+                      </ReactMarkdown>
                       <Button onClick={() => handleEdit(key)} variant="ghost" size="sm" className="mt-1 text-blue-400 hover:text-blue-300">
                         <Edit2 className="h-4 w-4 mr-2" />
                         Edit
@@ -225,7 +241,7 @@ export function CompanyProfileComponent() {
               </div>
             </TooltipTrigger>
             <TooltipContent className="bg-[#1C2147] text-white border-gray-600">
-              <p>Please fill out the required fields: Contact Email and Research & Development Activities</p>
+              <p>Please fill out the required field: Contact Email</p>
             </TooltipContent>
           </Tooltip>
         </TooltipProvider>

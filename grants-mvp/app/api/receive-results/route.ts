@@ -23,16 +23,32 @@ export async function POST(req: Request) {
     const body = await req.json();
     const requestId = req.headers.get('x-request-id');
 
-    // Print the entire request object for debugging
-    console.log('Received request object:', req);
-
     console.log('Received request with headers:', req.headers);
     console.log('Request ID:', requestId);
-    console.log('Received body from n8n:', JSON.stringify(body, null, 2));
+    console.log('Received body:', JSON.stringify(body, null, 2));
 
     if (!requestId) {
       throw new Error('Missing x-request-id header');
     }
+
+    // Validate the presence of expected fields
+    if (!body.results || !Array.isArray(body.results) || body.results.length === 0) {
+      throw new Error('Missing or invalid results field');
+    }
+
+    if (!body.domain || typeof body.domain !== 'string') {
+      throw new Error('Missing or invalid domain field');
+    }
+
+    // Validate the structure of each result in the results array
+    body.results.forEach((result: any, index: number) => {
+      if (!result.prompt || typeof result.prompt !== 'string') {
+        throw new Error(`Missing or invalid prompt in result at index ${index}`);
+      }
+      if (!result.answer || typeof result.answer !== 'string') {
+        throw new Error(`Missing or invalid answer in result at index ${index}`);
+      }
+    });
 
     // Store the entire JSON object in Redis
     await redis.set(`result:${requestId}`, JSON.stringify(body), { ex: 3600 }); // Expire after 1 hour
@@ -45,10 +61,10 @@ export async function POST(req: Request) {
     );
 
   } catch (error) {
-    console.error('Error receiving n8n results:', error);
+    console.error('Error receiving results:', error);
     return NextResponse.json(
-      { error: 'Failed to receive n8n results', details: error instanceof Error ? error.message : 'An unknown error occurred' },
-      { status: 500, headers: { 'Access-Control-Allow-Origin': '*' } }
+      { error: 'Failed to receive results', details: error instanceof Error ? error.message : 'An unknown error occurred' },
+      { status: 400, headers: { 'Access-Control-Allow-Origin': '*' } }
     );
   }
 }

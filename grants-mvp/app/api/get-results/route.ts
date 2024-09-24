@@ -30,12 +30,18 @@ export async function GET(req: Request) {
         if (result) {
             // Parse the result only if it's a string
             const parsedResult = typeof result === 'string' ? JSON.parse(result) : result;
+            
+            // Validate the structure of the retrieved data
+            if (!parsedResult.results || !Array.isArray(parsedResult.results) || !parsedResult.domain) {
+                throw new Error('Invalid data structure in stored results');
+            }
+
             return NextResponse.json(parsedResult);
         } else {
             return NextResponse.json({ message: 'Results not found' }, { status: 404 });
         }
     } catch (error) {
         console.error('Error fetching or parsing results:', error);
-        return NextResponse.json({ error: 'Failed to fetch or parse results' }, { status: 500 });
+        return NextResponse.json({ error: 'Failed to fetch or parse results', details: error instanceof Error ? error.message : 'An unknown error occurred' }, { status: 500 });
     }
 }

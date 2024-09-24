@@ -54,25 +54,16 @@ export function LandingPageComponent() {
     }
 
     try {
-      const response = await fetch('/api/trigger-workflow', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ domain: processedUrl }),
-      })
+      // Store the URL in localStorage before navigating
+      localStorage.setItem('processingUrl', processedUrl)
 
-      if (!response.ok) {
-        throw new Error('Failed to process data')
-      }
+      // Navigate to the loading page
+      router.push('/loading')
 
-      const { requestId } = await response.json()
-      localStorage.setItem('requestId', requestId)
-      router.push('/company-profile')
+      // The API call will now be handled in the loading component
     } catch (error) {
-      console.error('Error triggering workflow:', error)
-      alert('An error occurred while processing your request. Please try again.')
-    } finally {
+      console.error('Error:', error)
+      setError('An error occurred. Please try again.')
       setIsLoading(false)
     }
   }
