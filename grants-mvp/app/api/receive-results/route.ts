@@ -6,6 +6,16 @@ const redis = new Redis({
   token: process.env.UPSTASH_REDIS_REST_TOKEN,
 });
 
+interface Result {
+  prompt: string;
+  answer: string;
+}
+
+interface RequestBody {
+  domain: string;
+  results: Result[];
+}
+
 export async function POST(req: Request) {
   try {
     // Add CORS headers
@@ -20,7 +30,7 @@ export async function POST(req: Request) {
       return new NextResponse(null, { headers });
     }
 
-    const body = await req.json();
+    const body: RequestBody = await req.json();
     const requestId = req.headers.get('x-request-id');
 
     console.log('Received request with headers:', req.headers);
@@ -41,7 +51,7 @@ export async function POST(req: Request) {
     }
 
     // Validate the structure of each result in the results array
-    body.results.forEach((result: any, index: number) => {
+    body.results.forEach((result: Result, index: number) => {
       if (!result.prompt || typeof result.prompt !== 'string') {
         throw new Error(`Missing or invalid prompt in result at index ${index}`);
       }

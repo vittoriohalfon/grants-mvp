@@ -17,6 +17,16 @@ interface DataField {
   promptIndex: number;
 }
 
+interface Result {
+  prompt: string;
+  answer: string;
+}
+
+interface ResultData {
+  domain: string;
+  results: Result[];
+}
+
 const dataStructure: { [key: string]: DataField[] } = {
   'Company Details': [
     { label: <span className="title-emphasis" style={{ textDecoration: 'underline' }}>Company Name</span>, key: 'company_name', type: 'input', promptIndex: 0 },
@@ -45,7 +55,7 @@ const dataStructure: { [key: string]: DataField[] } = {
 
 export function CompanyProfileComponent() {
   const [loading, setLoading] = useState(true)
-  const [data, setData] = useState<Record<string, any> | null>(null)
+  const [data, setData] = useState<Record<string, string> | null>(null)
   const [editMode, setEditMode] = useState<Record<string, boolean>>({})
   const calendlyScriptLoaded = useRef(false);
   const [errors, setErrors] = useState<Record<string, string>>({});
@@ -61,13 +71,13 @@ export function CompanyProfileComponent() {
       try {
         const response = await fetch(`/api/get-results?requestId=${requestId}`)
         if (response.ok) {
-          const resultData = await response.json()
-          const formattedData: Record<string, any> = {
+          const resultData: ResultData = await response.json()
+          const formattedData: Record<string, string> = {
             domain: resultData.domain,
             contact_email: '',
             research_development_activities: '',
           }
-          resultData.results.forEach((result: any, index: number) => {
+          resultData.results.forEach((result: Result, index: number) => {
             const key = Object.values(dataStructure).flat().find(field => field.promptIndex === index)?.key
             if (key) {
               formattedData[key] = result.answer
