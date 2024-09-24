@@ -39,7 +39,7 @@ const dataStructure: { [key: string]: DataField[] } = {
 
 export function CompanyProfileComponent() {
   const [loading, setLoading] = useState(true)
-  const [data, setData] = useState<Record<string, string> | null>(null)
+  const [data, setData] = useState<Record<string, any> | null>(null)
   const [editMode, setEditMode] = useState<Record<string, boolean>>({})
   const calendlyScriptLoaded = useRef(false);
   const [errors, setErrors] = useState<Record<string, string>>({});

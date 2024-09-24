@@ -23,6 +23,9 @@ export async function POST(req: Request) {
     const body = await req.json();
     const requestId = req.headers.get('x-request-id');
 
+    // Print the entire request object for debugging
+    console.log('Received request object:', req);
+
     console.log('Received request with headers:', req.headers);
     console.log('Request ID:', requestId);
     console.log('Received body from n8n:', JSON.stringify(body, null, 2));
@@ -31,6 +34,7 @@ export async function POST(req: Request) {
       throw new Error('Missing x-request-id header');
     }
 
+    // Store the entire JSON object in Redis
     await redis.set(`result:${requestId}`, JSON.stringify(body), { ex: 3600 }); // Expire after 1 hour
 
     console.log('Data stored in Redis with key:', `result:${requestId}`);

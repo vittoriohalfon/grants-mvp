@@ -10,40 +10,67 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 def extract_text(element, xpath, default=""):
     try:
-        return element.find(xpath, namespaces=namespaces).text
+        result = element.find(xpath, namespaces=namespaces)
+        if result is not None:
+            if result.text:
+                return result.text.strip()
+            elif result.attrib:
+                # If the element has attributes but no text, return the first attribute value
+                return next(iter(result.attrib.values())).strip()
+        logging.warning(f"Unable to find text for {xpath}")
+        return default
     except AttributeError:
         logging.warning(f"Unable to find {xpath}")
+        return default
+    except Exception as e:
+        logging.warning(f"Error extracting text for {xpath}: {e}")
         return default
 
 def extract_contract_info(root):
     contract_info = {
         "buyer": {
-            "official_name": extract_text(root, ".//cac:PartyName/cbc:Name"),
-            "email": extract_text(root, ".//cac:Contact/cbc:ElectronicMail"),
+            "official_name": extract_text(root, ".//efac:Organization/efac:Company/cac:PartyName/cbc:Name"),
+            "email": extract_text(root, ".//efac:Organization/efac:Company/cac:Contact/cbc:ElectronicMail"),
             "legal_type": extract_text(root, ".//cbc:PartyTypeCode"),
-            "activity": extract_text(root, ".//cbc:ActivityTypeCode")
+            "activity": extract_text(root, ".//cbc:ActivityTypeCode"),
+            "address": {
+                "street": extract_text(root, ".//efac:Organization/efac:Company/cac:PostalAddress/cbc:StreetName"),
+                "city": extract_text(root, ".//efac:Organization/efac:Company/cac:PostalAddress/cbc:CityName"),
+                "postal_code": extract_text(root, ".//efac:Organization/efac:Company/cac:PostalAddress/cbc:PostalZone"),
+                "country": extract_text(root, ".//efac:Organization/efac:Company/cac:PostalAddress/cac:Country/cbc:IdentificationCode")
+            },
+            "website": extract_text(root, ".//cbc:BuyerProfileURI")
         },
         "procedure": {
             "title": extract_text(root, ".//cac:ProcurementProject/cbc:Name"),
             "description": extract_text(root, ".//cac:ProcurementProject/cbc:Description"),
             "identifier": extract_text(root, ".//cbc:ID[@schemeName='notice-id']"),
             "type": extract_text(root, ".//cbc:ProcedureCode"),
-            "accelerated": extract_text(root, ".//cbc:ProcessReasonCode[@listName='accelerated-procedure']")
+            "accelerated": extract_text(root, ".//cbc:ProcessReasonCode[@listName='accelerated-procedure']"),
+            "deadline_date": extract_text(root, ".//cac:TenderSubmissionDeadlinePeriod/cbc:EndDate"),
+            "deadline_time": extract_text(root, ".//cac:TenderSubmissionDeadlinePeriod/cbc:EndTime")
         },
         "purpose": {
             "main_nature": extract_text(root, ".//cbc:ProcurementTypeCode"),
             "main_classification": extract_text(root, ".//cac:MainCommodityClassification/cbc:ItemClassificationCode"),
-            "place_of_performance": ""  # Not found in the provided XML
+            "additional_classifications": [code.text for code in root.findall(".//cac:AdditionalCommodityClassification/cbc:ItemClassificationCode", namespaces)],
+            "place_of_performance": extract_text(root, ".//cac:RealizedLocation/cbc:Description")
         },
         "value": {
             "estimated_value": extract_text(root, ".//cbc:EstimatedOverallContractAmount"),
+            "currency": extract_text(root, ".//cbc:EstimatedOverallContractAmount/@currencyID"),
             "maximum_value": extract_text(root, ".//efbc:FrameworkMaximumAmount")
         },
         "general_information": {
-            "terms_of_submission": extract_text(root, ".//cbc:SubmissionMethodCode")
+            "terms_of_submission": extract_text(root, ".//cbc:SubmissionMethodCode"),
+            "variant_submissions": extract_text(root, ".//cbc:VariantConstraintCode"),
+            "electronic_invoicing": extract_text(root, ".//cbc:ExecutionRequirementCode[@listName='einvoicing']"),
+            "electronic_ordering": extract_text(root, ".//cbc:ElectronicOrderUsageIndicator"),
+            "electronic_payment": extract_text(root, ".//cbc:ElectronicPaymentUsageIndicator")
         },
         "lots": [],
-        "useful_links": []
+        "useful_links": [],
+        "pdf_link": extract_text(root, ".//cac:CallForTendersDocumentReference/cac:Attachment/cac:ExternalReference/cbc:URI")
     }
 
     # Extract useful links
@@ -61,15 +88,21 @@ def extract_lot_info(lot):
         "description": extract_text(lot, ".//cac:ProcurementProject/cbc:Description"),
         "main_nature": extract_text(lot, ".//cac:ProcurementProject/cbc:ProcurementTypeCode"),
         "main_classification": extract_text(lot, ".//cac:MainCommodityClassification/cbc:ItemClassificationCode"),
-        "place_of_performance": "",  # Not found in the provided XML
-        "country": "",  # Not found in the provided XML
+        "additional_classifications": [code.text for code in lot.findall(".//cac:AdditionalCommodityClassification/cbc:ItemClassificationCode", namespaces)],
+        "place_of_performance": extract_text(lot, ".//cac:RealizedLocation/cbc:Description"),
+        "country": extract_text(lot, ".//cac:RealizedLocation/cac:Address/cac:Country/cbc:IdentificationCode"),
         "value": {
             "estimated_value": extract_text(lot, ".//cbc:EstimatedOverallContractAmount"),
+            "currency": extract_text(lot, ".//cbc:EstimatedOverallContractAmount/@currencyID"),
             "maximum_value": extract_text(lot, ".//efbc:FrameworkMaximumAmount")
         },
         "general_information": {
             "reserved_participation": extract_text(lot, ".//cbc:TendererRequirementTypeCode[@listName='reserved-procurement']"),
-            "selection_criteria": extract_text(lot, ".//cbc:CriterionTypeCode[@listName='selection-criterion']")
+            "selection_criteria": extract_text(lot, ".//cbc:CriterionTypeCode[@listName='selection-criterion']"),
+            "variant_submissions": extract_text(lot, ".//cbc:VariantConstraintCode"),
+            "electronic_invoicing": extract_text(lot, ".//cbc:ExecutionRequirementCode[@listName='einvoicing']"),
+            "electronic_ordering": extract_text(lot, ".//cbc:ElectronicOrderUsageIndicator"),
+            "electronic_payment": extract_text(lot, ".//cbc:ElectronicPaymentUsageIndicator")
         }
     }
     return lot_info
@@ -84,6 +117,7 @@ def process_xml_file(file_path):
         namespaces['cac'] = 'urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2'
         namespaces['cbc'] = 'urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2'
         namespaces['efbc'] = 'http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1'
+        namespaces['efac'] = 'http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1'
 
         contract_info = extract_contract_info(root)
 
@@ -96,7 +130,7 @@ def process_xml_file(file_path):
     except ET.ParseError as e:
         logging.error(f"Error parsing XML file {file_path}: {e}")
     except Exception as e:
-        logging.error(f"Unexpected error processing file {file_path}: {e}")
+        logging.error(f"Unexpected error processing file {file_path}: {str(e)}")
 
 def calculate_file_hash(file_path):
     """Calculate the MD5 hash of a file."""
@@ -127,6 +161,7 @@ def main():
     for xml_file in input_directory.glob("*.xml"):
         file_hash = calculate_file_hash(xml_file)
         
+        # Skip files that have already been processed
         if file_hash in processed_hashes:
             logging.info(f"Skipping already processed file: {xml_file.name}")
             continue
@@ -142,12 +177,7 @@ def main():
         # Ensure the output directory exists
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
-        # Load existing processed contracts if the file exists
-        if output_file.exists():
-            with open(output_file, 'r', encoding='utf-8') as f:
-                existing_contracts = json.load(f)
-            all_contracts = existing_contracts + all_contracts
-
+        # Always overwrite the existing processed contracts
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(all_contracts, f, ensure_ascii=False, indent=2)
 
@@ -155,9 +185,9 @@ def main():
         with open(hash_file, 'w') as f:
             json.dump(processed_hashes, f, indent=2)
 
-        logging.info(f"Processed {new_processed} new contracts. Total contracts: {len(all_contracts)}. Output saved to {output_file}")
+        logging.info(f"Processed {new_processed} contracts. Total contracts: {len(all_contracts)}. Output saved to {output_file}")
     else:
-        logging.info("No new contracts to process.")
+        logging.info("No contracts processed.")
 
 if __name__ == "__main__":
     main()

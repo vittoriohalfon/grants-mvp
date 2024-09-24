@@ -45,3 +45,4 @@ yarn-error.log*
 # ALL JSON FILES
 processed_contracts.json
 processed_files_hashes.json
+TED_IRELAND_CONTRACTS_*.json

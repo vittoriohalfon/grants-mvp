@@ -8,6 +8,7 @@ import os
 from typing import List, Dict, Any, Optional
 from dotenv import load_dotenv
 from tenacity import retry, stop_after_attempt, wait_exponential
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Load environment variables
 load_dotenv()
@@ -24,6 +25,7 @@ class Config:
     MAX_RETRIES: int = 3
     RATE_LIMIT_DELAY: float = 1.0  # seconds
     MAX_NOTICES: int = 15000
+    THREADS: int = 5  # Number of threads for concurrent downloads
 
 # Load API key from environment variable
 API_KEY: str = os.getenv("TED_API_KEY", "")
@@ -97,6 +99,29 @@ def download_xml_file(xml_url: str, filepath: Path) -> bool:
     logger.info(f"Downloaded: {filepath.name}")
     return True
 
+def download_xml_files(contracts: List[Dict[str, Any]], xml_dir: Path) -> int:
+    """
+    Download XML files concurrently.
+    
+    :param contracts: List of contract notices
+    :param xml_dir: Directory to save the XML files
+    :return: Number of new downloads
+    """
+    new_downloads = 0
+    with ThreadPoolExecutor(max_workers=Config.THREADS) as executor:
+        future_to_contract = {
+            executor.submit(download_xml_file, contract['links']['xml']['MUL'], xml_dir / f"{contract['publication-number']}.xml"): contract
+            for contract in contracts if not (xml_dir / f"{contract['publication-number']}.xml").exists()
+        }
+        for future in as_completed(future_to_contract):
+            contract = future_to_contract[future]
+            try:
+                if future.result():
+                    new_downloads += 1
+            except Exception as e:
+                logger.error(f"Error downloading {contract['publication-number']}: {e}")
+    return new_downloads
+
 def main() -> None:
     all_notices: List[Dict[str, Any]] = []
     page = 1
@@ -133,23 +158,8 @@ def main() -> None:
     xml_dir = Path('contracts_xml')
     xml_dir.mkdir(exist_ok=True)
 
-    # Download XML files
-    new_downloads = 0
-    for contract in contracts:
-        xml_url = contract['links']['xml']['MUL']
-        publication_number = contract['publication-number']
-        
-        # Construct the filename
-        filename = f"{publication_number}.xml"
-        filepath = xml_dir / filename
-        
-        if filepath.exists():
-            logger.info(f"Skipping existing file: {filename}")
-            continue
-
-        if download_xml_file(xml_url, filepath):
-            new_downloads += 1
-
+    # Download XML files concurrently
+    new_downloads = download_xml_files(contracts, xml_dir)
     logger.info(f"Downloaded {new_downloads} new XML files.")
 
     # After downloading all XML files, run process_xml.py
