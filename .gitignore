@@ -10,6 +10,8 @@ venv/
 env/
 **/venv*/
 */ted_env/*
+ted_env/
+ted-data/ted_env/
 
 ted-data/contracts_xml/
 
@@ -46,3 +48,6 @@ yarn-error.log*
 processed_contracts.json
 processed_files_hashes.json
 TED_IRELAND_CONTRACTS_*.json
+processed_contracts/*
+processed_contracts_*.json
+processed_contracts*

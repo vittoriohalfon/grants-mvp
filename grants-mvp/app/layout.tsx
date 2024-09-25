@@ -2,6 +2,13 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { Inter, Caveat } from 'next/font/google'
+import {
+  ClerkProvider,
+  SignInButton,
+  SignedIn,
+  SignedOut,
+  UserButton
+} from '@clerk/nextjs'
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -28,13 +35,21 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} ${caveat.variable} antialiased ${inter.className}`}
-      >
-        {children}
-        <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-      </body>
-    </html>
+    <ClerkProvider>
+      <html lang="en">
+        <body
+          className={`${geistSans.variable} ${geistMono.variable} ${caveat.variable} antialiased ${inter.className}`}
+        >
+          <SignedOut>
+            <SignInButton />
+          </SignedOut>
+          <SignedIn>
+            <UserButton showName/>
+          </SignedIn>
+          {children}
+          <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+        </body>
+      </html>
+    </ClerkProvider>
   );
 }

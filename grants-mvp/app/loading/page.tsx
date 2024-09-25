@@ -1,11 +1,12 @@
 'use client'
 
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { LoadingComponent } from '@/components/loading'
 
 export default function LoadingPage() {
   const router = useRouter()
+  const [isLoading, setIsLoading] = useState(true)
 
   useEffect(() => {
     const triggerWorkflow = async () => {
@@ -31,7 +32,8 @@ export default function LoadingPage() {
         const { requestId } = await response.json()
         localStorage.setItem('requestId', requestId)
         
-        // Route to company profile after receiving the response
+        // Set loading to false before navigating
+        setIsLoading(false)
         router.push('/company-profile')
       } catch (error) {
         console.error('Error triggering workflow:', error)
@@ -43,5 +45,9 @@ export default function LoadingPage() {
     triggerWorkflow()
   }, [router])
 
-  return <LoadingComponent />
+  if (isLoading) {
+    return <LoadingComponent />
+  }
+
+  return null
 }

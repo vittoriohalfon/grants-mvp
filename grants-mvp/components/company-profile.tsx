@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect } from 'react'
 import { Edit2 } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -57,7 +57,6 @@ export function CompanyProfileComponent() {
   const [loading, setLoading] = useState(true)
   const [data, setData] = useState<Record<string, string> | null>(null)
   const [editMode, setEditMode] = useState<Record<string, boolean>>({})
-  const calendlyScriptLoaded = useRef(false);
   const [errors, setErrors] = useState<Record<string, string>>({});
 
   useEffect(() => {
@@ -100,23 +99,6 @@ export function CompanyProfileComponent() {
     fetchData()
   }, [])
 
-  useEffect(() => {
-    if (!calendlyScriptLoaded.current) {
-      const script = document.createElement('script');
-      script.src = "https://assets.calendly.com/assets/external/widget.js";
-      script.async = true;
-      script.onload = () => {
-        calendlyScriptLoaded.current = true;
-      };
-      document.body.appendChild(script);
-
-      const link = document.createElement('link');
-      link.href = "https://assets.calendly.com/assets/external/widget.css";
-      link.rel = "stylesheet";
-      document.head.appendChild(link);
-    }
-  }, []);
-
   const handleEdit = (key: string) => {
     setEditMode(prev => ({ ...prev, [key]: true }))
   }
@@ -125,16 +107,6 @@ export function CompanyProfileComponent() {
     setData(prev => prev ? { ...prev, [key]: value } : null)
     setEditMode(prev => ({ ...prev, [key]: false }))
   }
-
-  const openCalendly = () => {
-    if (typeof window !== 'undefined' && window.Calendly) {
-      window.Calendly.initPopupWidget({
-        url: 'https://calendly.com/justin-justskim/skim-discovery'
-      });
-    } else {
-      console.error('Calendly widget is not available');
-    }
-  };
 
   const validateMandatoryFields = () => {
     const newErrors: Record<string, string> = {};
@@ -153,7 +125,6 @@ export function CompanyProfileComponent() {
     }
 
     try {
-      openCalendly();
       const response = await fetch('/api/confirm-profile', {
         method: 'POST',
         headers: {
@@ -165,6 +136,9 @@ export function CompanyProfileComponent() {
       if (!response.ok) {
         throw new Error('Failed to confirm profile');
       }
+
+      // Redirect to sign-in page after successful confirmation
+      window.location.href = 'http://localhost:3000/sign-in';
     } catch (error) {
       console.error('Error confirming profile:', error);
       alert('An error occurred while confirming your profile. Please try again.');
