@@ -53,51 +53,57 @@ const dataStructure: { [key: string]: DataField[] } = {
   ],
 }
 
-export function CompanyProfileComponent() {
-  const [loading, setLoading] = useState(true)
-  const [data, setData] = useState<Record<string, string> | null>(null)
+interface CompanyProfileComponentProps {
+  initialData?: Record<string, string>;
+}
+
+export function CompanyProfileComponent({ initialData }: CompanyProfileComponentProps) {
+  const [loading, setLoading] = useState(!initialData)
+  const [data, setData] = useState<Record<string, string> | null>(initialData || null)
   const [editMode, setEditMode] = useState<Record<string, boolean>>({})
   const [errors, setErrors] = useState<Record<string, string>>({});
 
   useEffect(() => {
-    const fetchData = async () => {
-      const requestId = localStorage.getItem('requestId')
-      if (!requestId) {
-        window.location.href = '/'
-        return
-      }
-
-      try {
-        const response = await fetch(`/api/get-results?requestId=${requestId}`)
-        if (response.ok) {
-          const resultData: ResultData = await response.json()
-          const formattedData: Record<string, string> = {
-            domain: resultData.domain,
-            contact_email: '',
-            research_development_activities: '',
-          }
-          resultData.results.forEach((result: Result, index: number) => {
-            const key = Object.values(dataStructure).flat().find(field => field.promptIndex === index)?.key
-            if (key) {
-              formattedData[key] = result.answer
-            }
-          })
-          setData(formattedData)
-          setLoading(false)
-        } else if (response.status === 404) {
-          setTimeout(fetchData, 1500)
-        } else {
-          throw new Error('Failed to fetch results')
+    if (!initialData) {
+      const fetchData = async () => {
+        const requestId = localStorage.getItem('requestId')
+        if (!requestId) {
+          window.location.href = '/'
+          return
         }
-      } catch (error) {
-        console.error('Error fetching results:', error)
-        alert('An error occurred while fetching results. Please try again.')
-        setLoading(false)
-      }
-    }
 
-    fetchData()
-  }, [])
+        try {
+          const response = await fetch(`/api/get-results?requestId=${requestId}`)
+          if (response.ok) {
+            const resultData: ResultData = await response.json()
+            const formattedData: Record<string, string> = {
+              domain: resultData.domain,
+              contact_email: '',
+              research_development_activities: '',
+            }
+            resultData.results.forEach((result: Result, index: number) => {
+              const key = Object.values(dataStructure).flat().find(field => field.promptIndex === index)?.key
+              if (key) {
+                formattedData[key] = result.answer
+              }
+            })
+            setData(formattedData)
+            setLoading(false)
+          } else if (response.status === 404) {
+            setTimeout(fetchData, 1500)
+          } else {
+            throw new Error('Failed to fetch results')
+          }
+        } catch (error) {
+          console.error('Error fetching results:', error)
+          alert('An error occurred while fetching results. Please try again.')
+          setLoading(false)
+        }
+      }
+
+      fetchData()
+    }
+  }, [initialData])
 
   const handleEdit = (key: string) => {
     setEditMode(prev => ({ ...prev, [key]: true }))
@@ -137,8 +143,11 @@ export function CompanyProfileComponent() {
         throw new Error('Failed to confirm profile');
       }
 
-      // Redirect to sign-in page after successful confirmation
-      window.location.href = 'http://localhost:3000/sign-in';
+      const result = await response.json();
+      localStorage.setItem('tempProfileId', result.tempId);
+
+      // Redirect to sign-up page after successful confirmation
+      window.location.href = '/sign-up';
     } catch (error) {
       console.error('Error confirming profile:', error);
       alert('An error occurred while confirming your profile. Please try again.');

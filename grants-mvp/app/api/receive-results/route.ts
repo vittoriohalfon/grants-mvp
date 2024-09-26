@@ -16,6 +16,10 @@ interface RequestBody {
   results: Result[];
 }
 
+// This endpoint receives and stores the results of a company analysis.
+// It validates the incoming data, stores it in Redis with the provided request ID,
+// and handles CORS for cross-origin requests.
+
 export async function POST(req: Request) {
   try {
     // Add CORS headers
