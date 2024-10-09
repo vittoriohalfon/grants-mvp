@@ -57,3 +57,8 @@ enhanced_contracts/*
 contracts_xml/*
 processed_contracts_2/*
 enhance_descriptions.log
+ted-data/enhanced_contracts/
+ted-data/contracts_xml/
+ted-data/processed_contracts_2/
+processed_ted_contracts/*
+ted-data/processed_ted_contracts/*
