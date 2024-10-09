@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "176485-2024",
+  "buyer": {
+    "official_name": "Fingal County Council_371",
+    "email": "procurement@fingal.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Main Street",
+      "city": "Dublin",
+      "postal_code": "K67 X8Y2",
+      "country": "IRL"
+    },
+    "website": "https://www.fingal.ie",
+    "company_id": "9509807N",
+    "phone": "018905000"
+  },
+  "procedure": {
+    "title": "FCC/021/24 - Provision of Services of Event Managers for Fingal Xplore Expo 2024",
+    "description": "Provision of Services of Event Managers for Fingal Xplore Expo 2024",
+    "identifier": "aa19534f-3bcb-4710-a284-6ce2289ea027",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-22+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "79952000",
+    "additional_classifications": [
+      "79952100",
+      "79342200",
+      "79952100",
+      "79342200"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-04-22+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3289050"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "FCC/021/24 - Provision of Services of Event Managers for Fingal Xplore Expo 2024",
+      "description": "Provision of Services of Event Managers for Fingal Xplore Expo 2024",
+      "main_nature": "services",
+      "main_classification": "79952000",
+      "additional_classifications": [
+        "79952100",
+        "79342200"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "0",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3289050"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/176485-2024/pdf"
+}

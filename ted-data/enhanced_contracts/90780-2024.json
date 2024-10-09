@@ -1,0 +1,126 @@
+{
+  "notice_publication_id": "90780-2024",
+  "buyer": {
+    "official_name": "Donegal County Council_1193",
+    "email": "procurement@donegalcoco.ie",
+    "legal_type": "body-pl-la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "County House",
+      "city": "Lifford",
+      "postal_code": "F93 Y622",
+      "country": "IRL"
+    },
+    "website": "https://www.etenders.gov.ie",
+    "company_id": "Not Applicable",
+    "phone": "+353 749153900"
+  },
+  "procedure": {
+    "title": "The Provision of Quantity Surveying Consultancy Service required for 3no. separate Housing Schemes in one lot.",
+    "description": "Site No. 1 - HCS 0322 - Construction of 60no. Social Housing units and all associated site development works at Lifford Common, Lifford Co. Donegal. Site No. 2 - HCS 1122 - Demolition of existing fire station and construction of 8no. Social Housing units and all associated site development works at the former fire station site, Main Street, Stranorlar Co. Donegal. Site No. 3 - HCS 0319 - Construction of 30no. social housing units consisting of 4no. 1-bed apartments, 4no. 2-bed apartments, 8no. 2-bed houses, 12no. 3-bed houses and 2no. 4-bed houses including all associated site development works at Cois Abhainn, St Johnston, Co. Donegal.",
+    "identifier": "caae5a76-6153-413a-a969-eeb576ff6fd8",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-02-27+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71324000",
+    "additional_classifications": [
+      "71530000",
+      "71500000",
+      "71000000",
+      "71250000",
+      "71240000",
+      "71246000",
+      "71251000",
+      "71244000",
+      "71530000",
+      "71500000",
+      "71000000",
+      "71250000",
+      "71240000",
+      "71246000",
+      "71251000",
+      "71244000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "110000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-02-27+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3071758"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "The Provision of Quantity Surveying Consultancy Service required for 3no. separate Housing Schemes in one lot.",
+      "description": "Site No. 1 - HCS 0322 - Construction of 60no. Social Housing units and all associated site development works at Lifford Common, Lifford Co. Donegal. Site No. 2 - HCS 1122 - Demolition of existing fire station and construction of 8no. Social Housing units and all associated site development works at the former fire station site, Main Street, Stranorlar Co. Donegal. Site No. 3 - HCS 0319 - Construction of 30no. social housing units consisting of 4no. 1-bed apartments, 4no. 2-bed apartments, 8no. 2-bed houses, 12no. 3-bed houses and 2no. 4-bed houses including all associated site development works at Cois Abhainn, St Johnston, Co. Donegal.",
+      "main_nature": "services",
+      "main_classification": "71324000",
+      "additional_classifications": [
+        "71530000",
+        "71500000",
+        "71000000",
+        "71250000",
+        "71240000",
+        "71246000",
+        "71251000",
+        "71244000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "110000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3071758"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/90780-2024/pdf"
+}

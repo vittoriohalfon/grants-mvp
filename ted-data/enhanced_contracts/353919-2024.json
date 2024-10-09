@@ -1,0 +1,120 @@
+{
+  "notice_publication_id": "353919-2024",
+  "buyer": {
+    "official_name": "Office of Public Works (OPW)",
+    "email": "claire.oriordan@opw.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Jonathan Swift Street",
+      "city": "Trim",
+      "postal_code": "C15 NX36",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/en/organisation/office-of-public-works/",
+    "company_id": ".",
+    "phone": "+353 46 942 2000"
+  },
+  "procedure": {
+    "title": "The Development of the West Wing of the National Library of Ireland, Kildare Street, Dublin 2",
+    "description": "Complete electrical installation for the refurbishment of the West Wing and ancilliary areas at the National Library of Ireland. Stage one of two stage restricted tender process. Stage one is call for expression of interest by submittal of SAQ's.",
+    "identifier": "719cd645-a568-488f-a6e7-527dd62a15d6",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-07-05+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45310000",
+    "additional_classifications": [
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312100",
+      "45212314",
+      "45212350",
+      "45311000",
+      "45311100",
+      "45311200",
+      "45312100",
+      "45212314",
+      "45212350"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "3000000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "The Development of the West Wing of the National Library of Ireland, Kildare Street, Dublin 2",
+      "description": "Complete electrical installation for the refurbishment of the West Wing and ancilliary areas at the National Library of Ireland. Stage one of two stage restricted tender process. Stage one is call for expression of interest by submittal of SAQ's.",
+      "main_nature": "works",
+      "main_classification": "45310000",
+      "additional_classifications": [
+        "45311000",
+        "45311100",
+        "45311200",
+        "45312100",
+        "45212314",
+        "45212350"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "3000000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "sui-act",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3772980"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/353919-2024/pdf"
+}

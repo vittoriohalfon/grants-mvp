@@ -1,0 +1,149 @@
+{
+  "notice_publication_id": "544832-2024",
+  "buyer": {
+    "official_name": "Brothers of Charity Services Ireland",
+    "email": "john.walker@bocsi.ie",
+    "legal_type": "body-pl",
+    "activity": "health",
+    "address": {
+      "street": "Kilcornan, Clarinbridge, Co. Galway",
+      "city": "Clarinbridge",
+      "postal_code": "H91 K2E9",
+      "country": "IRL"
+    },
+    "website": "https://www.brothersofcharity.ie",
+    "company_id": "344780",
+    "phone": "+353863822358"
+  },
+  "procedure": {
+    "title": "Supply of Nine Seater Minibuses and Seven Seater Vehicles",
+    "description": "Supply 1 x nine seater minibus and 2 x seven seater vehicles",
+    "identifier": "704c2e9d-ab35-4495-ba54-1669fefec4cf",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-14+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "34100000",
+    "additional_classifications": [
+      "34110000",
+      "34114400",
+      "34115200",
+      "34110000",
+      "34114400",
+      "34115200",
+      "34110000",
+      "34114400",
+      "34115200"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "240000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-14+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4280863"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Supply of new Nine Seater Minibuses",
+      "description": "Supply 1 x nine seater minibus and 2 x seven seater vehicles",
+      "main_nature": "supplies",
+      "main_classification": "34100000",
+      "additional_classifications": [
+        "34110000",
+        "34114400",
+        "34115200"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "240000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "Supply of Seven Seater Vehicles",
+      "description": "Supply 1 x nine seater minibus and 2 x seven seater vehicles",
+      "main_nature": "supplies",
+      "main_classification": "34100000",
+      "additional_classifications": [
+        "34110000",
+        "34114400",
+        "34115200"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "240000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4280863",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4280863"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/544832-2024/pdf"
+}

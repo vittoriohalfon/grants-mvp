@@ -1,0 +1,144 @@
+{
+  "notice_publication_id": "65540-2024",
+  "buyer": {
+    "official_name": "Cork Education and Training Board",
+    "email": "marguerite.forde@corketb.ie",
+    "legal_type": "cga",
+    "activity": "education",
+    "address": {
+      "street": "21 Lavitts Quay",
+      "city": "Cork",
+      "postal_code": "T12 HYT9",
+      "country": "IRL"
+    },
+    "website": "http://www.corketb.ie",
+    "company_id": "VAT No: 3185254WH",
+    "phone": "+353214907184"
+  },
+  "procedure": {
+    "title": "Call for Tenders for the provision of School Meal Services to two Community National Schools",
+    "description": "Cork Education and Training Board is seeking tenders for the provision of school meals to two Community National Schools (CNS) under its remit. The initial requirement is for the provision of hot school meals as per the DSP School Meals (Local projects) Scheme. This public procurement competition will be divided into two (2) Lots (each a “Lot”) as described below. Each Lot will result in a separate contract. Lot 1: Mallow CNS, Kingsfort Avenue, Castlepark, Mallow, Co. Cork. P51 P5V2 Lot 2: Carrigtwohill CNS, Station Rd, Terry's-Land, Carrigtwohill, Co. Cork. T45 YY66",
+    "identifier": "5ef34c41-b4ab-4dff-9c4a-f0d094311d63",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-03-01+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "55524000",
+    "additional_classifications": [
+      "55523100",
+      "15894210",
+      "55523100",
+      "15894210",
+      "55523100",
+      "15894210"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1600000",
+    "currency": "",
+    "maximum_value": "1600000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-03-01+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2998409"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Mallow Community National School",
+      "description": "Cork Education and Training Board is seeking tenders for the provision of school meals to two Community National Schools (CNS) under its remit. The initial requirement is for the provision of hot school meals as per the DSP School Meals (Local projects) Scheme. This public procurement competition will be divided into two (2) Lots (each a “Lot”) as described below. Each Lot will result in a separate contract. Lot 1: Mallow CNS, Kingsfort Avenue, Castlepark, Mallow, Co. Cork. P51 P5V2 Lot 2: Carrigtwohill CNS, Station Rd, Terry's-Land, Carrigtwohill, Co. Cork. T45 YY66",
+      "main_nature": "services",
+      "main_classification": "55524000",
+      "additional_classifications": [
+        "55523100",
+        "15894210"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1600000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "Carrigtwohill Community National School",
+      "description": "Cork Education and Training Board is seeking tenders for the provision of school meals to two Community National Schools (CNS) under its remit. The initial requirement is for the provision of hot school meals as per the DSP School Meals (Local projects) Scheme. This public procurement competition will be divided into two (2) Lots (each a “Lot”) as described below. Each Lot will result in a separate contract. Lot 1: Mallow CNS, Kingsfort Avenue, Castlepark, Mallow, Co. Cork. P51 P5V2 Lot 2: Carrigtwohill CNS, Station Rd, Terry's-Land, Carrigtwohill, Co. Cork. T45 YY66",
+      "main_nature": "services",
+      "main_classification": "55524000",
+      "additional_classifications": [
+        "55523100",
+        "15894210"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1600000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2998409",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2998409"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/65540-2024/pdf"
+}

@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "700381-2023",
+  "buyer": {
+    "official_name": "Laois County Council",
+    "email": "dlalor@laoiscoco.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Laois County Council, JFL Avenue, Portlaoise, Co. Laois",
+      "city": "Portlaoise",
+      "postal_code": "R32 EHP9",
+      "country": "IRL"
+    },
+    "website": "https://www.laois.ie",
+    "company_id": "Not applicable",
+    "phone": "+353 578664000"
+  },
+  "procedure": {
+    "title": "Laois County Council Tender for refurbishment and extension works to create a 4 bedroom house at 1 New Road, Portlaoise, Co. Laois.",
+    "description": "**Title:** Laois County Council Tender for Refurbishment and Extension Works to Create a 4 Bedroom House at 1 New Road, Portlaoise, Co. Laois.\n\n**Description:**\nLaois County Council is seeking a qualified and experienced contractor to undertake the refurbishment and extension works at 1 New Road, Portlaoise, Co. Laois. The project aims to transform the existing property into a modern, four-bedroom house that meets the highest standards of quality and sustainability. The successful bidder will be responsible for managing the entire project lifecycle, from initial planning and design to final completion and handover.\n\nKey aspects of the project include:\n\n- **Refurbishment:** The contractor will be required to restore and upgrade the existing structure, ensuring that all works are carried out in compliance with relevant building regulations and health and safety standards.\n- **Extension:** The extension works will involve the addition of new living spaces, including bedrooms, bathrooms, and possibly additional living areas. The design should be contemporary and functional, incorporating energy-efficient features and sustainable materials.\n- **Quality Assurance:** The contractor must demonstrate a commitment to quality assurance, ensuring that all materials and workmanship meet the highest standards.\n- **Sustainability:** The project should incorporate sustainable practices and materials to minimize environmental impact. This may include the use of renewable energy sources, eco-friendly building materials, and efficient insulation.\n- **Community Engagement:** As a public body, Laois County Council is committed to engaging with the local community throughout the project. The contractor should be able to facilitate this engagement and ensure that the project aligns with community needs and expectations.\n- **Project Management:** The contractor will be responsible for managing the project timeline, budget, and resources. They should have a proven track record in managing similar projects and be able to provide detailed project management plans.\n- **Health and Safety:** The contractor must adhere to strict health and safety protocols, ensuring a safe working environment for all personnel involved in the project.\n\nLaois County Council is seeking a contractor who can deliver this project on time, within budget, and to the highest standards of quality and sustainability. The successful bidder will be required to provide a comprehensive project plan, including timelines, budgets, and detailed specifications for all works.\n\n**Evaluation Criteria:**\nThe tender will be evaluated based on the following criteria:\n1. **Technical Competence:** The contractor's experience in similar refurbishment and extension projects, including their ability to manage complex projects.\n2. **Quality Assurance:** The contractor's commitment to quality assurance and their ability to meet the specified standards.\n3. **Sustainability:** The contractor's experience with sustainable practices and materials.\n4. **Project Management:** The contractor's ability to manage the project timeline, budget, and resources effectively.\n5. **Health and Safety:** The contractor's adherence to health and safety protocols.\n6. **Community Engagement:** The contractor's ability to engage with the local community and ensure that the project aligns with community needs.\n\n**Submission Requirements:**\nAll bids must be submitted in accordance with the specified format and timeline. The submission should include:\n1. A detailed project plan outlining the methodology, timelines, and budgets.\n2. A comprehensive technical proposal detailing the contractor's experience and qualifications.\n3. A sustainability plan outlining the eco-friendly practices and materials to be used.\n4. A health and safety plan ensuring compliance with all relevant regulations.\n5. A community engagement plan demonstrating the contractor's commitment to engaging with the local community.\n\nBy submitting a bid for this tender, the contractor acknowledges that they have read and understood the terms and conditions outlined in the tender document. Laois County Council reserves the right to reject any bid that does not meet the specified criteria or requirements.\n\n**Contact Information:**\nFor further information or clarification regarding this tender, please contact:\nLaois County Council\nProcurement Department\n[Contact Details]\n\n**Closing Date:** [Specify Closing Date]\n\n**Note:** This tender notice is subject to change, and any amendments will be communicated to all registered bidders. It is the responsibility of the bidder to ensure they are aware of any updates or changes to the tender document.",
+    "identifier": "73e3a746-3bbd-4642-abfa-c8611124a820",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-19+00:00",
+    "deadline_time": "16:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45211300",
+    "additional_classifications": [
+      "45211100",
+      "45211100"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "242000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-19+00:00",
+    "open_tender_time": "16:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2705383"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Laois County Council Tender for refurbishment and extension works to create a 4 bedroom house at 1 New Road, Portlaoise, Co. Laois.",
+      "description": "Laois County Council Tender for refurbishment and extension works to create a 4 bedroom house at 1 New Road, Portlaoise, Co. Laois.",
+      "main_nature": "works",
+      "main_classification": "45211300",
+      "additional_classifications": [
+        "45211100"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "242000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2705383"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/700381-2023/pdf"
+}

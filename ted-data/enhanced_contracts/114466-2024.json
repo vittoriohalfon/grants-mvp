@@ -1,0 +1,129 @@
+{
+  "notice_publication_id": "114466-2024",
+  "buyer": {
+    "official_name": "Limerick and Clare Education and Training Board",
+    "email": "eamon.murphy@lcetb.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Station Road",
+      "city": "Ennis",
+      "postal_code": "V95D32F",
+      "country": "IRL"
+    },
+    "website": "https://www.lcetb.ie",
+    "company_id": "3185049VH",
+    "phone": "0656828107"
+  },
+  "procedure": {
+    "title": "Panel Membership for Provision of Suitable Sites for Adventure Trips for LCETB Students",
+    "description": "**Title: Panel Membership for Provision of Suitable Sites for Adventure Trips for LCETB Students**\n\n**Description:**\nThe Limerick and Clare Education and Training Board (LCETB) is seeking to establish a panel of service providers to offer suitable sites for adventure trips for its students. LCETB is one of the 16 statutory regional education and training authorities in Ireland, serving over 34,000 students and learners annually across the Limerick and Clare region. The board offers a diverse range of full and part-time courses, including apprenticeships, back to education initiatives, community education, core skills, employability skills, post-leaving certificate courses, specific skills training, traineeships, vocational training opportunities scheme (VTOS), youth education, and more.\n\nTo be included on the panel, applicants must review the Competitive Framework Tender (CFT) and complete the Tender Response Document. All required documentation should be returned to LCETB as per the directions in the CFT. All applicants will be notified in writing regarding their inclusion on the panel. If you have already been appointed to the panel, there is no requirement to reapply. Details of panel membership are included in the Tender Documents.\n\nLCETB operates through multiple locations, including colleges, campuses, and outdoor education centers, emphasizing a commitment to providing high-quality educational and training opportunities. The successful service providers will be expected to offer sites that are safe, accessible, and conducive to various adventure activities such as geology, mountain training, cave training, and sea kayaking. The selected panel members will play a crucial role in enhancing the educational experience of LCETB students by providing unique and enriching outdoor learning experiences.",
+    "identifier": "50701dea-c469-4493-b970-3bb0c9518f19",
+    "type": "open",
+    "accelerated": "",
+    "deadline_date": "2025-02-10+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "63500000",
+    "additional_classifications": [
+      "63514000",
+      "63511000",
+      "63512000",
+      "80513000",
+      "80412000",
+      "80413000",
+      "80414000",
+      "80411000",
+      "63515000",
+      "63514000",
+      "63511000",
+      "63512000",
+      "80513000",
+      "80412000",
+      "80413000",
+      "80414000",
+      "80411000",
+      "63515000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "450000",
+    "currency": "",
+    "maximum_value": "750000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "",
+    "electronic_payment": ""
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "",
+    "open_tender_date": "2025-02-10+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3129672"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Panel Membership for Provision of Suitable Sites for Adventure Trips for LCETB Students",
+      "description": "LCETB engaged in a competitive process for the establishment of a panel from which it will source service providers for the provision of suitable sites for Adventure Trips for LCETB students. To be included on the panel you should review CFT and complete the Tender Response Document and return to LCETB as per directions in the CFT with the required documentation. All applicants will be notified in writing. If you have already been appointed to the panel there is no requirement to reapply. Details of panel membership are included in the Tender Documents",
+      "main_nature": "services",
+      "main_classification": "63500000",
+      "additional_classifications": [
+        "63514000",
+        "63511000",
+        "63512000",
+        "80513000",
+        "80412000",
+        "80413000",
+        "80414000",
+        "80411000",
+        "63515000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "450000",
+        "currency": "",
+        "maximum_value": "750000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "",
+        "electronic_payment": ""
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3129672"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/114466-2024/pdf"
+}

@@ -1,0 +1,117 @@
+{
+  "notice_publication_id": "126743-2024",
+  "buyer": {
+    "official_name": "The Alzheimer Society of Ireland",
+    "email": "tender.submissions@alzheimer.ie",
+    "legal_type": "body-pl",
+    "activity": "health",
+    "address": {
+      "street": "Temple Road",
+      "city": "Blackrock, Co. Dublin",
+      "postal_code": "A94 N8Y0",
+      "country": "IRL"
+    },
+    "website": "https://alzheimer.ie/",
+    "company_id": "4740416U",
+    "phone": "0858723725"
+  },
+  "procedure": {
+    "title": "PQQ for the Provision, Implementation and Support of a Company-wide Integrated CRM Solution for Seamless Collaboration across Alzheimer Society of Ireland and Related Services",
+    "description": "Pre-Qualification Questionnaire (PQQ) for a Single-Operator Framework Agreement for the Provision, Implementation and Support of a Company-wide Integrated CRM Solution for Seamless Collaboration across Alzheimer Society of Ireland and Related Services",
+    "identifier": "af739a91-6208-46d2-8403-301ee758b5f2",
+    "type": "comp-dial",
+    "accelerated": "",
+    "deadline_date": "2024-04-08+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72212445",
+    "additional_classifications": [
+      "72000000",
+      "72200000",
+      "72230000",
+      "72212218",
+      "72212450",
+      "72000000",
+      "72200000",
+      "72230000",
+      "72212218",
+      "72212450"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "2500000",
+    "currency": "",
+    "maximum_value": "2500000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "comp-dial",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "PQQ for the Provision, Implementation and Support of a Company-wide Integrated CRM Solution for Seamless Collaboration across Alzheimer Society of Ireland and Related Services",
+      "description": "Pre-Qualification Questionnaire (PQQ) for a Single-Operator Framework Agreement for the Provision, Implementation and Support of a Company-wide Integrated CRM Solution for Seamless Collaboration across Alzheimer Society of Ireland and Related Services",
+      "main_nature": "services",
+      "main_classification": "72212445",
+      "additional_classifications": [
+        "72000000",
+        "72200000",
+        "72230000",
+        "72212218",
+        "72212450"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "2500000",
+        "currency": "",
+        "maximum_value": "2500000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3175220"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/126743-2024/pdf"
+}

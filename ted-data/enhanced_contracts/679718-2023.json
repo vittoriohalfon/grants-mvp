@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "679718-2023",
+  "buyer": {
+    "official_name": "Cavan and Monaghan Education and Training Board",
+    "email": "helenmcdonald@cmetb.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Market Street, Monaghan",
+      "city": "Monaghan",
+      "postal_code": "H18 W449",
+      "country": "IRL"
+    },
+    "website": "http://www.cmetb.ie",
+    "company_id": "3185068CH",
+    "phone": "047 30888"
+  },
+  "procedure": {
+    "title": "Interior Fitout and alterations to the existing industrial Unit at Milltown Co Monaghan H18 YF22",
+    "description": "**Enhanced Proposal Description:**\n\nThe Cavan and Monaghan Education and Training Board (CMETB) is seeking a contractor to undertake the interior fitout and alterations to the existing industrial unit at Milltown, Co. Monaghan (H18 YF22). CMETB is a public education and training board responsible for providing a comprehensive range of educational services across counties Cavan and Monaghan. Our services include further education and training, apprenticeships, traineeships, and adult education programs, catering to learners of all ages and abilities.\n\nThe successful bidder will be required to deliver high-quality interior fitout and alterations that meet the specific needs of our educational facilities. The project involves transforming the existing industrial unit into a functional and modern space that supports our ongoing educational programs. The contractor must demonstrate expertise in industrial unit renovations, ensuring compliance with all relevant health and safety standards, accessibility requirements, and environmental regulations.\n\nKey considerations for the proposal include:\n\n1. **Quality of Work:** The contractor must provide a detailed plan outlining the scope of work, timelines, and quality control measures to ensure the project is completed to a high standard.\n\n2. **Health and Safety:** The bidder must demonstrate a strong commitment to health and safety protocols, ensuring the work environment is safe for both workers and students.\n\n3. **Accessibility:** The alterations must comply with all accessibility standards to ensure the facility is inclusive for all learners.\n\n4. **Sustainability:** The contractor should propose sustainable solutions that minimize environmental impact and align with CMETB's commitment to environmental responsibility.\n\n5. **Project Management:** A clear project management plan should be provided, including regular progress updates and a comprehensive risk assessment strategy.\n\n6. **Budget Management:** The bidder should provide a detailed breakdown of costs, including any contingencies, to ensure transparency and effective budget management.\n\n7. **Previous Experience:** The contractor should highlight their previous experience in similar projects, particularly in educational settings, to demonstrate their capability in delivering such projects.\n\n8. **Certifications and Compliance:** The bidder must provide relevant certifications and compliance documents, such as ISO 9001 for quality management, ISO 14001 for environmental management, and relevant health and safety certifications.\n\n9. **Warranty and Maintenance:** The contractor should offer a warranty for the work completed and propose a maintenance plan to ensure the longevity of the facilities.\n\n10. **Local Engagement:** Preference may be given to bidders who can demonstrate local engagement and commitment to supporting the local community through their business practices.\n\nBy selecting a contractor who meets these criteria, CMETB aims to create a modern, functional, and sustainable educational facility that supports the educational needs of our learners. The successful bidder will be expected to work collaboratively with our team to ensure the project is completed on time, within budget, and to the highest standards of quality and safety.",
+    "identifier": "dafc7e4d-6e91-4bbb-944b-ce91fb2e47f3",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2023-11-28+00:00",
+    "deadline_time": "16:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45000000",
+    "additional_classifications": [
+      "45200000",
+      "45300000",
+      "45400000",
+      "45200000",
+      "45300000",
+      "45400000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1000000",
+    "currency": "",
+    "maximum_value": "1000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "required",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2023-11-28+00:00",
+    "open_tender_time": "16:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2662896"
+  },
+  "tendering_terms": {
+    "variant_constraint": "required",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Interior Fitout and alterations to the existing industrial Unit at Milltown Co Monaghan H18 YF22",
+      "description": "**Enhanced Proposal Description:**\n\nThe Cavan and Monaghan Education and Training Board (CMETB) is seeking a contractor to undertake the interior fitout and alterations to the existing industrial unit located at Milltown, Co. Monaghan (H18 YF22). CMETB is a public education and training body responsible for providing a comprehensive range of educational services, including further education and training (FET) programs, apprenticeships, traineeships, and adult education services.\n\nThe successful bidder will be required to deliver a high-quality interior fitout and alterations that meet the specific needs of CMETB's educational and training activities. The project involves transforming the existing industrial unit into a functional and modern space that supports the delivery of various educational programs, including vocational training, apprenticeships, and adult education.\n\nKey considerations for the proposal include:\n\n- **Educational Requirements:** The interior design and fitout must accommodate the diverse needs of learners of all ages and abilities. This includes ensuring that the space is accessible, flexible, and adaptable to different learning environments.\n- **Functional Layout:** The alterations should optimize the use of space, providing efficient layouts for classrooms, training areas, administrative offices, and other necessary facilities.\n- **Sustainability:** The project should incorporate sustainable design principles and materials to minimize environmental impact.\n- **Health and Safety:** The contractor must ensure that the work is carried out in compliance with all relevant health and safety regulations, protecting both the workforce and learners.\n- **Timelines:** The project timeline should be aligned with CMETB's operational requirements, ensuring minimal disruption to ongoing educational activities.\n- **Budget Management:** The contractor must provide a detailed breakdown of costs and manage the budget effectively to stay within the allocated funds.\n\nBy selecting a contractor who understands the educational context and can deliver a high-quality, functional, and sustainable space, CMETB aims to enhance its educational offerings and provide a supportive learning environment for its learners.",
+      "main_nature": "works",
+      "main_classification": "45000000",
+      "additional_classifications": [
+        "45200000",
+        "45300000",
+        "45400000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1000000",
+        "currency": "",
+        "maximum_value": "1000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "required",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2662896"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/679718-2023/pdf"
+}

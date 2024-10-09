@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "138536-2024",
+  "buyer": {
+    "official_name": "Our Lady of Lourdes Secondary School (Rosbercon)",
+    "email": "ololsecretary@gmail.com",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Four Courts, Inns Quay, Dublin 7",
+      "city": "New Ross",
+      "postal_code": "D07 WDX8",
+      "country": "IRL"
+    },
+    "website": "https://olol.ie/",
+    "company_id": "63630O",
+    "phone": "+35351422177"
+  },
+  "procedure": {
+    "title": "2024 Our Lady of Lourdes SS Architectural Services for Additional Accommodation at Our Lady of Lourdes Secondary School, Rosbercon, New Ross, Co. Wexford",
+    "description": "**Title: 2024 Our Lady of Lourdes SS Architectural Services for Additional Accommodation at Our Lady of Lourdes Secondary School, Rosbercon, New Ross, Co. Wexford**\n\n**Description:**\nOur Lady of Lourdes Secondary School, a single-sex all-girls school under the trusteeship of the Bishop of Ossory, is seeking architectural services for the provision of additional accommodation. The school, established in 1924 by the Holy Faith Sisters, is committed to academic excellence and the holistic development of its students. The proposed project aims to enhance the school's infrastructure to better support its students, particularly those with special educational needs (SEN).\n\n**Project Overview:**\nThe project will comprise the following key components:\n\n- **2 Classroom SEN Base:** A total floor area of 409.0 m², including circulation and internal walls, will be provided to cater to students with special educational needs. The gross floor area, including circulation, internal walls, and stairs, will be approximately 524.0 m².\n- **Secure Hard and Soft Play Area:** A 100 m² secure play area will be designed to ensure the safety and well-being of students.\n- **Sensory Garden:** A 100 m² sensory garden will be created to provide a therapeutic and educational space for students.\n- **6 Parking Spaces:** Additional parking spaces will be included to accommodate staff and visitors.\n\n**Key Considerations:**\n- **Project Brief:** The attached Project Brief outlines the proposed Schedule of Accommodation and the options available. Bidders are expected to carefully review this document to ensure they understand the scope and requirements of the project.\n- **Academic Excellence:** The school is committed to maintaining its reputation for academic excellence. The proposed additions should align with this goal and enhance the learning environment.\n- **Holistic Development:** The school aims to provide a holistic education that includes emotional, social, and physical development. The design should reflect this approach and ensure that all facilities are accessible and inclusive.\n- **Sustainability:** While not explicitly stated, bidders are encouraged to consider sustainable design principles to minimize the environmental impact of the project.\n\n**Evaluation Criteria:**\nProposals will be evaluated based on the following criteria:\n\n1. **Technical Competence:** The bidder's experience in similar projects, particularly in educational settings, will be assessed.\n2. **Design Quality:** The aesthetic appeal, functionality, and overall design quality of the proposed facilities will be evaluated.\n3. **Cost Effectiveness:** The cost of the project, including all necessary materials and labor, will be considered.\n4. **Sustainability:** The bidder's ability to incorporate sustainable design principles will be assessed.\n5. **Timeliness:** The bidder's ability to complete the project within the specified timeline will be evaluated.\n6. **Inclusivity:** The design should ensure that all facilities are accessible and inclusive for students with different abilities.\n\n**Submission Requirements:**\nProposals should include a detailed project plan, timelines, budget breakdown, and any relevant documentation. The bidder should also provide examples of previous work in educational settings, highlighting their technical competence and design quality.\n\nBy responding to this tender, bidders demonstrate their commitment to enhancing the educational environment at Our Lady of Lourdes Secondary School, aligning with the school's mission to provide a high-quality education that fosters the holistic development of its students.",
+    "identifier": "f7d9c189-cf83-4d59-8afa-7bd07b34fe74",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-09+00:00",
+    "deadline_time": "13:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71223000",
+    "additional_classifications": [
+      "71221000",
+      "71220000",
+      "71200000",
+      "71221000",
+      "71220000",
+      "71200000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "2440000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-04-09+00:00",
+    "open_tender_time": "13:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3195290"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "false",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "2",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "2024 Our Lady of Lourdes SS Architectural Services for Additional Accommodation at Our Lady of Lourdes Secondary School, Rosbercon, New Ross, Co. Wexford",
+      "description": "Our Lady of Lourdes Secondary School is a secondary school under the patronage of the Le Cheile Trust. Your attention is drawn to the attached Project Brief and particularly the proposed Schedule of Accommodation and the options outlined in the Brief. In summary, the project will comprise: • 2 Classroom SEN Base 409.0 m2 • Giving a floor area (incl. circulation and internal walls) of: 523.52 m2 Giving a Gross Floor Area (incl. circulation, internal walls and stairs) 524.0 m2 Also: • Secure Hard and soft play area 100 m2 • Sensory Garden 100 m2 • 6 parking spaces",
+      "main_nature": "services",
+      "main_classification": "71223000",
+      "additional_classifications": [
+        "71221000",
+        "71220000",
+        "71200000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "2440000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3195290"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/138536-2024/pdf"
+}

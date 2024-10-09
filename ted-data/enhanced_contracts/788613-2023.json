@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "788613-2023",
+  "buyer": {
+    "official_name": "Department of Children Equality Disability Integration and Youth",
+    "email": "procurement_queries@equality.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Block 1, Miesian Plaza, 50 – 58 Lower Baggot Street",
+      "city": "Dublin",
+      "postal_code": "D02 XW14",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/en/organisation/department-of-children-equality-disability-integration-and-youth/",
+    "company_id": "9805633H",
+    "phone": "016473000"
+  },
+  "procedure": {
+    "title": "The provision of a research and information specialist in the areas of child protection and welfare and children in care",
+    "description": "The provision of a research and information specialist in the areas of child protection and welfare and children in care",
+    "identifier": "56643af4-f4e9-4f97-a5f2-42a1c45c4cbd",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-22+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "79400000",
+    "additional_classifications": [
+      "73210000",
+      "73210000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "210000",
+    "currency": "",
+    "maximum_value": "210000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-22+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2883125"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "The provision of a research and information specialist in the areas of child protection and welfare and children in care",
+      "description": "The provision of a research and information specialist in the areas of child protection and welfare and children in care",
+      "main_nature": "services",
+      "main_classification": "79400000",
+      "additional_classifications": [
+        "73210000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "210000",
+        "currency": "",
+        "maximum_value": "210000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2883125"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/788613-2023/pdf"
+}

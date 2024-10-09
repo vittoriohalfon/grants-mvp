@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "433637-2024",
+  "buyer": {
+    "official_name": "An Garda Síochána_1192",
+    "email": "tenderoffice@garda.ie",
+    "legal_type": "body-pl",
+    "activity": "pub-os",
+    "address": {
+      "street": "Finance Department, Garda Headquarters, Phoenix Park, Dublin 8",
+      "city": "Dublin",
+      "postal_code": "D08 HN3X",
+      "country": "IRL"
+    },
+    "website": "https://www.garda.ie/en/",
+    "company_id": "0000",
+    "phone": "01-6662173"
+  },
+  "procedure": {
+    "title": "T.004/2024 Pre-Qualification Questionnaire for requests to participate in a Competition for the supply of Enterprise Solutions for the provision of Computational and Data Storage Resources",
+    "description": "The Garda Commissioner (“the Contracting Authority”) invites requests to participate to this pre-qualification questionnaire (“PQQ”) from economic operators for the provision of Enterprise Solutions for the provision of Computational and Data Storage resources, for An Garda Síochána; and, for the provision of maintenance, support and lifecycle management Services in respect of the Goods.",
+    "identifier": "f28986dc-fd37-4ff9-90e4-3deafb9e324e",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-08-19+01:00",
+    "deadline_time": "15:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "30230000",
+    "additional_classifications": [
+      "30200000",
+      "30000000",
+      "30200000",
+      "30000000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "30000000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "T.004/2024 Pre-Qualification Questionnaire for requests to participate in a Competition for the supply of Enterprise Solutions for the provision of Computational and Data Storage Resources",
+      "description": "The Garda Commissioner (“the Contracting Authority”) invites requests to participate to this pre-qualification questionnaire (“PQQ”) from economic operators for the provision of Enterprise Solutions for the provision of Computational and Data Storage resources, for An Garda Síochána; and, for the provision of maintenance, support and lifecycle management Services in respect of the Goods.",
+      "main_nature": "supplies",
+      "main_classification": "30230000",
+      "additional_classifications": [
+        "30200000",
+        "30000000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "30000000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": "true"
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3983943"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/433637-2024/pdf"
+}

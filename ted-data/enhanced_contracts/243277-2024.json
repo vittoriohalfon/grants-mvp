@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "243277-2024",
+  "buyer": {
+    "official_name": "Coimisiún na Meán",
+    "email": "skennedy@bai.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "2-5  Warrington Place, Dublin, D02 XP29",
+      "city": "Dublin",
+      "postal_code": "D02 XP29",
+      "country": "IRL"
+    },
+    "website": "https://www.cnam.ie",
+    "company_id": "Not applicable",
+    "phone": "+3536441200"
+  },
+  "procedure": {
+    "title": "Provision of technical audits of FM transmitter stations for Coimisiún na Meán",
+    "description": "**Title: Provision of Technical Audits of FM Transmitter Stations for Coimisiún na Meán**\n\n**Description:**\nCoimisiún na Meán, Ireland's media regulator, is seeking the services of a qualified provider to conduct technical audits of FM transmitter stations across Ireland. The aim of these audits is to measure specified parameters of these stations to ensure compliance with regulatory standards and to maintain a safe and diverse media landscape. The successful bidder will be responsible for:\n\n- Conducting thorough technical audits of FM transmitter stations at various locations throughout Ireland.\n- Measuring and reporting on specified parameters such as signal strength, frequency accuracy, and overall technical performance.\n- Ensuring compliance with the regulatory requirements set by Coimisiún na Meán, including the enforcement of the new EU's Digital Services Act.\n- Providing detailed reports and recommendations for improving the technical performance of the FM transmitter stations.\n- Collaborating with Coimisiún na Meán to address any technical issues or concerns identified during the audits.\n- Demonstrating expertise in broadcasting regulation and technical audit procedures, with a proven track record in similar projects.\n\nThe successful bidder will contribute to Coimisiún na Meán's mission of ensuring a thriving, diverse, creative, safe, and trusted media landscape in Ireland. The selected provider will be expected to adhere to high standards of professionalism, technical competence, and regulatory compliance.",
+    "identifier": "bb87f403-bb3d-4d25-9f12-2fcc32dcfb61",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-28+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "64228200",
+    "additional_classifications": [
+      "64228000",
+      "64228000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "120000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "not-allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-05-28+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3456708"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Provision of technical audits of FM transmitter stations for Coimisiún na Meán",
+      "description": "An Coimisiún is seeking the services of provision of technical audits in order to measure specified parameters of FM transmitter stations at locations throughout Ireland",
+      "main_nature": "services",
+      "main_classification": "64228200",
+      "additional_classifications": [
+        "64228000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "120000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "not-allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3456708"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/243277-2024/pdf"
+}

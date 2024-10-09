@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "226966-2024",
+  "buyer": {
+    "official_name": "Coiste Forbartha Dhobhair Teo",
+    "email": "ionadnp@gmail.com",
+    "legal_type": "body-pl",
+    "activity": "health",
+    "address": {
+      "street": "Ionad Naomh Padraig",
+      "city": "Gweedore",
+      "postal_code": "F92EH6N",
+      "country": "IRL"
+    },
+    "website": "https://www.ionadnp.ie",
+    "company_id": "377174",
+    "phone": "0868259752"
+  },
+  "procedure": {
+    "title": "Donegal Cancer Flights and Services tender for 1 x New Ford Transit 350 minibus 17 seater including driver",
+    "description": "1 x New Ford Transit 350 Minibus 17 seater including driver seat Manual Gearbox White in colour Barn Back doors Air conditioning Luggage Racks",
+    "identifier": "7853773d-d8a6-4747-b855-8246a75cba66",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-24+01:00",
+    "deadline_time": "18:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "34114400",
+    "additional_classifications": [
+      "34120000",
+      "34120000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "55691",
+    "currency": "",
+    "maximum_value": "55691"
+  },
+  "general_information": {
+    "terms_of_submission": "not-allowed",
+    "variant_submissions": "allowed",
+    "electronic_invoicing": "not-allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "not-allowed",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "false",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Donegal Cancer Flights and Services tender for 1 x New Ford Transit 350 minibus 17 seater including driver",
+      "description": "1 New Ford Transit 350 Minibus. 17 seater including driver seat. Manual Gearbox. White in colour. Barn Back doors. Air conditioning. Luggage Racks",
+      "main_nature": "supplies",
+      "main_classification": "34114400",
+      "additional_classifications": [
+        "34120000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "55691",
+        "currency": "",
+        "maximum_value": "55691"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "allowed",
+        "electronic_invoicing": "not-allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "false",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3381017"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/226966-2024/pdf"
+}

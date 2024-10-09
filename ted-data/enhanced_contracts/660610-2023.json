@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "660610-2023",
+  "buyer": {
+    "official_name": "St. Vincent’s Castleknock College",
+    "email": "Sinead.Lynch@castleknockcollege.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "College Road, Castleknock, Dublin 15.",
+      "city": "Dublin",
+      "postal_code": "D15 PD95",
+      "country": "IRL"
+    },
+    "website": "https://www.castleknockcollege.ie/",
+    "company_id": "St. Vincent's Castleknock College",
+    "phone": "+353 1 8213051"
+  },
+  "procedure": {
+    "title": "Mechanical works to the Dowley Building in St. Vincent's Castleknock College, College Road, Castleknock, Dublin 15, D15 PD95.",
+    "description": "This project entails works in decommissioning and replacing the existing space heating installation in the Dowley Building in St. Vincent’s Castleknock College. The works involves decommissioning and removing of the existing radiator circuits, radiators and all associated heating services flow and return pipework for the heating services installation throughout the building and replacing with a new space heating installation throughout. All associated electrical works, mechanical works, building works, preliminaries, etc. shall be included as part of the contract.",
+    "identifier": "4a437d53-47d6-47af-9e83-69b246c00558",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2023-11-20+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45350000",
+    "additional_classifications": [
+      "45351000",
+      "51120000",
+      "45351000",
+      "51120000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "215000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2023-11-21+01:00",
+    "open_tender_time": "00:00:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2614745"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Mechanical works to the Dowley Building in St. Vincent's Castleknock College, College Road, Castleknock, Dublin 15, D15 PD95.",
+      "description": "This project entails works in decommissioning and replacing the existing space heating installation in the Dowley Building in St. Vincent’s Castleknock College. The works involves decommissioning and removing of the existing radiator circuits, radiators and all associated heating services flow and return pipework for the heating services installation throughout the building and replacing with a new space heating installation throughout. All associated electrical works, mechanical works, building works, preliminaries, etc. shall be included as part of the contract.",
+      "main_nature": "works",
+      "main_classification": "45350000",
+      "additional_classifications": [
+        "45351000",
+        "51120000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "215000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2614745"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/660610-2023/pdf"
+}

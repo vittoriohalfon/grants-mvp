@@ -1,0 +1,153 @@
+{
+  "notice_publication_id": "558926-2024",
+  "buyer": {
+    "official_name": "Department of Tourism Culture Arts Gaeltacht Sport Media",
+    "email": "procurement@tcagsm.gov.ie",
+    "legal_type": "cga",
+    "activity": "rcr",
+    "address": {
+      "street": "Government Buildings, New Road",
+      "city": "Killarney",
+      "postal_code": "V93 A49X",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media",
+    "company_id": "4000113V",
+    "phone": "0646627300"
+  },
+  "procedure": {
+    "title": "Archival Quality Boxes for the National Archives of Ireland",
+    "description": "Archive boxes which are acid-free protect archives and are an important preservation tool. Archival documents are stored in these boxes which protect them from heat, light and other environmental factors. These specially commissioned boxes proved their value during the leak in the National Archives last October. Storing archives in acid free boxes can prevent the spread of mould as the box acts as a barrier to prevent the contamination of other records. The National Archives retrieves records daily from their various sites and the boxes ensure that the records are protected during transportation. With the new National Centre coming on stream, all records currently in departments and agencies require re-housing in these boxes prior to their accession to the National Archives.",
+    "identifier": "2ce0095f-7146-40ac-a0b5-8111adc83bb5",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-11-04+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "31224300",
+    "additional_classifications": [
+      "30197645",
+      "30232130",
+      "22100000",
+      "22900000",
+      "75000000",
+      "79000000",
+      "92000000",
+      "98000000",
+      "30199500",
+      "31219000",
+      "44617000",
+      "22300000",
+      "22500000",
+      "22610000",
+      "22990000",
+      "22800000",
+      "22458000",
+      "30197645",
+      "30232130",
+      "22100000",
+      "22900000",
+      "75000000",
+      "79000000",
+      "92000000",
+      "98000000",
+      "30199500",
+      "31219000",
+      "44617000",
+      "22300000",
+      "22500000",
+      "22610000",
+      "22990000",
+      "22800000",
+      "22458000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "250000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "not-allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-11-04+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4314088"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Archival Quality Boxes for the National Archives of Ireland",
+      "description": "Archive boxes which are acid-free protect archives and are an important preservation tool. Archival documents are stored in these boxes which protect them from heat, light and other environmental factors. These specially commissioned boxes proved their value during the leak in the National Archives last October. Storing archives in acid free boxes can prevent the spread of mould as the box acts as a barrier to prevent the contamination of other records. The National Archives retrieves records daily from their various sites and the boxes ensure that the records are protected during transportation. With the new National Centre coming on stream, all records currently in departments and agencies require re-housing in these boxes prior to their accession to the National Archives.",
+      "main_nature": "supplies",
+      "main_classification": "31224300",
+      "additional_classifications": [
+        "30197645",
+        "30232130",
+        "22100000",
+        "22900000",
+        "75000000",
+        "79000000",
+        "92000000",
+        "98000000",
+        "30199500",
+        "31219000",
+        "44617000",
+        "22300000",
+        "22500000",
+        "22610000",
+        "22990000",
+        "22800000",
+        "22458000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "250000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "not-allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4314088"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/558926-2024/pdf"
+}

@@ -1,0 +1,159 @@
+{
+  "notice_publication_id": "158140-2024",
+  "buyer": {
+    "official_name": "Technological University Dublin (TU Dublin)",
+    "email": "eimear.brennan@tudublin.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Park House, Grangegorman, 191 North Circular Road, Dublin 7,",
+      "city": "Dublin",
+      "postal_code": "D07EWV4",
+      "country": "IRL"
+    },
+    "website": "https://www.tudublin.ie/",
+    "company_id": "3574697EH",
+    "phone": "012208196"
+  },
+  "procedure": {
+    "title": "Request for Tenders for the Supply, Delivery, Installation, and Commissioning of a Controlled Polymer Ablation (CPA) Application Suite comprising of 2 (two) separate Lots for CREST TU Dublin",
+    "description": "**Request for Tenders for the Supply, Delivery, Installation, and Commissioning of a Controlled Polymer Ablation (CPA) Application Suite**\n\n**TU Dublin** is Ireland's first technological university, established on 1 January 2019, with a history dating back to 1887 through the amalgamation of Dublin Institute of Technology and other institutions. With over 28,000 students and 3,500 staff members, TU Dublin is deeply embedded in Dublin's academic and research landscape. The university is known for its practice-based environment informed by the latest research, offering pathways from apprenticeship to PhD.\n\nTU Dublin is particularly interested in the supply and installation of an atmospheric pressure plasma technology for studying Controlled Polymer Ablation (CPA) processes. The technology must be an electronically controlled discharge jet working in afterglow mode. The tender is divided into two separate Lots:\n\n- **Lot 1: Industrial CPA Cell**\n  - Consists of a plasma generator with 3 nozzles\n  - Includes a six-axis robot\n  - Features a compressed air system\n  - Enclosed in an enclosure\n  - Intended use: CPA application to manufactured parts\n  - Example: Shown in Figure 1a\n\n- **Lot 2: R&D CPA Cell**\n  - Includes an XYZ sample stage\n  - Features a single nozzle\n  - Equipped with a liquid dispensing nebuliser unit\n  - Intended use: Application of CPA treatments and coatings to coupons\n\nSuppliers are invited to tender for one or both lots. Suppliers are encouraged to provide a multi-lot discount if tendering for both lots. The successful bidder will be expected to deliver a comprehensive solution that meets the specific requirements outlined in the tender document, ensuring seamless integration with TU Dublin's research facilities and ongoing projects.\n\n**Key Requirements:**\n- The technology must be licensed from PLASMA BOUND (https://plasmabound.com/).\n- The system must be capable of electronically controlled discharge jet operation in afterglow mode.\n- The bidder should provide detailed specifications, installation plans, and commissioning procedures.\n- The bidder should demonstrate experience in similar projects, particularly in academic or research settings.\n- The bidder should offer a comprehensive warranty and maintenance plan for the supplied equipment.\n\n**Evaluation Criteria:**\n- Technical competence and experience in delivering similar projects.\n- Quality of the proposed solution and its alignment with TU Dublin's research objectives.\n- Pricing and value for money.\n- Ability to provide a multi-lot discount for tendering both lots.\n- Customer service and support offered post-installation.\n\nBy responding to this tender, bidders will be contributing to TU Dublin's ongoing research initiatives in advanced materials and surface engineering, which are crucial for the development of innovative technologies and sustainable practices. The successful bidder will have the opportunity to collaborate with a leading academic institution in Ireland, enhancing their reputation and contributing to the advancement of scientific knowledge in the field of polymer ablation.",
+    "identifier": "b19c36f4-33c4-4868-800e-6e6d938e2cd6",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-09+00:00",
+    "deadline_time": "14:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "38000000",
+    "additional_classifications": [
+      "42997300",
+      "38420000",
+      "38421000",
+      "33124110",
+      "42122500",
+      "42997300",
+      "38420000",
+      "38421000",
+      "33124110",
+      "42122500",
+      "42997300",
+      "38420000",
+      "38421000",
+      "33124110",
+      "42122500"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "132000",
+    "currency": "",
+    "maximum_value": "132000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-04-09+00:00",
+    "open_tender_time": "14:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3251221"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Industrial CPA Cell",
+      "description": "**Enhanced Proposal Description:**\n\nTechnological University Dublin (TU Dublin) is Ireland's first technological university, established on 1 January 2019, with a rich history dating back to 1887 through the amalgamation of Dublin Institute of Technology and other institutions. TU Dublin is deeply embedded in the Dublin region, with five main locations: Grangegorman, Aungier Street, Bolton Street, Blanchardstown, and Tallaght. The university is known for its entrepreneurial ethos and industry-focused approach, with extensive collaboration with industry for research and teaching.\n\nTU Dublin supports a diverse range of academic disciplines, including STEM fields, business, media, culinary arts, and the creative and performing arts. The university is passionate about life-long learning and contributes significantly to Ireland's economic life through its part-time education programs. With over 28,000 students and 3,000 staff members from 140 nationalities, TU Dublin fosters a global network of over 100,000 graduates.\n\nThe university is actively involved in research and innovation, with a research community of over 1,000 members. TU Dublin has delivered over 400 sustainable new businesses with an economic value of almost €700 million through its award-winning technology transfer and business incubation activities. The institution is committed to advancing gender equality, having been awarded the Athena Swan Bronze Award in 2022.\n\nIn the context of this public tender, TU Dublin is seeking the best offer for the supply and installation of an atmospheric pressure plasma technology for studying Controlled Polymer Ablation (CPA) processes. The technology must be an electronically controlled discharge jet working in afterglow mode. The tender includes two separate Lots:\n\n- **Lot 1: Industrial CPA Cell** - This consists of a plasma generator with 3 nozzles, a six-axis robot, compressed air system, and an enclosure. The intended use is CPA application to manufactured parts. An example of such a unit is shown in Figure 1a.\n- **Lot 2: R&D CPA Cell** - This includes an XYZ sample stage, single nozzle, and liquid dispensing nebuliser unit. The intended use is the application of CPA treatments and coatings to coupons.\n\nSuppliers are invited to tender for one or both lots, with the option to provide a multi-lot discount if tendering for both. The successful bidder will contribute to TU Dublin's ongoing research and innovation initiatives, enhancing the university's capabilities in advanced materials science and technology.\n\n**Key Requirements:**\n- **Technical Specifications:** The technology must be an electronically controlled discharge jet working in afterglow mode.\n- **Components:** For Lot 1, the Industrial CPA Cell should include a plasma generator with 3 nozzles, a six-axis robot, compressed air system, and an enclosure. For Lot 2, the R&D CPA Cell should include an XYZ sample stage, single nozzle, and liquid dispensing nebuliser unit.\n- **Intended Use:** The technology will be used for studying Controlled Polymer Ablation processes in both industrial and research settings.\n- **Discount Option:** Suppliers are encouraged to provide a multi-lot discount if tendering for both lots.\n\nBy partnering with TU Dublin, the selected supplier will contribute to the advancement of cutting-edge research and innovation in the field of polymer ablation, supporting the university's mission to drive technological progress and economic growth in Ireland.",
+      "main_nature": "supplies",
+      "main_classification": "38000000",
+      "additional_classifications": [
+        "42997300",
+        "38420000",
+        "38421000",
+        "33124110",
+        "42122500"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "131000",
+        "currency": "",
+        "maximum_value": "131000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "RANDD CPA Cell",
+      "description": "**Enhanced Proposal Description:**\n\nTechnological University Dublin (TU Dublin) is Ireland's first technological university, established on 1 January 2019, through the amalgamation of three existing institutes of technology in the Dublin area: Dublin Institute of Technology, Institute of Technology, Blanchardstown, and Institute of Technology, Tallaght. With a history dating back to 1887, TU Dublin is the second-largest third-level institution in Ireland, boasting a student population of approximately 28,000 and a staff of over 3,500.\n\nTU Dublin is deeply embedded in its region, with campuses in Dublin City Centre at Grangegorman, Aungier Street, and Bolton Street; in Blanchardstown; and in Tallaght. The university is committed to an entrepreneurial ethos and industry-focused approach, with extensive collaboration with industry for research and teaching. It supports the largest cohort of students in business, media, culinary arts, and the creative and performing arts, making it a significant contributor to Ireland's economic life.\n\nThe university is passionate about life-long learning and is the largest provider of part-time education in Ireland. TU Dublin's distinguished researchers and innovators are pioneers in science and technology discovery, contributing to policy and standards, and enhancing the creative life of Ireland. The university's award-winning technology transfer and business incubation activities have delivered over 400 sustainable new businesses with an economic value of almost €700 million.\n\nTU Dublin welcomes students and staff from around the world, fostering a strong international outlook. The university's international partnerships provide opportunities for student and staff exchange programs, major cross-collaboration research projects, and employment opportunities. With a global network of over 100,000 graduates, TU Dublin is proud of its global impact.\n\n**Specific Requirements for the Tender:**\n\nTU Dublin requests the best offer for the supply and installation of an atmospheric pressure plasma technology for studying Controlled Polymer Ablation (CPA) processes licensed from PLASMA BOUND (https://plasmabound.com/). The technology must be an electronically controlled discharge jet working in afterglow mode. Tenders are sought for a Controlled Polymer Ablation (CPA) Application Suite comprising of two separate Lots:\n\n- **Lot 1: Industrial CPA Cell**\n  - Consists of a plasma generator with 3 nozzles\n  - Includes a six-axis robot\n  - Features a compressed air system\n  - Enclosed unit\n  - Intended use: CPA application to manufactured parts\n  - Example unit shown in Figure 1a\n\n- **Lot 2: RANDD CPA Cell**\n  - Includes an XYZ sample stage\n  - Features a single nozzle\n  - Liquid dispensing nebuliser unit\n  - Intended use: Application of CPA treatments and coatings to coupons\n\nSuppliers are invited to tender for one or both lots. Suppliers are encouraged to provide a multi-lot discount if tendering for both lots.\n\n**Key Considerations:**\n\n1. **Technical Expertise:** Suppliers should demonstrate expertise in atmospheric pressure plasma technology and its applications in CPA processes.\n2. **Customization:** The ability to customize the technology for specific industrial and research applications is crucial.\n3. **Safety and Reliability:** The proposed technology must ensure safety and reliability in operation, particularly in controlled environments.\n4. **Maintenance and Support:** Suppliers should provide comprehensive maintenance and support services to ensure the longevity of the equipment.\n5. **Integration:** The technology should be easily integrable with existing systems and infrastructure at TU Dublin.\n\nBy considering these factors and the specific requirements outlined, bidders can effectively address the needs of TU Dublin and provide a suitable solution for the Controlled Polymer Ablation process.",
+      "main_nature": "supplies",
+      "main_classification": "38000000",
+      "additional_classifications": [
+        "42997300",
+        "38420000",
+        "38421000",
+        "33124110",
+        "42122500"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "131000",
+        "currency": "",
+        "maximum_value": "131000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3251221",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3251221"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/158140-2024/pdf"
+}

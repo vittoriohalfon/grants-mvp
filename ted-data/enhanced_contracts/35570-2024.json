@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "35570-2024",
+  "buyer": {
+    "official_name": "Tourism Ireland CLG",
+    "email": "hhughes@tourismireland.com",
+    "legal_type": "body-pl",
+    "activity": "gen-pub",
+    "address": {
+      "street": "4th Floor  - Bishop's Square, Redmond's Hill",
+      "city": "Dublin",
+      "postal_code": "D02 TD99",
+      "country": "IRL"
+    },
+    "website": "https://www.tourismireland.com/",
+    "company_id": "336370",
+    "phone": "+35314763400"
+  },
+  "procedure": {
+    "title": "GLOBAL TRAVEL INSIGHTS",
+    "description": "**Title: GLOBAL TRAVEL INSIGHTS**\n\n**Description:**\nThis project will engage a provider of research services to work with Tourism Ireland in conducting sentiment tracking amongst Tourism Ireland’s primary targets in its main markets over the next three years (2024-2026). The objective is to update and measure the success of the island of Ireland’s impressions and review the cut-through of the advertising in the international marketplace. The scope may also include advertising research as required and relevant to the needs of the organization.\n\n**Key Responsibilities:**\n- Conduct comprehensive sentiment tracking among Tourism Ireland’s primary targets in its main markets.\n- Update and measure the success of the island of Ireland’s impressions.\n- Review the effectiveness of advertising campaigns in the international marketplace.\n- Provide regular insights and reports on market trends and consumer sentiment.\n- Conduct advertising research as needed to inform strategic decisions.\n- Collaborate with Tourism Ireland to develop and implement research methodologies.\n- Ensure data accuracy, reliability, and compliance with industry standards.\n- Present findings and recommendations to Tourism Ireland’s management team.\n\n**Contract Term:**\nThe contract term will be for three years, subject to annual performance review, budget, and other factors. There is an option to extend annually, at Tourism Ireland's discretion, for up to a further two years should needs dictate.\n\n**Service Requirements:**\nPlease refer to the RFT documentation available for downloading for further information on the service requirements, including specific deliverables, timelines, and performance metrics.\n\n**Qualifications and Experience:**\nSuitable bidders should have extensive experience in conducting market research, particularly in the tourism sector. They should demonstrate expertise in sentiment analysis, advertising effectiveness, and data-driven insights. A proven track record of delivering high-quality research reports and collaborating with international tourism boards is essential. Bidders must also have the capability to work independently and as part of a team, ensuring seamless integration with Tourism Ireland’s operations.\n\n**Submission Requirements:**\nProposals should include a detailed methodology outlining the approach to sentiment tracking and advertising research. This should include specific tools and techniques to be used, as well as a timeline for data collection and reporting. Bidders must also provide examples of previous work in similar projects, highlighting their ability to deliver comprehensive and actionable insights. A clear breakdown of costs and a detailed project plan should also be included in the submission.\n\nBy engaging a provider with the right expertise and experience, Tourism Ireland aims to enhance its understanding of the global travel market, improve the effectiveness of its advertising campaigns, and ultimately drive tourism growth for the island of Ireland.",
+    "identifier": "4816e309-de25-41bd-a489-2f837bd2c046",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-02-06+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "73110000",
+    "additional_classifications": [
+      "73000000",
+      "73210000",
+      "79310000",
+      "79300000",
+      "73000000",
+      "73210000",
+      "79310000",
+      "79300000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "1500000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-02-06+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2867402"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "false",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "GLOBAL TRAVEL INSIGHTS",
+      "description": "This project will engage a provider of research services to work with Tourism Ireland in conducting sentiment tracking amongst Tourism Ireland’s primary targets in its main markets in the next 3 years (2024-2026). This will involve updating and measuring the success of the island of Ireland’s impressions and reviewing the cut through of the advertising in the international marketplace. It may also include advertising research as required and relevant to the needs of the organisation. The Contract term will be for three [3] years subject to annual performance review, budget and other factors, with the option to extend annually, at Tourism Ireland's discretion, for up to a further two years should needs dictate. PLEASE REFER TO THE RFT DOCUMENTATION AVAILABLE FOR DOWNLOADING FOR FURTHER INFORMATION ON THE SERVICE REQUIREMENTS",
+      "main_nature": "services",
+      "main_classification": "73110000",
+      "additional_classifications": [
+        "73000000",
+        "73210000",
+        "79310000",
+        "79300000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "1500000",
+        "currency": "",
+        "maximum_value": "1500000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "sui-act",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2867402"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/35570-2024/pdf"
+}

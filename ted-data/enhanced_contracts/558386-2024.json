@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "558386-2024",
+  "buyer": {
+    "official_name": "Cabhru Housing Association",
+    "email": "pat.doherty@cabhru.ie",
+    "legal_type": "body-pl",
+    "activity": "hc-am",
+    "address": {
+      "street": "Four Courts, Inns Quay, Dublin 7",
+      "city": "Dublin",
+      "postal_code": "D07 WDX8",
+      "country": "IRL"
+    },
+    "website": "www.cabhru.ie",
+    "company_id": "20008543",
+    "phone": "014438842"
+  },
+  "procedure": {
+    "title": "Establishment of a Multiple Operator Framework Agreement for Cabhru Housing Association for Project Management Services for Housing Projects",
+    "description": "Project Management Services for three (3) projects, namely, James McSweeney House, Berkeley St, Dublin 1, St Annes Court, Ballinteer, Dublin 16 and 80 Philipsburgh Avenue, Fairview, Dublin 3 and the establishment of a Multiple Operator Framework Agreement for Cabhru Housing Association. The Project comprises the development of three (3) separate social residential projects which are currently at various stages of development.",
+    "identifier": "8f8248e9-73cc-46e6-b046-cfa548bb260b",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-18+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72224000",
+    "additional_classifications": [
+      "71541000",
+      "71530000",
+      "71541000",
+      "71530000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "300000",
+    "currency": "",
+    "maximum_value": "650000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-18+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4310225"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Establishment of a Multiple Operator Framework Agreement for Cabhru Housing Association for Project Management Services for Housing Projects",
+      "description": "Project Management Services for three (3) projects, namely, James McSweeney House, Berkeley St, Dublin 1, St Annes Court, Ballinteer, Dublin 16 and 80 Philipsburgh Avenue, Fairview, Dublin 3 and the establishment of a Multiple Operator Framework Agreement for Cabhru Housing Association. The Project comprises the development of three (3) separate social residential projects which are currently at various stages of development.",
+      "main_nature": "services",
+      "main_classification": "72224000",
+      "additional_classifications": [
+        "71541000",
+        "71530000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "300000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4310225"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/558386-2024/pdf"
+}

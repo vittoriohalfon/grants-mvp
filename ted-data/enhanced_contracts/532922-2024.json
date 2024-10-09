@@ -1,0 +1,117 @@
+{
+  "notice_publication_id": "532922-2024",
+  "buyer": {
+    "official_name": "Rásaíocht Con Éireann",
+    "email": "procurement@grireland.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "rcr",
+    "address": {
+      "street": "Greenpark,Dock Road",
+      "city": "Limerick",
+      "postal_code": "v94y17x",
+      "country": "IRL"
+    },
+    "website": "https://grireland.ie/",
+    "company_id": "0532995u",
+    "phone": "0035361448036"
+  },
+  "procedure": {
+    "title": "RACECARD DESIGN, PRINT AND DELIVERY TO RCE STADIA",
+    "description": "Required Services The subject-matter of this competition is for the Provision of racecard printing and delivery to RCÉ Sites Nationwide.",
+    "identifier": "f14026fe-2e13-40fb-a7c3-7178d7b34e8b",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-16+01:00",
+    "deadline_time": "13:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "30197645",
+    "additional_classifications": [
+      "42962200",
+      "79824000",
+      "79823000",
+      "79800000",
+      "79810000",
+      "42962200",
+      "79824000",
+      "79823000",
+      "79800000",
+      "79810000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "285000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-16+01:00",
+    "open_tender_time": "13:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4254343"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "RACECARD DESIGN, PRINT AND DELIVERY TO RCE STADIA",
+      "description": "Required Services The subject-matter of this competition is for the Provision of racecard printing and delivery to RCÉ Sites Nationwide.",
+      "main_nature": "supplies",
+      "main_classification": "30197645",
+      "additional_classifications": [
+        "42962200",
+        "79824000",
+        "79823000",
+        "79800000",
+        "79810000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "285000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4254343"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/532922-2024/pdf"
+}

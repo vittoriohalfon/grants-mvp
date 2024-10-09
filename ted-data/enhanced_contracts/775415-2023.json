@@ -1,0 +1,123 @@
+{
+  "notice_publication_id": "775415-2023",
+  "buyer": {
+    "official_name": "Irish Defence Forces_1144",
+    "email": "info@military.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "defence",
+    "address": {
+      "street": "Station Rd.",
+      "city": "Newbridge",
+      "postal_code": "W12AD93",
+      "country": "IRL"
+    },
+    "website": "https://www.military.ie/en/",
+    "company_id": "123456a",
+    "phone": "+35345492483"
+  },
+  "procedure": {
+    "title": "Single Party Framework for Mechanical and Electrical Engineering Consultancy Services for Minor Works and Commissions",
+    "description": "The The Minister for Defence is seeking to establish a multi-party framework agreement for the provision of Architectural Consultancy Services.",
+    "identifier": "43ea6f67-9604-44fe-9bd0-8657a2c19314",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-16+00:00",
+    "deadline_time": "00:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71314000",
+    "additional_classifications": [
+      "71315000",
+      "71321000",
+      "71321200",
+      "71321300",
+      "71321400",
+      "71333000",
+      "71334000",
+      "71315000",
+      "71321000",
+      "71321200",
+      "71321300",
+      "71321400",
+      "71333000",
+      "71334000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "600000",
+    "currency": "",
+    "maximum_value": "600000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-16+00:00",
+    "open_tender_time": "00:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2864615"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Single Party Framework for Mechanical and Electrical Engineering Consultancy Services for Minor Works and Commissions",
+      "description": "The The Minister for Defence is seeking to establish a multi-party framework agreement for the provision of Architectural Consultancy Services.",
+      "main_nature": "services",
+      "main_classification": "71314000",
+      "additional_classifications": [
+        "71315000",
+        "71321000",
+        "71321200",
+        "71321300",
+        "71321400",
+        "71333000",
+        "71334000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "600000",
+        "currency": "",
+        "maximum_value": "600000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "yes",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2864615"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/775415-2023/pdf"
+}

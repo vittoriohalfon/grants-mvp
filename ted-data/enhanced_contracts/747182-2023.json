@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "747182-2023",
+  "buyer": {
+    "official_name": "Munster Technological University.",
+    "email": "tenders@mtu.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Clash",
+      "city": "Tralee",
+      "postal_code": "V92 CX88",
+      "country": "IRL"
+    },
+    "website": "https://www.mtu.ie",
+    "company_id": "3714786EH",
+    "phone": "+353 667145615"
+  },
+  "procedure": {
+    "title": "Tender for the provision of a Digital CPD Platform to MTU",
+    "description": "Munster Technological University (MTU) is a public technological university established in January 2021 through the merger of Cork Institute of Technology and the Institute of Technology, Tralee. MTU operates six campuses across Cork and Kerry, offering a diverse range of academic programs from apprenticeships to PhDs. The university accommodates over 18,000 students and employs more than 2,000 staff members. MTU is committed to education, research, innovation, and collaboration, with a focus on supporting student development and regional growth.\n\nMTU is seeking tenders from competent service providers for the supply of a Digital Continuous Professional Development (DCPD) Platform. The platform will serve as a centralized hub for all staff members to plan, collate, and showcase their CPD activities. Key requirements include:\n\n- **Centralized Hub**: A fully functional, online, modern, and interactive hosting platform that will act as a central hub for CPD-related activities.\n- **General Information Repository**: The platform must be equipped with the capacity to store a repository of general CPD-related information.\n- **Individualized Private Pages**: Individualized private pages for staff to manage their own CPD activities.\n- **User-Friendly Interface**: The platform should have an intuitive and user-friendly interface to ensure easy navigation and management of CPD activities.\n- **Data Security**: The platform must ensure robust data security measures to protect sensitive information.\n- **Scalability**: The platform should be scalable to accommodate the growing needs of MTU staff.\n- **Integration Capabilities**: The ability to integrate with existing MTU systems and tools is essential.\n- **Support and Maintenance**: The supplier should provide comprehensive support and maintenance services to ensure the platform remains operational and up-to-date.\n\nThe full details of the tender can be found on the eTenders website (www.etenders.ie). MTU is seeking a reliable and innovative supplier who can deliver a state-of-the-art DCPD platform that meets the university's specific needs and supports its commitment to staff development and continuous learning.",
+    "identifier": "1a1977e8-4800-4006-90bd-a3a67ce978aa",
+    "type": "open",
+    "accelerated": "true",
+    "deadline_date": "2024-01-10+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "80000000",
+    "additional_classifications": [
+      "48931000",
+      "72212931",
+      "80500000",
+      "80533100",
+      "80000000",
+      "80000000",
+      "80500000",
+      "80533100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "80000",
+    "currency": "",
+    "maximum_value": "80000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-10+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2812971"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Tender for the provision of a Digital CPD Platform to MTU",
+      "description": "Munster Technological University is seeking tenders from competent service providers for the supply of a Digital Continuous Professional Development Platform (DCPD). MTU will appoint a single supplier. The DCPD platform is an online resource that will allow staff members to plan, collate and showcase their CPD activities. It will consist of a centralised hub where general information regarding CPD will be posted for all staff as well as individualised private pages for staff to manage their own CPD activities. Specifically, MTU requires a fully functional, online, modern, interactive hosting platform that will act as a central hub for CPD related activities. The platform must be equipped with the capacity to store a repository of general CPD related information in the form of a central hub, as well as individualized private pages for users of the platform. Please see full details in the CFT Document on www.etenders.ie",
+      "main_nature": "services",
+      "main_classification": "80000000",
+      "additional_classifications": [
+        "80000000",
+        "80000000",
+        "80500000",
+        "80533100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "80000",
+        "currency": "",
+        "maximum_value": "80000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2812971"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/747182-2023/pdf"
+}

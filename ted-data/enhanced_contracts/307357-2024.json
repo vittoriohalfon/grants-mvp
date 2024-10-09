@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "307357-2024",
+  "buyer": {
+    "official_name": "Image Skillnet",
+    "email": "accounts@imageskillnet.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Carrick Business Campus",
+      "city": "Carrick on Shannon",
+      "postal_code": "N41 N1F2",
+      "country": "IRL"
+    },
+    "website": "www.imageskillnet.ie",
+    "company_id": "606361",
+    "phone": "0719640438"
+  },
+  "procedure": {
+    "title": "Aesthetic Medicine Masters – Level 9",
+    "description": "**Title: Aesthetic Medicine Masters – Level 9**\n\n**Description:**\nImage Skillnet, a unique not-for-profit, enterprise-led training network dedicated to supporting the hair, beauty, and spa sector in the Republic of Ireland, is seeking the development of a new training program and rollout of a pilot program for a bespoke Level 9 in Practical Aesthetic Medicine aimed at Doctors, Nurses, and Dentists. The key objective for Image Skillnet is to provide a recognized, accredited Level 9 program and qualification that will serve as the perfect foundation for medical professionals wanting to become experts in the field of aesthetic medicine. This program will combine clinically proven treatments and core science to ensure that participants can practice ethically and confidently within the growing aesthetic sector in the Republic of Ireland. The program must be designed to meet the specific needs of the industry, ensuring that it is relevant, effective, and impactful on both the participants and the sector as a whole. The ideal bidder should have extensive experience in developing and delivering high-quality, specialized training programs for medical professionals, with a proven track record of accreditation and recognition within the healthcare sector. The bidder should also demonstrate a deep understanding of the aesthetic medicine industry and its evolving needs, as well as the ability to engage with employers and employees to ensure that the program aligns with industry demands. The successful bidder will be expected to deliver a comprehensive training program that includes theoretical and practical components, ensuring that participants are equipped with the necessary skills and knowledge to excel in their careers. The pilot program should be designed to be scalable and adaptable to meet the future needs of the industry, with clear evaluation criteria to assess its effectiveness and impact. The bidder should also provide a detailed plan for the rollout of the program, including timelines, resources, and budget breakdowns. The successful bidder will be expected to collaborate closely with Image Skillnet to ensure that the program meets all the specified objectives and contributes to the development of a strong, highly-skilled, and sustainable workforce within the aesthetic medicine sector in Ireland.",
+    "identifier": "18fd3b67-bee7-4551-b977-6fe2db2df7bd",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-24+01:00",
+    "deadline_time": "15:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "80000000",
+    "additional_classifications": [
+      "80521000",
+      "80430000",
+      "80521000",
+      "80430000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "875000",
+    "currency": "",
+    "maximum_value": "875000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-06-24+01:00",
+    "open_tender_time": "15:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3642721"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Aesthetic Medicine Masters – Level 9",
+      "description": "**Title: Aesthetic Medicine Masters – Level 9**\n\n**Description:**\nImage Skillnet, a unique not-for-profit, enterprise-led training network, is seeking the development of a new training program and the rollout of a pilot program for a bespoke Level 9 in Practical Aesthetic Medicine aimed at Doctors, Nurses, and Dentists. Our mission is to deliver high-quality learning and development that is effective and relevant, with a significant impact on the participant, the enterprise, the sector, and the wider economy.\n\nThe key objective for Image Skillnet is to provide a recognized, accredited Level 9 program and qualification that will serve as the perfect foundation for medical professionals wanting to become experts in the field of aesthetic medicine. This program will combine clinically proven treatments and core science to ensure that participants can practice ethically and confidently within the growing aesthetic sector in the Republic of Ireland.\n\nTo achieve this, we are looking for a bidder who can design and deliver a comprehensive training program that meets the following criteria:\n- **Expertise:** The bidder should have extensive experience in developing and delivering advanced medical training programs, particularly in the field of aesthetic medicine.\n- **Accreditation:** The program must be recognized and accredited by relevant Irish and international bodies to ensure its credibility and validity.\n- **Relevance:** The training should be tailored to meet the specific needs of medical professionals in the Republic of Ireland, addressing the latest advancements and best practices in aesthetic medicine.\n- **Engagement:** The bidder should demonstrate a strong ability to engage with employers and employees, ensuring that the training is relevant, effective, and impactful.\n- **Sustainability:** The program should be designed with sustainability in mind, aligning with Image Skillnet's commitment to building a strong, highly-skilled, and sustainable workforce within the hair, beauty, and spa sector.\n\nBy partnering with Image Skillnet, the successful bidder will contribute to enhancing the skills and knowledge of medical professionals in Ireland, thereby supporting the growth and development of the aesthetic medicine sector. We encourage bidders to outline their approach, methodology, and any relevant case studies or testimonials that demonstrate their capability to deliver such a high-quality program.",
+      "main_nature": "services",
+      "main_classification": "80000000",
+      "additional_classifications": [
+        "80521000",
+        "80430000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "875000",
+        "currency": "",
+        "maximum_value": "875000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3642721"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/307357-2024/pdf"
+}

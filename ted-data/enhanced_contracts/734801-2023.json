@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "734801-2023",
+  "buyer": {
+    "official_name": "Department of Housing Local Government and Heritage",
+    "email": "strategy@housing.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Newtown Road",
+      "city": "Wexford",
+      "postal_code": "Y35 AP90",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie",
+    "company_id": "Not Applicable",
+    "phone": "+53 9117551"
+  },
+  "procedure": {
+    "title": "Tender for the Provision of Software as a Service (SAAS) solution for External Audit Management",
+    "description": "In summary, the Services comprise: configuration, implementation and support of a software service and associated hosting solution for the management of external audit by the Department's Local Government Audit Service.",
+    "identifier": "f90220b6-d437-483f-a0d5-bc6440116b24",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-02-01+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72000000",
+    "additional_classifications": [
+      "72300000",
+      "79212000",
+      "72300000",
+      "79212000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "310000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-02-01+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2786026"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "6",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Tender for the Provision of Software as a Service (SAAS) solution for External Audit Management",
+      "description": "In summary, the Services comprise: configuration, implementation and support of a software service and associated hosting solution for the management of external audit by the Department's Local Government Audit Service.",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "72300000",
+        "79212000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "310000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": "true"
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2786026"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/734801-2023/pdf"
+}

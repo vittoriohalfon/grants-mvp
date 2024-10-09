@@ -1,0 +1,132 @@
+{
+  "notice_publication_id": "473771-2024",
+  "buyer": {
+    "official_name": "Health Service Executive (HSE)",
+    "email": "procurement.helpdesk@hse.ie",
+    "legal_type": "body-pl",
+    "activity": "health",
+    "address": {
+      "street": "Oak House, Millennium Park Naas Co. Kildare",
+      "city": "Kildare",
+      "postal_code": "RE",
+      "country": "IRL"
+    },
+    "website": "https://www.hse.ie",
+    "company_id": "00000",
+    "phone": "000000"
+  },
+  "procedure": {
+    "title": "National Dental Records and Information System HSE 21175",
+    "description": "The National Dental Records and Information System project aims to replace the existing National Dental System, which is due to move to end of support status, with a National Dental Record and Information System that supports the provision of dental services and public health obligations of the HSE Community Dental Service. The scope of this tender is the delivery of required ICT solution to enable the successful establishment and management of the National Dental Record and Information System. The successful solution must include an ICT System Solution that is fully vendor managed and hosted SaaS solution including but not limited to: project management, licences, implementation, pre and post testing, training, ongoing support and maintenance, configuration, data migration, current and future integrations. The successful tenderer will deliver a system which will enable the provision of integrated Dental care nationally across the primary care settings. The system will manage and record the paediatric and adult patient journey within dental pathways and facilitate a high-quality service by enabling the implementation of the National Dental Records System. The requirement is that the dental record information system offered, currently exists and is demonstrable, in addition to being configurable, user friendly and intuitive, with the configuration and setup resulting from collaborations between the successful tenderer and the organisations. It is also expected that this collaboration will be sought to ensure that informed choices for configurations are based on available evidence-based practice and organisationally defined standards, policies and processes. It is expected that the procured solution will be highly interoperable and therefore capable of interfacing with National solutions such as the Individual Health Identifier, NIMIS, MedLIS, existing EHR’s as well as future solutions. The purpose of the National Dental Records and Information System is to: provide a single national database of dental service information across all Regional Health Authorities; provide secure and appropriate access to patient records for both clinicians and administrative staff in the provision of service to patients; To provide continuity of care through a single patient dental record enable key datasets across the Regional Health Authorities dental services. The key objectives are to maintain continuity of care for patients by ensuring the provision for: Electronic patient record; Migrating the existing patient records into the new system; Streamlining and digitising processes e.g. appointment management; Support the production of reports as required for dental public health services nationally.",
+    "identifier": "849c2512-97d0-47d0-ab63-6cec66929df6",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-09-06+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72300000",
+    "additional_classifications": [
+      "48612000",
+      "72320000",
+      "72321000",
+      "72260000",
+      "72261000",
+      "72267100",
+      "72250000",
+      "72212600",
+      "48610000",
+      "48611000",
+      "48612000",
+      "72320000",
+      "72321000",
+      "72260000",
+      "72261000",
+      "72267100",
+      "72250000",
+      "72212600",
+      "48610000",
+      "48611000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "5000000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "2024-09-06+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3886809"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "National Dental Records and Information System HSE 21175",
+      "description": "The National Dental Records and Information System project aims to replace the existing National Dental System, which is due to move to end of support status, with a National Dental Record and Information System that supports the provision of dental services and public health obligations of the HSE Community Dental Service. The scope of this tender is the delivery of required ICT solution to enable the successful establishment and management of the National Dental Record and Information System. The successful solution must include an ICT System Solution that is fully vendor managed and hosted SaaS solution including but not limited to: project management, licences, implementation, pre and post testing, training, ongoing support and maintenance, configuration, data migration, current and future integrations. The successful tenderer will deliver a system which will enable the provision of integrated Dental care nationally across the primary care settings. The system will manage and record the paediatric and adult patient journey within dental pathways and facilitate a high-quality service by enabling the implementation of the National Dental Records System. The requirement is that the dental record information system offered, currently exists and is demonstrable, in addition to being configurable, user friendly and intuitive, with the configuration and setup resulting from collaborations between the successful tenderer and the organisations. It is also expected that this collaboration will be sought to ensure that informed choices for configurations are based on available evidence-based practice and organisationally defined standards, policies and processes. It is expected that the procured solution will be highly interoperable and therefore capable of interfacing with National solutions such as the Individual Health Identifier, NIMIS, MedLIS, existing EHR’s as well as future solutions. The purpose of the National Dental Records and Information System is to: provide a single national database of dental service information across all Regional Health Authorities; provide secure and appropriate access to patient records for both clinicians and administrative staff in the provision of service to patients; To provide continuity of care through a single patient dental record enable key datasets across the Regional Health Authorities dental services. The key objectives are to maintain continuity of care for patients by ensuring the provision for: Electronic patient record; Migrating the existing patient records into the new system; Streamlining and digitising processes e.g. appointment management; Support the production of reports as required for dental public health services nationally.",
+      "main_nature": "services",
+      "main_classification": "72300000",
+      "additional_classifications": [
+        "48612000",
+        "72320000",
+        "72321000",
+        "72260000",
+        "72261000",
+        "72267100",
+        "72250000",
+        "72212600",
+        "48610000",
+        "48611000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "5000000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3886809"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/473771-2024/pdf"
+}

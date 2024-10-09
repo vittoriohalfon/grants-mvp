@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "284252-2024",
+  "buyer": {
+    "official_name": "Clare County Council",
+    "email": "procurement@clarecoco.ie",
+    "legal_type": "la",
+    "activity": "hc-am",
+    "address": {
+      "street": "Áras Contae an Chláir New Road Ennis County Clare",
+      "city": "Ennis",
+      "postal_code": "V95 DXP2",
+      "country": "IRL"
+    },
+    "website": "https://www.clarecoco.ie",
+    "company_id": "0000",
+    "phone": "0656846269"
+  },
+  "procedure": {
+    "title": "Housing Development at Gort Road, Ennis, Co. Clare",
+    "description": "**Title: Housing Development at Gort Road, Ennis, Co. Clare**\n\n**Description:**\nClare County Council invites bids for the development of 12 housing units and associated site development works at Gort Road, Ennis, Co. Clare. The successful bidder will be responsible for delivering high-quality housing units that meet the council's standards for sustainability, accessibility, and community integration. The project aims to enhance the quality of life for residents in County Clare by providing modern and well-maintained housing.\n\n**Key Requirements:**\n1. **Project Scope:**\n   - Development of 12 housing units.\n   - Associated site development works, including infrastructure and landscaping.\n\n2. **Council's Objectives:**\n   - Ensure the project aligns with the council's strategic goals for housing and community development.\n   - Promote sustainable and environmentally friendly practices in the construction process.\n   - Foster community engagement and integration through the design and layout of the housing units.\n\n3. **Technical Specifications:**\n   - The housing units must comply with all relevant building regulations and standards.\n   - The site development works should include provision for necessary utilities, such as water, electricity, and waste management.\n   - The bidder should provide detailed plans and specifications for the project, including timelines and milestones.\n\n4. **Community Involvement:**\n   - The bidder is expected to engage with local community groups and stakeholders to ensure that the project meets their needs and expectations.\n   - The development should contribute positively to the local environment and community.\n\n5. **Environmental Considerations:**\n   - The bidder must adhere to environmental regulations and best practices, including waste management and energy efficiency.\n   - The project should minimize its impact on the local ecosystem and preserve natural resources.\n\n6. **Health and Safety:**\n   - The bidder is responsible for ensuring a safe working environment during the construction phase.\n   - Compliance with all health and safety regulations is mandatory.\n\n7. **Budget and Financing:**\n   - The bidder should provide a detailed breakdown of the project costs, including all expenses related to construction, materials, labor, and site preparation.\n   - The council reserves the right to negotiate the terms of the contract based on the submitted proposals.\n\n8. **Submission Requirements:**\n   - Bidders must submit their proposals electronically through the council's designated portal.\n   - The proposal should include a comprehensive project plan, technical specifications, timelines, and a detailed budget.\n\n9. **Evaluation Criteria:**\n   - The council will evaluate proposals based on technical merit, cost-effectiveness, community engagement, and environmental sustainability.\n   - The bidder with the best overall proposal will be selected for the project.\n\n10. **Timeline:**\n    - The project timeline should include key milestones and deadlines for completion.\n    - The bidder should provide a realistic timeline that aligns with the council's expectations.\n\nBy responding to this public tender, the bidder demonstrates their ability to deliver high-quality housing projects that meet the needs of the local community while adhering to environmental and health and safety standards. Clare County Council is committed to enhancing the quality of life in County Clare through leadership and partnership, and this project is a key part of that vision.",
+    "identifier": "06c3b4b2-793c-445b-ae02-fa4bc8ac9740",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-10+01:00",
+    "deadline_time": "16:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45211100",
+    "additional_classifications": [
+      "45210000",
+      "45211300",
+      "45210000",
+      "45211300"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "4200000",
+    "currency": "",
+    "maximum_value": "4200000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-06-10+01:00",
+    "open_tender_time": "16:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3576486"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Housing Development at Gort Road, Ennis, Co. Clare",
+      "description": "The development of 12 no. housing units and associated site development works at Gort Road, Ennis, Co. Clare",
+      "main_nature": "works",
+      "main_classification": "45211100",
+      "additional_classifications": [
+        "45210000",
+        "45211300"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "4200000",
+        "currency": "",
+        "maximum_value": "4200000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3576486"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/284252-2024/pdf"
+}

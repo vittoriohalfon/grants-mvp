@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "711325-2023",
+  "buyer": {
+    "official_name": "Limerick City and County Council_103432",
+    "email": "procurement@limerick.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Merchant's Quay,",
+      "city": "Limerick.",
+      "postal_code": "V94 EH90",
+      "country": "IRL"
+    },
+    "website": "https://www.limerick.ie/",
+    "company_id": "3267368TH",
+    "phone": "+353 61 556000"
+  },
+  "procedure": {
+    "title": "Limerick City and County Council - Hire of Panel Vans (DGVW 1900 - 2200 Kgs)",
+    "description": "**Title:** Limerick City and County Council - Hire of Panel Vans (DGVW 1900 - 2200 Kgs)\n\n**Description:**\nLimerick City and County Council (LCCC) is seeking to hire panel vans with a gross vehicle weight (DGVW) of 1900 to 2200 kilograms. This procurement is part of a broader initiative to transition from Internal Combustion Engine (ICE) vehicles to clean vehicles, as mandated by Statutory Instrument 381 of 2021. The council aims to reduce the number of hired ICE vehicles by 20% annually and will gradually phase out these vehicles as they purchase their own clean vehicles.\n\n**Key Requirements:**\n- **Vehicle Specifications:** Panel vans with a DGVW of 1900 to 2200 kilograms.\n- **Environmental Considerations:** Preference will be given to suppliers offering clean vehicles that align with the council's commitment to reducing carbon emissions.\n- **Annual Reduction:** The number of hired ICE vehicles will be reduced by 20% each year.\n- **Transition Plan:** The supplier is advised that the number of hired vehicles will be phased out annually as LCCC purchases its own clean vehicles.\n\n**Additional Information:**\n- **Council's Role:** LCCC is responsible for local services such as sanitation, planning, development, libraries, motor taxation, local roads, and social housing in the city.\n- **Council Structure:** The council comprises elected councillors and an appointed full-time CEO as the city manager. Local elections are held every five years, and councillors annually elect a Cathaoirleach (chairperson) and a mayor to represent the city.\n\nBy responding to this tender, bidders should ensure they meet the specified vehicle requirements and demonstrate their commitment to environmental sustainability. The successful bidder will be expected to provide clean vehicles that align with LCCC's environmental policies and support the council's transition to a more sustainable fleet.",
+    "identifier": "639f2cc4-8b18-44ca-9c4c-9df73b53d170",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2023-12-30+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "34136200",
+    "additional_classifications": [
+      "34136100",
+      "34136100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "292500",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2023-12-30+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2739184"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Limerick City and County Council - Hire of Panel Vans (DGVW 1900 - 2200 Kgs)",
+      "description": "**Title: Limerick City and County Council - Hire of Panel Vans (DGVW 1900 - 2200 Kgs)**\n\n**Description:**\nLimerick City and County Council (LCCC) is seeking to hire panel vans with a gross vehicle weight (DGVW) between 1900 kg and 2200 kg. This procurement is part of a broader initiative to transition from Internal Combustion Engine (ICE) vehicles to clean vehicles, as mandated by Statutory Instrument 381 of 2021. In line with this directive, LCCC aims to reduce the number of hired ICE vehicles by 20% annually. The supplier is advised that the number of hired vehicles will be phased out annually as LCCC purchases its own clean vehicles. The successful bidder will be required to provide vehicles that meet the specified weight range and are compliant with the council's environmental sustainability goals. The hired vehicles must be in good condition, with a reliable maintenance record, and should be available for immediate use. The contract duration will be specified in the tender documents, and the supplier must demonstrate a commitment to delivering high-quality services and adhering to the council's environmental policies. The procurement process will prioritize bidders who can provide vehicles that align with the council's sustainability objectives and have a proven track record of reliability and maintenance. \n\n**Additional Requirements:**\n- The vehicles must be compliant with all relevant EU and Irish regulations.\n- The supplier must provide detailed information about the vehicle's maintenance history and any warranties or guarantees.\n- The bidder should have experience in providing similar services to local authorities or large organizations.\n- The proposal should include a detailed breakdown of the costs, including any additional services such as fuel, maintenance, and insurance.\n- The supplier must demonstrate their ability to meet the council's environmental standards and provide a plan for the eventual replacement of the hired vehicles with clean vehicles.\n\nBy responding to this tender, the bidder will be contributing to Limerick City and County Council's efforts to reduce its carbon footprint and promote sustainable transportation practices. The council is committed to working with suppliers who share its values of environmental responsibility and community engagement.",
+      "main_nature": "supplies",
+      "main_classification": "34136200",
+      "additional_classifications": [
+        "34136100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "292500",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2739184"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/711325-2023/pdf"
+}

@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "556382-2024",
+  "buyer": {
+    "official_name": "University College Cork",
+    "email": "procurement@ucc.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "University College Cork, 6 Elderwood, College Road",
+      "city": "Cork",
+      "postal_code": "T12 VH39",
+      "country": "IRL"
+    },
+    "website": "https://www.ucc.ie",
+    "company_id": "IE0006286E",
+    "phone": "+353 21 4903514"
+  },
+  "procedure": {
+    "title": "Establishment of a Single Supplier Framework of Health and Safety Consultancy Services for Buildings and Estates Office, UCC",
+    "description": "This Tender is to establish a Single Supplier Framework of Health and Safety Consultancy Services for Buildings and Estates Office , UCC to whom specific tasks will be awarded on an exclusive basis based on the terms of a framework agreement, a copy of which will be issued with the tender documents. The Framework Agreement will be established on foot of competitive tenders received for the award of contract for the role of Health and Safety Consultancy Services based on notional hours as detailed in the pricing document for a duration of 4 years.",
+    "identifier": "aa985ab9-132a-48ba-823e-62e3156ec6b5",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-18+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71317210",
+    "additional_classifications": [
+      "71317200",
+      "71317200"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "900000",
+    "currency": "",
+    "maximum_value": "900000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-18+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4318846"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Establishment of a Single Supplier Framework of Health and Safety Consultancy Services for Buildings and Estates Office, UCC",
+      "description": "This Tender is to establish a Single Supplier Framework of Health and Safety Consultancy Services for Buildings and Estates Office , UCC to whom specific tasks will be awarded on an exclusive basis based on the terms of a framework agreement, a copy of which will be issued with the tender documents. The Framework Agreement will be established on foot of competitive tenders received for the award of contract for the role of Health and Safety Consultancy Services based on notional hours as detailed in the pricing document for a duration of 4 years.",
+      "main_nature": "services",
+      "main_classification": "71317210",
+      "additional_classifications": [
+        "71317200"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4318846"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/556382-2024/pdf"
+}

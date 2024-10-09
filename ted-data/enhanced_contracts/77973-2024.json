@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "77973-2024",
+  "buyer": {
+    "official_name": "Dún Laoghaire-Rathdown County Council",
+    "email": "procurement@dlrcoco.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "County Hall, Marine Road",
+      "city": "Dún Laoghaire",
+      "postal_code": "A96 K6C9",
+      "country": "IRL"
+    },
+    "website": "https://www.dlrcoco.ie",
+    "company_id": "9509809R",
+    "phone": "353 1 2054700"
+  },
+  "procedure": {
+    "title": "DLR Co Co Multi-Party Framework Agreement for Consultancy Services (Technical) with an initial contract for the Preparation of a ‘Smart Parking’ Study for Cherrywood Strategic Development Zone (SDZ)",
+    "description": "Multi-party framework for technical consultancy services in relation to Transport and Roads Planning and Design with an initial contract for the Preparation of a ‘Smart Parking’ Study for Cherrywood Strategic Development Zone (SDZ)",
+    "identifier": "74d7cf32-6eed-446b-a261-029bfdd8bede",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-03-04+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71311000",
+    "additional_classifications": [
+      "71310000",
+      "71300000",
+      "71310000",
+      "71300000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": "10000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "DLR Co Co Multi-Party Framework Agreement for Consultancy Services (Technical) with an initial contract for the Preparation of a ‘Smart Parking’ Study for Cherrywood Strategic Development Zone (SDZ)",
+      "description": "Multi-party framework for technical consultancy services in relation to Transport and Roads Planning and Design with an initial contract for the Preparation of a ‘Smart Parking’ Study for Cherrywood Strategic Development Zone (SDZ)",
+      "main_nature": "services",
+      "main_classification": "71311000",
+      "additional_classifications": [
+        "71310000",
+        "71300000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "10000000",
+        "currency": "",
+        "maximum_value": "10000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-w-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3037058"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/77973-2024/pdf"
+}

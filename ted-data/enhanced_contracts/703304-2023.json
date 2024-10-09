@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "703304-2023",
+  "buyer": {
+    "official_name": "Donegal County Council_1193",
+    "email": "procurement@donegalcoco.ie",
+    "legal_type": "body-pl-la",
+    "activity": "hc-am",
+    "address": {
+      "street": "County House",
+      "city": "Lifford",
+      "postal_code": "F93 Y622",
+      "country": "IRL"
+    },
+    "website": "https://www.etenders.gov.ie",
+    "company_id": "IE8F28103W",
+    "phone": "+353 749153900"
+  },
+  "procedure": {
+    "title": "Testing and reporting on results of concrete blocks/cores in accordance with I.S. 465+A1: 2020",
+    "description": "Testing and reporting on results of concrete blocks/cores in accordance with I.S. 465+A1: 2020",
+    "identifier": "840c8462-45d8-4322-ade5-2df43efa9cf6",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2023-12-22+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71351100",
+    "additional_classifications": [
+      "71600000",
+      "71630000",
+      "73000000",
+      "73200000",
+      "71600000",
+      "71630000",
+      "73000000",
+      "73200000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "400000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2721015"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "false",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "false",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "180",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Testing and reporting on results of concrete blocks/cores in accordance with I.S. 465+A1: 2020",
+      "description": "Testing and reporting on results of concrete blocks/cores in accordance with I.S. 465+A1: 2020",
+      "main_nature": "services",
+      "main_classification": "71351100",
+      "additional_classifications": [
+        "71600000",
+        "71630000",
+        "73000000",
+        "73200000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "400000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2721015"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/703304-2023/pdf"
+}

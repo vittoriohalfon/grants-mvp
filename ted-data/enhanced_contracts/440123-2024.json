@@ -1,0 +1,120 @@
+{
+  "notice_publication_id": "440123-2024",
+  "buyer": {
+    "official_name": "Teagasc - the Agriculture and Food Development Authority",
+    "email": "procurement@teagasc.ie",
+    "legal_type": "body-pl",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Head Office, Oak Park",
+      "city": "Carlow",
+      "postal_code": "R93 XE12",
+      "country": "IRL"
+    },
+    "website": "https://www.teagasc.ie",
+    "company_id": "N/A",
+    "phone": "0599183150"
+  },
+  "procedure": {
+    "title": "Desktop Deployment Services and Ad-hoc ICT Resources",
+    "description": "**Title:** Desktop Deployment Services and Ad-hoc ICT Resources for Teagasc\n\n**Description:**\nTeagasc, the Agriculture and Food Development Authority in Ireland, is seeking a provider for Desktop Deployment Services and Ad-hoc ICT Resources. As a semi-state authority responsible for research and development, training, and advisory services in the agri-food sector, Teagasc requires a reliable and efficient ICT solution to support its operations across various research centers, colleges, and advisory services.\n\nThe successful bidder will be expected to provide comprehensive desktop deployment services, including hardware and software setup, maintenance, and support. Additionally, the provider must offer ad-hoc ICT resources to cater to the dynamic needs of Teagasc's research and advisory teams. This includes ensuring seamless integration with existing systems, robust security measures, and continuous technical support.\n\nKey requirements include:\n\n- **Scalability:** Ability to adapt to the growing needs of Teagasc's research centers and advisory services.\n- **Security:** Implementation of robust security protocols to protect sensitive agricultural and food-related data.\n- **Integration:** Seamless integration with existing IT infrastructure, including databases and software applications used in research and advisory services.\n- **Reliability:** High uptime and minimal downtime to ensure continuous operation of critical systems.\n- **Support:** Comprehensive technical support services, including on-site support at various locations across Ireland.\n- **Adaptability:** Flexibility to handle ad-hoc requests and urgent ICT needs as they arise.\n\nThe selected provider will contribute to the advancement of Ireland's agricultural and food sectors by ensuring that Teagasc's ICT infrastructure is efficient, secure, and supportive of its mission to provide integrated research, advisory, and training services.",
+    "identifier": "b4559e39-8552-4d73-acba-06cda4a0aa67",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-08-22+01:00",
+    "deadline_time": "14:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "51600000",
+    "additional_classifications": [
+      "51611000",
+      "51610000",
+      "51611100",
+      "72540000",
+      "72610000",
+      "72260000",
+      "51611000",
+      "51610000",
+      "51611100",
+      "72540000",
+      "72610000",
+      "72260000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "600000",
+    "currency": "",
+    "maximum_value": "600000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-08-22+01:00",
+    "open_tender_time": "14:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3999341"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Desktop Deployment Services and Ad-hoc ICT Resources",
+      "description": "**Title: Desktop Deployment Services and Ad-hoc ICT Resources for Teagasc**\n\n**Description:**\nTeagasc, the Irish Agriculture and Food Development Authority, is seeking a reliable provider for Desktop Deployment Services and Ad-hoc ICT Resources to support its mission of advancing science-based innovation in the agri-food sector. The successful bidder will be responsible for deploying and maintaining desktop infrastructure across Teagasc's 52 locations, including 6 research centers, and ensuring seamless integration with existing systems. The scope of work includes:\n\n- **Desktop Deployment:** Installation, configuration, and deployment of desktop computers, laptops, and mobile devices.\n- **Ad-hoc ICT Resources:** Provision of temporary or emergency ICT resources to support critical research projects, training sessions, and advisory services.\n- **Integration:** Ensuring compatibility with existing software applications used in agriculture, horticulture, food research, and rural development.\n- **Security:** Implementing robust security measures to protect sensitive data related to agricultural research, farm management advice, and educational programs.\n- **Support:** Providing ongoing technical support and maintenance services to ensure minimal downtime and optimal performance.\n- **Training:** Offering training sessions for Teagasc staff on new technologies and systems to enhance their efficiency and productivity.\n- **Compliance:** Adhering to all relevant data protection and cybersecurity regulations to safeguard Teagasc's data and reputation.\n\nThe ideal bidder should have extensive experience in providing ICT services to large-scale organizations, particularly in the public sector. They must demonstrate a strong understanding of the specific needs of an agricultural research and development authority, including the integration of specialized software used in dairy production, animal bioscience, and food product innovation. The bidder should also have a proven track record of delivering high-quality services on time and within budget.",
+      "main_nature": "services",
+      "main_classification": "51600000",
+      "additional_classifications": [
+        "51611000",
+        "51610000",
+        "51611100",
+        "72540000",
+        "72610000",
+        "72260000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-w-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3999341"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/440123-2024/pdf"
+}

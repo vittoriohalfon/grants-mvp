@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "297039-2024",
+  "buyer": {
+    "official_name": "Galway County Council",
+    "email": "procurement@galwaycoco.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Áras an Chontae",
+      "city": "Galway",
+      "postal_code": "H91 H6KX",
+      "country": "IRL"
+    },
+    "website": "https://www.galway.ie/en/",
+    "company_id": "Galway County Council",
+    "phone": "+353 (0)91 509000"
+  },
+  "procedure": {
+    "title": "ARAN ISLANDS AND INIS BOFIN DRCD CAPITAL WORKS 2024 CONTRACT NO 1",
+    "description": "**Title: ARAN ISLANDS AND INIS BOFIN DRCD CAPITAL WORKS 2024 CONTRACT NO 1**\n\n**Description:**\nThis tender is for pavement road overlays in the Conamara Municipal District, Galway County Council. The works comprise of 3 no. bituminous road overlay and surface dressing projects to include surface dressing as a surface course, 1 No. surface dressing only project, and 1 No. wall construction project, on local roads on Inis Mór, Aran Islands, and Inis Bofin, Conamara MD. The successful bidder will be required to demonstrate expertise in road maintenance and construction, particularly in remote island settings. The award criteria will be based on Most Economically Advantageous Tender (MEAT), emphasizing the bidder's ability to deliver high-quality work within the specified timeframe and budget.\n\n**Key Requirements:**\n- **Technical Competence:** Proven experience in road overlay and surface dressing projects, including work in challenging island environments.\n- **Project Management:** Ability to manage multiple projects simultaneously, ensuring timely completion and adherence to quality standards.\n- **Budget Management:** Demonstrated ability to manage budgets effectively, ensuring that costs are optimized without compromising on quality.\n- **Local Knowledge:** Familiarity with the Conamara Municipal District and the specific conditions of the Aran Islands and Inis Bofin.\n- **Environmental Considerations:** Awareness of environmental impacts and commitment to sustainable practices in road construction and maintenance.\n- **Health and Safety:** Strong health and safety record, with a commitment to maintaining a safe working environment for all personnel involved in the project.\n\n**Submission Guidelines:**\nBidders are required to submit a comprehensive proposal detailing their technical capabilities, project management experience, and budget management strategies. The proposal should include:\n- A detailed project plan outlining the methodology for each project.\n- Technical specifications for the materials and equipment to be used.\n- References from previous clients, particularly those with experience in similar projects.\n- A breakdown of the costs involved, including any contingencies for unexpected expenses.\n- A commitment to environmental sustainability and health and safety protocols.\n\n**Evaluation Criteria:**\nThe proposals will be evaluated based on the following criteria:\n1. **Technical Competence:** 30%\n2. **Project Management:** 25%\n3. **Budget Management:** 20%\n4. **Local Knowledge:** 10%\n5. **Environmental Considerations:** 5%\n6. **Health and Safety:** 5%\n\n**Timeline:**\nThe tender process will follow the standard Galway County Council procurement procedures. The timeline includes:\n- **Tender Issue Date:** [Insert Date]\n- **Proposal Submission Deadline:** [Insert Date]\n- **Evaluation Period:** [Insert Date]\n- **Award Announcement:** [Insert Date]\n\n**Contact Information:**\nFor any queries or additional information, please contact the Galway County Council procurement team at [Insert Contact Information].",
+    "identifier": "35de066e-4cc4-4c99-afb3-ac6a0dcda669",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-07+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45233120",
+    "additional_classifications": [
+      "14213100",
+      "45262512",
+      "45262510",
+      "34922100",
+      "14213100",
+      "45262512",
+      "45262510",
+      "34922100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "600000",
+    "currency": "",
+    "maximum_value": "800000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-06-07+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3607249"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "ARAN ISLANDS AND INIS BOFIN DRCD CAPITAL WORKS 2024 CONTRACT NO 1",
+      "description": "This tender is for pavement road overlays in the Conamara Municipal District, Galway County Council. The works comprise of 3 no. bituminous road overlay and surface dressing projects to include surface dressing as a surface course, 1 No. surface dressing only project and 1 No. wall construction project, on local roads on Inis Mór, Aran Islands and Inis Bofin Conamara MD. Award criteria MEAT",
+      "main_nature": "works",
+      "main_classification": "45233120",
+      "additional_classifications": [
+        "14213100",
+        "45262512",
+        "45262510",
+        "34922100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "600000",
+        "currency": "",
+        "maximum_value": "600000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3607249"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/297039-2024/pdf"
+}

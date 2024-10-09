@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "201301-2024",
+  "buyer": {
+    "official_name": "Waterways Ireland_225",
+    "email": "paul.mulligan@waterwaysireland.org",
+    "legal_type": "body-pl-cga",
+    "activity": "rcr",
+    "address": {
+      "street": "2 Sligo Road",
+      "city": "Enniskillen",
+      "postal_code": "BT74 7JY",
+      "country": "IRL"
+    },
+    "website": "https://www.waterwaysireland.org",
+    "company_id": "IE9595826F",
+    "phone": "+442866346245"
+  },
+  "procedure": {
+    "title": "Supply of Hydrotreated Vegetable Oil (HVO) to Royal Canal Area",
+    "description": "**Enhanced Proposal Description:**\n\nWaterways Ireland, the all-island navigation authority responsible for the management, maintenance, development, and restoration of inland navigable waterways in Ireland, invites tenderers to compete for the framework for the supply and delivery of Hydrotreated Vegetable Oil (HVO) compliant to EN15940 standard for use in plant on the Royal Canal. The successful bidder will be required to provide a reliable and sustainable supply of HVO to support the operational needs of Waterways Ireland's facilities along the Royal Canal. The HVO must meet the specified standards to ensure environmental sustainability and compliance with regulatory requirements. The framework will cover a period of [insert duration] and is expected to commence on [insert start date]. Bidders should have a proven track record in supplying high-quality HVO to similar infrastructure projects and demonstrate their ability to meet the specific needs of Waterways Ireland's operations. The tender process will evaluate the bidder's technical capability, pricing, and overall value proposition to ensure the best possible outcome for Waterways Ireland. \n\n**Key Requirements:**\n- **Compliance with EN15940 Standard:** The supplied HVO must meet the specified standards for quality and performance.\n- **Reliability and Sustainability:** A reliable and sustainable supply of HVO is essential to support the operational needs of Waterways Ireland's facilities.\n- **Proven Track Record:** Bidders should have a proven track record in supplying high-quality HVO to similar infrastructure projects.\n- **Technical Capability:** The bidder must demonstrate their technical capability to meet the specific needs of Waterways Ireland's operations.\n- **Pricing and Value Proposition:** The tender process will evaluate the bidder's pricing and overall value proposition to ensure the best possible outcome for Waterways Ireland.\n\n**Submission Guidelines:**\n- **Tender Documents:** Interested bidders should download the tender documents from the Waterways Ireland website.\n- **Submission Deadline:** The submission deadline is [insert deadline].\n- **Contact Information:** For any queries or clarifications, please contact [insert contact person] at [insert contact email] or [insert contact phone number].\n\nBy participating in this tender process, bidders will contribute to the sustainable management of Ireland's inland waterways and support the continued operation of Waterways Ireland's facilities.",
+    "identifier": "139b4a0e-0f6b-409a-aa49-bb2e264a2f3a",
+    "type": "open",
+    "accelerated": "true",
+    "deadline_date": "2024-05-02+01:00",
+    "deadline_time": "14:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "09135000",
+    "additional_classifications": [
+      "09100000",
+      "09100000"
+    ],
+    "place_of_performance": "anyw-eea"
+  },
+  "value": {
+    "estimated_value": "500000",
+    "currency": "",
+    "maximum_value": "500000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-05-02+01:00",
+    "open_tender_time": "14:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3349695"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "12",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Supply of Hydrotreated Vegetable Oil (HVO) to Royal Canal Area",
+      "description": "Waterways Ireland’s Invites Tenderers to compete for the framework for the supply and delivery of Hydrotreated Vegetable Oil (HVO) compliant to EN15940 standard for use in plant on the Royal Canal.",
+      "main_nature": "supplies",
+      "main_classification": "09135000",
+      "additional_classifications": [
+        "09100000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "500000",
+        "currency": "",
+        "maximum_value": "500000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "sui-act",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3349695"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/201301-2024/pdf"
+}

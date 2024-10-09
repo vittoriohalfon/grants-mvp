@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "438871-2024",
+  "buyer": {
+    "official_name": "University College Dublin ( UCD )",
+    "email": "procurement@ucd.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Belfield, Dublin 4",
+      "city": "Dublin",
+      "postal_code": "Belfield, Dublin 4",
+      "country": "IRL"
+    },
+    "website": "https://www.ucd.ie",
+    "company_id": "CHY15856",
+    "phone": "353 1 7167777"
+  },
+  "procedure": {
+    "title": "Supply, Delivery and Installation of Dynamic Laser Scattering System",
+    "description": "**Enhanced Proposal Description:**\n\nThe University College Dublin (UCD) School of Mechanical and Materials Engineering is Ireland's largest and a world-leading institution in both research and education, offering a wide range of research-based and taught postgraduate programs. UCD SMME is home to the SFI Centre for Advanced Manufacturing (www.i-form.ie) and UCD’s Centre of Micro Nano Manufacturing Technology. The school boasts state-of-the-art micro manufacturing, metrology, and characterization facilities, which are essential for advanced research and development.\n\nThe UCD School of Mechanical and Materials Engineering is seeking a supplier to provide, deliver, and install a suite of Dynamic Laser Scattering (DLS) Systems. These systems are critical analytical techniques used daily by all research groups in nanoparticle characterization and allied fields. The DLS systems will offer insights into size, zeta potential, and concentration, which are essential for accelerating the discovery, optimization, and development of nanomedicines in diverse fields including active pharmaceutical ingredients (APIs), catalysis, and biotechnology. These areas are crucial to the Irish economy, and the facility will enable the applicant’s research group to build a high-throughput formulation and scale-up facility for nanomedicine development.\n\nThe DLS systems will be used by multiple research groups across UCD, including the UCD School of Chemistry, Chemical and Bioprocessing Engineering, and Medicine. Therefore, the supplier must ensure that the systems are highly reliable, user-friendly, and compatible with existing infrastructure to meet the diverse needs of these research groups.\n\n**Key Requirements:**\n\n1. **Technical Specifications:** The supplier must provide detailed technical specifications of the DLS systems, including their analytical capabilities, accuracy, and reliability.\n2. **Compatibility:** The systems must be compatible with existing infrastructure and software used by the research groups at UCD.\n3. **User-Friendly Interface:** The systems should have an intuitive user interface to facilitate easy operation by researchers from various disciplines.\n4. **Maintenance and Support:** The supplier must provide comprehensive maintenance and support services to ensure the systems operate efficiently throughout their lifespan.\n5. **Training and Documentation:** The supplier should offer training sessions and comprehensive documentation to ensure that researchers can effectively utilize the DLS systems.\n\nBy selecting a suitable bidder who can meet these requirements, UCD aims to enhance its research capabilities in nanomedicine development, thereby contributing significantly to the Irish economy and advancing global healthcare standards.",
+    "identifier": "7a377075-f2a8-47a3-a0e8-6501ff1cef98",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-08-20+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "38000000",
+    "additional_classifications": [
+      "38400000",
+      "38900000",
+      "38400000",
+      "38900000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "150000",
+    "currency": "",
+    "maximum_value": "150000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "2024-08-20+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3995391"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "3",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Supply, Delivery and Installation of Dynamic Laser Scattering System",
+      "description": "The UCD School of Mechanical and Materials Engineering is the largest of its type in Ireland and a world player in both research and education offering the widest range of both research-based and taught postgraduate programmes. UCD SMME is home for SFI Centre for Advanced Manufacturing (www.i-form.ie) and UCD’s Centre of Micro Nano Manufacturing Technology. It has the state-of-the-art micro manufacturing, metrology and characterization facilities. DLS SLS is a state-of-the-art analytical technique used by all research groups in nanoparticle characterization and allied fields on a daily basis, offering insights into size, zeta potential, and concentration. A suite of DLS SLS system is required to accelerate the discovery, optimisation, and the development of nanomedicines in diverse fields including active pharmaceutical ingredients (APIs), catalysis, biotechnology, all of which are critical to the Irish economy. The facility will enable the applicant’s research group to build high throughput formulation and scale up facility for nanomedicine development. The Applicant Group are not the only DLS SLS users across UCD and it can be also accessed by UCD School of Chemistry, Chemical and Bioprocessing Engineering and Medicine.",
+      "main_nature": "supplies",
+      "main_classification": "38000000",
+      "additional_classifications": [
+        "38400000",
+        "38900000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "150000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3995391"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/438871-2024/pdf"
+}

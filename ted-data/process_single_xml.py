@@ -100,7 +100,7 @@ def extract_contract_info(root, notice_id):
         },
         "lots": [],
         "useful_links": [],
-        "pdf_link": extract_text(root, ".//cac:CallForTendersDocumentReference/cac:Attachment/cac:ExternalReference/cbc:URI")
+        "pdf_link": f"https://ted.europa.eu/en/notice/{notice_id}/pdf"
     }
 
     # Extract useful links

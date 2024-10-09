@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "532712-2024",
+  "buyer": {
+    "official_name": "National Transport Authority_1149",
+    "email": "procurement@nationaltransport.ie",
+    "legal_type": "body-pl",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Dun Sceine Iveagh Court Harcourt Lane Dublin 2",
+      "city": "Dublin",
+      "postal_code": "D02 WT20",
+      "country": "IRL"
+    },
+    "website": "https://www.nationaltransport.ie",
+    "company_id": "0000",
+    "phone": "018798300"
+  },
+  "procedure": {
+    "title": "Provision and Operation of Information and Communications Technologies (ICT) Managed Services",
+    "description": "The NTA is seeking an experienced ICT Managed Services partner in order to provide a range of ICT Managed Services. The range of services required may include: • Delivery and Execution of Service Desk Services • Delivery and Execution of ICT Service Governance • Delivery and Execution of ICT Service Operations • Delivery and Execution of Data Centre Hosting Operations • Delivery and Execution of Security Monitoring Operations • Delivery and Execution of ICT Consulting Services • Delivery and Execution of Transition Services This tender has two principal documents governing the pre-qualification stage for the competition to appoint a Service Provider for the Contract. It constitutes an Information Memorandum providing Candidates with general information regarding the scope of the competition requirements and providing a description of the procurement process. It is anticipated that the term of the Contract will be for two (2) years from the Operational Services Start Date (which will follow the acceptance of the Services by the Authority, i.e. after the Mobilisation and Transition phase), with options for the Authority to extend the Contract. If the Services are deemed to be satisfactory by the Authority, the Contract may be extended for a period or periods, up to a maximum of four (4) years after the end of the second year. The option to extend rests solely with the Authority.",
+    "identifier": "bbe1f46f-9022-4f75-a307-b72666ef45a9",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-10+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72000000",
+    "additional_classifications": [
+      "79000000",
+      "79000000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "24711294",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-10+01:00",
+    "open_tender_time": "00:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4242908"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Provision and Operation of Information and Communications Technologies (ICT) Managed Services",
+      "description": "The NTA is seeking an experienced ICT Managed Services partner in order to provide a range of ICT Managed Services. The range of services required may include: • Delivery and Execution of Service Desk Services • Delivery and Execution of ICT Service Governance • Delivery and Execution of ICT Service Operations • Delivery and Execution of Data Centre Hosting Operations • Delivery and Execution of Security Monitoring Operations • Delivery and Execution of ICT Consulting Services • Delivery and Execution of Transition Services This tender has two principal documents governing the pre-qualification stage for the competition to appoint a Service Provider for the Contract. It constitutes an Information Memorandum providing Candidates with general information regarding the scope of the competition requirements and providing a description of the procurement process. It is anticipated that the term of the Contract will be for two (2) years from the Operational Services Start Date (which will follow the acceptance of the Services by the Authority, i.e. after the Mobilisation and Transition phase), with options for the Authority to extend the Contract. If the Services are deemed to be satisfactory by the Authority, the Contract may be extended for a period or periods, up to a maximum of four (4) years after the end of the second year. The option to extend rests solely with the Authority.",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "79000000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "24711294",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4242908"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/532712-2024/pdf"
+}

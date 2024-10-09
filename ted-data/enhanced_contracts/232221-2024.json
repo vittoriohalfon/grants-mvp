@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "232221-2024",
+  "buyer": {
+    "official_name": "Mary Immaculate College",
+    "email": "Michael.Keane@mic.ul.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "education",
+    "address": {
+      "street": "South Circular Road",
+      "city": "Limerick",
+      "postal_code": "V94 VN26",
+      "country": "IRL"
+    },
+    "website": "https://www.mic.ul.ie/",
+    "company_id": "CHY 7401",
+    "phone": "0035361204300"
+  },
+  "procedure": {
+    "title": "Summerville and Chapel Courtyard Tender 2024",
+    "description": "Mary Immaculate College, Summerville House / Chapel Courtyard Limerick - Summer Works 2024.",
+    "identifier": "9bf583a6-ab0e-49b9-8f62-acee42f32fc0",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-12+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45000000",
+    "additional_classifications": [
+      "45210000",
+      "45210000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "420000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-05-13+01:00",
+    "open_tender_time": "00:00:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3421552"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Summerville and Chapel Courtyard Tender 2024",
+      "description": "Mary Immaculate College, Summerville House / Chapel Courtyard Limerick - Summer Works 2024.",
+      "main_nature": "works",
+      "main_classification": "45000000",
+      "additional_classifications": [
+        "45210000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "420000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3421552"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/232221-2024/pdf"
+}

@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "119896-2024",
+  "buyer": {
+    "official_name": "Clonbonny Primary School",
+    "email": "Clonbonnyns@gmail.com",
+    "legal_type": "org-sub-cga",
+    "activity": "education",
+    "address": {
+      "street": "Clonbonny, Athlone, Co. Westmeath",
+      "city": "Athlone",
+      "postal_code": "N37EA21",
+      "country": "IRL"
+    },
+    "website": "https://www.clonbonnyns.com/",
+    "company_id": "17102C",
+    "phone": "0868191805"
+  },
+  "procedure": {
+    "title": "Extension and Modifications to Clonbonny NS",
+    "description": "**Title: Extension and Modifications to Clonbonny National School**\n\n**Description:**\nThe works are located at Clonbonny National School, Clonbonny, Athlone, Co. Westmeath N37 EA21. The scope of the work includes the following:\n\n(i) **1 x 80sq.m Permanent Classroom Extension (Prefab Replacement):** The project involves the construction of a new permanent classroom extension to replace an existing prefab structure, ensuring a modern and sustainable learning environment for the students.\n\n(ii) **2 x SET Rooms in existing building:** The installation of two Special Education Teaching (SET) rooms within the existing school building to provide dedicated spaces for students with special educational needs, enhancing the school's ability to cater to diverse learning requirements.\n\n(iii) **Removal of prefab classroom:** The removal of the existing prefab classroom to make way for the new permanent extension, streamlining the school's layout and improving overall functionality.\n\n(iv) **Associated internal and external works:** This includes all necessary internal modifications such as electrical, plumbing, and HVAC adjustments, as well as external works like landscaping and site preparation to ensure a seamless integration of the new extension with the existing school infrastructure.\n\n(v) **Associated site works:** The project encompasses all site-related activities, including excavation, drainage, and any other necessary site preparation to support the construction of the new extension and SET rooms.\n\nClonbonny National School is a Catholic primary school located in Cluain Buinne, Athlone, Co. Westmeath. The school has a strong ethos and is committed to providing a supportive learning environment for its students. The student council, established in October 2021, actively engages students in various activities such as art competitions and fundraisers, fostering a sense of community and student involvement.\n\nThe school is currently managed by Principal Joan Donnelly and has a student enrollment of 75 boys and 81 girls (as of 2023/24). The school's email address is clonbonnyns@gmail.com, and its website is www.clonbonnyns.weebly.com. The school's phone number is 0906474656.\n\nTo ensure that the selected bidder is well-suited for this project, we are looking for contractors with experience in educational facility construction, specifically in the areas of permanent classroom extensions, SET room installations, and site preparation. The ideal bidder should have a proven track record of delivering projects on time, within budget, and to a high standard of quality. Additionally, the bidder should demonstrate a commitment to sustainability and accessibility, aligning with the school's ethos and goals.",
+    "identifier": "2b4ae6f5-bc2b-40ad-a321-687ff55b6b72",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-12+00:00",
+    "deadline_time": "14:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45000000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "600000",
+    "currency": "",
+    "maximum_value": "1000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-04-15+00:00",
+    "open_tender_time": "00:00:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3132830"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Extension and Modifications to Clonbonny NS",
+      "description": "The works are located at Clonbonny NS, Clonbonny, Athlone, Co. Westmeath N37 EA21. The scope of the work includes the following: (i) 1 x 80sq.m Permanent Classroom Extension (Prefab Replacement) (ii) 2 x SET Rooms in existing building; (iii) Removal of prefab classroom; (iv) Associated internal and external works; (v) Associated site works;",
+      "main_nature": "works",
+      "main_classification": "45000000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "600000",
+        "currency": "",
+        "maximum_value": "1000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3132830"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/119896-2024/pdf"
+}

@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "567132-2024",
+  "buyer": {
+    "official_name": "Education Procurement Service (EPS)",
+    "email": "info@educationprocurementservice.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Castletroy Limerick",
+      "city": "Limerick",
+      "postal_code": "V94 DK53",
+      "country": "IRL"
+    },
+    "website": "https://www.educationprocurementservice.ie/",
+    "company_id": "IE 6609370 G",
+    "phone": "061233715"
+  },
+  "procedure": {
+    "title": "LA3057C - UL - RFT for the Supply, Delivery, Installation, Commissioning and Calibration of an Online Electrochemical Mass Spectrometry (OEMS) Instrument",
+    "description": "University of Limerick require an Online Electrochemical Mass Spectrometry (OEMS) instrument for the analysis of gases evolved during the charging and discharging processes of rechargeable batteries including but not limited to lithium–sulfur batteries, lithium-ion batteries and sodium-ion batteries. The OEMS system should include the following: • An OEMS Gas Analysis System with integrated mass spectrometer • Vacuum pump • Spare components and accessories including ultralow flow capillaries, input/output connections for residual gas analyser • Interface cable(s) to enable communication and data transfer between the OEMS system and a potentiostat • Be capable of measuring gases evolved during the charging/discharging processes of prototype lithiumion, sodium-ion and lithium–sulfur batteries. • Be compatible with commercially available battery test cells with gas inlets/outlets for example EL-CELL PAT-Cell-Gas cells (or similar) • Be able to detect low volumes of gases on a microlitre range • Be able to analyse carrier gas containing evolved gas(es) at a flow rate of 200 μl/min • Have a mass range of 0 – 200 atomic mass units (amu) • System software which allows the user to set and scan the electron energy in desired eV increments. • A gas analysis system with an easily accessible multiport manifold to enable different inlet interfaces, for dissolved species and headspace species.",
+    "identifier": "acf93175-9ca1-4cb3-a2a3-98cc9d1a200b",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-10+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "38000000",
+    "additional_classifications": [
+      "38540000",
+      "38433100",
+      "38432100",
+      "38540000",
+      "38433100",
+      "38432100"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "85174",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-10+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4347157"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "LA3057C - UL - RFT for the Supply, Delivery, Installation, Commissioning and Calibration of an Online Electrochemical Mass Spectrometry (OEMS) Instrument",
+      "description": "University of Limerick require an Online Electrochemical Mass Spectrometry (OEMS) instrument for the analysis of gases evolved during the charging and discharging processes of rechargeable batteries including but not limited to lithium–sulfur batteries, lithium-ion batteries and sodium-ion batteries. The OEMS system should include the following: • An OEMS Gas Analysis System with integrated mass spectrometer • Vacuum pump • Spare components and accessories including ultralow flow capillaries, input/output connections for residual gas analyser • Interface cable(s) to enable communication and data transfer between the OEMS system and a potentiostat • Be capable of measuring gases evolved during the charging/discharging processes of prototype lithiumion, sodium-ion and lithium–sulfur batteries. • Be compatible with commercially available battery test cells with gas inlets/outlets for example EL-CELL PAT-Cell-Gas cells (or similar) • Be able to detect low volumes of gases on a microlitre range • Be able to analyse carrier gas containing evolved gas(es) at a flow rate of 200 μl/min • Have a mass range of 0 – 200 atomic mass units (amu) • System software which allows the user to set and scan the electron energy in desired eV increments. • A gas analysis system with an easily accessible multiport manifold to enable different inlet interfaces, for dissolved species and headspace species.",
+      "main_nature": "supplies",
+      "main_classification": "38000000",
+      "additional_classifications": [
+        "38540000",
+        "38433100",
+        "38432100"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4347157"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/567132-2024/pdf"
+}

@@ -1,0 +1,117 @@
+{
+  "notice_publication_id": "376944-2024",
+  "buyer": {
+    "official_name": "Department of the Environment Climate and Communications",
+    "email": "susan.fleming@decc.gov.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "29-31 Adelaide Road",
+      "city": "Dublin",
+      "postal_code": "D02 X285",
+      "country": "IRL"
+    },
+    "website": "http://www.decc.gov.ie",
+    "company_id": "4002073W",
+    "phone": "01 678 2000"
+  },
+  "procedure": {
+    "title": "Call for Tender for the provision of Petroleum Production Environmental Consultancy Services",
+    "description": "The Department of the Environment, Climate and Communications seeks the provision of petroleum production environmental consultancy services on the subject matter of consent conditions associated with the Corrib gas production facilities. A detailed description of the required services is set out at Appendix 1 to this RFT.",
+    "identifier": "333f5f49-b10f-4afc-8b63-69c9ca132209",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-07-26+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "90721000",
+    "additional_classifications": [
+      "90711400",
+      "90711500",
+      "90714400",
+      "90713000",
+      "90711000",
+      "90711400",
+      "90711500",
+      "90714400",
+      "90713000",
+      "90711000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "110000.00",
+    "currency": "",
+    "maximum_value": "0.00"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-07-26+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3832734"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Call for Tender for the provision of Petroleum Production Environmental Consultancy Services",
+      "description": "The Department of the Environment, Climate and Communications seeks the provision of petroleum production environmental consultancy services on the subject matter of consent conditions associated with the Corrib gas production facilities. A detailed description of the required services is set out at Appendix 1 to this RFT.",
+      "main_nature": "services",
+      "main_classification": "90721000",
+      "additional_classifications": [
+        "90711400",
+        "90711500",
+        "90714400",
+        "90713000",
+        "90711000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "110000",
+        "currency": "",
+        "maximum_value": "0.00"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3832734"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/376944-2024/pdf"
+}

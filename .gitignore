@@ -51,3 +51,9 @@ TED_IRELAND_CONTRACTS_*.json
 processed_contracts/*
 processed_contracts_*.json
 processed_contracts*
+
+# ENHANCED JSON FILES
+enhanced_contracts/*
+contracts_xml/*
+processed_contracts_2/*
+enhance_descriptions.log

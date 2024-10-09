@@ -1,0 +1,135 @@
+{
+  "notice_publication_id": "311953-2024",
+  "buyer": {
+    "official_name": "The Office of Government Procurement",
+    "email": "support@ogp.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "3A Mayor Street Upper, Dublin 1",
+      "city": "Dublin",
+      "postal_code": "D01 PF72",
+      "country": "IRL"
+    },
+    "website": "https://www.ogp.gov.ie",
+    "company_id": "IE3229842HH",
+    "phone": "+353 17738000"
+  },
+  "procedure": {
+    "title": "PLI131D Dynamic Purchasing System for the Provision of Insurance Brokerage and Placement Services for Public Sector Bodies (excluding Central Government Departments)",
+    "description": "PLI131D Dynamic Purchasing System for the Provision of Insurance Brokerage and Placement Services for Public Sector Bodies (excluding Central Government Departments)",
+    "identifier": "b78b6700-6b54-44a9-ad61-76c2cafebf83",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-07-16+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "66510000",
+    "additional_classifications": [
+      "66518300",
+      "66000000",
+      "66512000",
+      "66512100",
+      "66515000",
+      "66515200",
+      "66516000",
+      "66516100",
+      "66518000",
+      "66518100",
+      "66518200",
+      "66518300",
+      "66000000",
+      "66512000",
+      "66512100",
+      "66515000",
+      "66515200",
+      "66516000",
+      "66516100",
+      "66518000",
+      "66518100",
+      "66518200"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "150000000",
+    "currency": "",
+    "maximum_value": "150000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Category 1 - Insurance brokerage and placement services.",
+      "description": "PLI131D Dynamic Purchasing System for the Provision of Insurance Brokerage and Placement Services for Public Sector Bodies (excluding Central Government Departments)",
+      "main_nature": "services",
+      "main_classification": "66510000",
+      "additional_classifications": [
+        "66518300",
+        "66000000",
+        "66512000",
+        "66512100",
+        "66515000",
+        "66515200",
+        "66516000",
+        "66516100",
+        "66518000",
+        "66518100",
+        "66518200"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "150000000",
+        "currency": "",
+        "maximum_value": "150000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "dps-list",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/dps/listDPSContractDocuments.do?resourceId=3652522"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/311953-2024/pdf"
+}

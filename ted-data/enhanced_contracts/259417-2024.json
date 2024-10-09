@@ -1,0 +1,153 @@
+{
+  "notice_publication_id": "259417-2024",
+  "buyer": {
+    "official_name": "Cavan and Monaghan Education and Training Board",
+    "email": "helenmcdonald@cmetb.ie",
+    "legal_type": "body-pl-la",
+    "activity": "education",
+    "address": {
+      "street": "Cavan and Monaghan Education and Training Board",
+      "city": "Monaghan",
+      "postal_code": "H18 W449",
+      "country": "IRL"
+    },
+    "website": "http://www.cmetb.ie",
+    "company_id": "3185068CH",
+    "phone": "04730888"
+  },
+  "procedure": {
+    "title": "The Supply of Art and Craft Equipment to Cavan and Monaghan Education and Training Board",
+    "description": "The Cavan and Monaghan Education and Training Board (CMETB) is a public body responsible for providing a comprehensive range of educational services throughout counties Cavan and Monaghan. CMETB offers a wide variety of programs catering to learners of all ages and abilities, including full-time and part-time certified programs, hobby courses, reskilling, and upskilling opportunities. Their services include vocational training, work experience, and career guidance, aiming to support both professional development and personal interests.\n\nCMETB operates multiple educational centers, including Monaghan Institute and Cavan Institute, which offer Post Leaving Certificate (PLC) courses at level 5 or 6 on the National Framework of Qualifications. These courses are designed to equip learners with the necessary skills to secure employment or progress to further studies.\n\nThe board also provides apprenticeships and traineeships, offering on-the-job training with employers and integrating general education and vocational training. Additionally, CMETB offers flexible and dynamic programs such as Youthreach for early school leavers and Skills to Advance, a nationwide initiative for employees and employers to enhance and develop skill sets.\n\nGiven this context, the Supply of Art and Craft Equipment to CMETB should be tailored to meet the diverse educational needs of students and teachers across second-level schools and centers. The equipment should be of high quality, durable, and suitable for various artistic and craft activities. It is essential that the bidder demonstrates an understanding of the educational environment and the specific requirements of CMETB's programs, ensuring that the supplied equipment aligns with the board's objectives of enhancing learning experiences and supporting professional development.\n\nThe bidder should provide detailed specifications on the types of art and craft equipment required, including materials, tools, and any necessary safety measures. They should also outline their experience in supplying educational equipment, highlighting any previous contracts with similar educational institutions. Additionally, the bidder should provide a comprehensive plan for the maintenance and support of the supplied equipment, ensuring that it remains functional and effective throughout its lifespan.\n\nBy selecting a bidder who understands the unique needs of CMETB's educational programs and can provide high-quality, durable art and craft equipment, the board can ensure that students and teachers have the best possible resources to enhance their learning experiences and achieve their educational goals.",
+    "identifier": "0e21472c-88ac-469e-b3f3-cb0954c57abc",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-20+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "37823500",
+    "additional_classifications": [
+      "44810000",
+      "44812210",
+      "44812220",
+      "44812000",
+      "30192130",
+      "37821000",
+      "37822300",
+      "39241200",
+      "37800000",
+      "37810000",
+      "39162000",
+      "37822000",
+      "37822200",
+      "37823600",
+      "39292300",
+      "37820000",
+      "39224210",
+      "44810000",
+      "44812210",
+      "44812220",
+      "44812000",
+      "30192130",
+      "37821000",
+      "37822300",
+      "39241200",
+      "37800000",
+      "37810000",
+      "39162000",
+      "37822000",
+      "37822200",
+      "37823600",
+      "39292300",
+      "37820000",
+      "39224210"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "175000",
+    "currency": "",
+    "maximum_value": "215000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-05-20+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3495563"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "The Supply of Art and Craft Equipment to Cavan and Monaghan Education and Training Board",
+      "description": "The Contracting Authority proposes to engage in a competitive process for the establishment of a single party framework agreement for the Supply of Art and Craft Equipment for use by students and teachers at second level schools and centres.",
+      "main_nature": "supplies",
+      "main_classification": "37823500",
+      "additional_classifications": [
+        "44810000",
+        "44812210",
+        "44812220",
+        "44812000",
+        "30192130",
+        "37821000",
+        "37822300",
+        "39241200",
+        "37800000",
+        "37810000",
+        "39162000",
+        "37822000",
+        "37822200",
+        "37823600",
+        "39292300",
+        "37820000",
+        "39224210"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "175000",
+        "currency": "",
+        "maximum_value": "215000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-mix",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3495563"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/259417-2024/pdf"
+}

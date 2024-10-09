@@ -1,0 +1,117 @@
+{
+  "notice_publication_id": "8137-2024",
+  "buyer": {
+    "official_name": "Health Service Executive (HSE)",
+    "email": "procurement.helpdesk@hse.ie",
+    "legal_type": "body-pl",
+    "activity": "health",
+    "address": {
+      "street": "Oak House, Millennium Park Naas Co. Kildare",
+      "city": "Kildare",
+      "postal_code": "RE",
+      "country": "IRL"
+    },
+    "website": "https://www.hse.ie",
+    "company_id": "0027010D",
+    "phone": "059-9178061"
+  },
+  "procedure": {
+    "title": "Multi-Party National Framework Agreement for the Provision Mobile Breast Screening Units (MBSUs) for the HSE.",
+    "description": "Multi-Party National Framework Agreement for the Provision Mobile Breast Screening Units (MBSUs) for the HSE.",
+    "identifier": "9ea30064-4ee2-485d-9963-f2c08b00d574",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-02-07+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "34220000",
+    "additional_classifications": [
+      "34223000",
+      "34200000",
+      "34223400",
+      "34223330",
+      "45223821",
+      "34223000",
+      "34200000",
+      "34223400",
+      "34223330",
+      "45223821"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "4000000",
+    "currency": "",
+    "maximum_value": "4000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-02-07+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2904357"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Multi-Party National Framework Agreement for the Provision Mobile Breast Screening Units (MBSUs) for the HSE.",
+      "description": "Multi-Party National Framework Agreement for the Provision Mobile Breast Screening Units (MBSUs) for the HSE.",
+      "main_nature": "supplies",
+      "main_classification": "34220000",
+      "additional_classifications": [
+        "34223000",
+        "34200000",
+        "34223400",
+        "34223330",
+        "45223821"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "4000000",
+        "currency": "",
+        "maximum_value": "4000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-w-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2904357"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/8137-2024/pdf"
+}

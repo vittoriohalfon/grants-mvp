@@ -1,0 +1,126 @@
+{
+  "notice_publication_id": "258282-2024",
+  "buyer": {
+    "official_name": "Department of Social Protection_349",
+    "email": "ProjectOffice@welfare.ie",
+    "legal_type": "cga",
+    "activity": "soc-pro",
+    "address": {
+      "street": "Summerhill, College Road, Sligo",
+      "city": "Sligo",
+      "postal_code": "F91 T3823",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/en/organisation/department-of-social-protection/",
+    "company_id": "4000094U",
+    "phone": "+353719157100"
+  },
+  "procedure": {
+    "title": "RFT for the provision of a Service Provider with Responsibility for Food Procurement, Food Storage and Preparation for Collection by ESF+ Approved Charities Nationwide",
+    "description": "In summary the services compromise Managed Food Procurement, Food Storage and Preparation for collection by approved Department of Social Protection Charities Nationwide",
+    "identifier": "39d9b621-36d6-4db1-a706-f3dae8962cd2",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-03+01:00",
+    "deadline_time": "13:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "75200000",
+    "additional_classifications": [
+      "63122000",
+      "63120000",
+      "15000000",
+      "15800000",
+      "15897300",
+      "15890000",
+      "98000000",
+      "98133000",
+      "63122000",
+      "63120000",
+      "15000000",
+      "15800000",
+      "15897300",
+      "15890000",
+      "98000000",
+      "98133000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "3000000",
+    "currency": "",
+    "maximum_value": "3000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "2024-06-03+01:00",
+    "open_tender_time": "13:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3470350"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "RFT for the provision of a Service Provider with Responsibility for Food Procurement, Food Storage and Preparation for Collection by ESF+ Approved Charities Nationwide",
+      "description": "In summary the services compromise Managed Food Procurement, Food Storage and Preparation for collection by approved Department of Social Protection Charities Nationwide",
+      "main_nature": "services",
+      "main_classification": "75200000",
+      "additional_classifications": [
+        "63122000",
+        "63120000",
+        "15000000",
+        "15800000",
+        "15897300",
+        "15890000",
+        "98000000",
+        "98133000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "3000000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3470350"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/258282-2024/pdf"
+}

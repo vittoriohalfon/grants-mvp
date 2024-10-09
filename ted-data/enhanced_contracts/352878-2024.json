@@ -1,0 +1,129 @@
+{
+  "notice_publication_id": "352878-2024",
+  "buyer": {
+    "official_name": "TG4",
+    "email": "solathar@tg4.ie",
+    "legal_type": "body-pl",
+    "activity": "rcr",
+    "address": {
+      "street": "Four Courts, Inns Quay, Dublin 7",
+      "city": "Conamara",
+      "postal_code": "D07 WDX8",
+      "country": "IRL"
+    },
+    "website": "https://www.tg4.ie",
+    "company_id": "unknown",
+    "phone": "091505050"
+  },
+  "procedure": {
+    "title": "TG4 - Online Video Platform: TG4 Media Player Ingestion, CMS, Publishing and Delivery",
+    "description": "TG4 invites companies to tender for a CMS and publishing platform for our Media Player. The TG4 Player is available on Web, iOS, Android, SmartTV and OTT devices as well as integrated with 3rd Party Players such as Sky, RTÉ, Vodafone, Virgin, Eir, Gracenote and Saorview. Functionally, we require a customizable player, batch upload and ingest, vod and live video streaming, API access to OVP features, SDKs for App development, distribution to all leading social media platforms, fast and reliable playback and comprehensive analytics. The full suite of requirements is contained within the tender documents. All responses must be submitted in a ZIP file format.",
+    "identifier": "7df16354-4387-428b-b054-3969da20fe42",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-27+01:00",
+    "deadline_time": "17:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72212783",
+    "additional_classifications": [
+      "48222000",
+      "48825000",
+      "72212222",
+      "48783000",
+      "72212780",
+      "48780000",
+      "72415000",
+      "72413000",
+      "72000000",
+      "48222000",
+      "48825000",
+      "72212222",
+      "48783000",
+      "72212780",
+      "48780000",
+      "72415000",
+      "72413000",
+      "72000000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "1400000",
+    "currency": "",
+    "maximum_value": "1400000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-06-27+01:00",
+    "open_tender_time": "17:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3586525"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "12",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "TG4 - Online Video Platform: TG4 Media Player Ingestion, CMS, Publishing and Delivery",
+      "description": "TG4 invites companies to tender for a CMS and publishing platform for our Media Player. The TG4 Player is available on Web, iOS, Android, SmartTV and OTT devices as well as integrated with 3rd Party Players such as Sky, RTÉ, Vodafone, Virgin, Eir, Gracenote and Saorview. Functionally, we require a customizable player, batch upload and ingest, vod and live video streaming, API access to OVP features, SDKs for App development, distribution to all leading social media platforms, fast and reliable playback and comprehensive analytics. The full suite of requirements is contained within the tender documents. All responses must be submitted in a ZIP file format.",
+      "main_nature": "services",
+      "main_classification": "72212783",
+      "additional_classifications": [
+        "48222000",
+        "48825000",
+        "72212222",
+        "48783000",
+        "72212780",
+        "48780000",
+        "72415000",
+        "72413000",
+        "72000000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1400000",
+        "currency": "",
+        "maximum_value": "1400000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": "false"
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3586525"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/352878-2024/pdf"
+}

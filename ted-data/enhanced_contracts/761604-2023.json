@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "761604-2023",
+  "buyer": {
+    "official_name": "Department of Transport",
+    "email": "procurement@transport.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Leeson Lane, Dublin 2",
+      "city": "Dublin",
+      "postal_code": "D02 TR60",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/transport",
+    "company_id": "Department of Transport",
+    "phone": "+35316707444"
+  },
+  "procedure": {
+    "title": "RFT for provision of a set of standards for a set of Eco driving courses",
+    "description": "**Title:** Request for Tender (RFT) for the Provision of a Set of Standards for Eco-Driving Courses\n\n**Description:**\nThe Department of Transport, Ireland, is seeking a qualified bidder to create and monitor standards for Eco-Driving courses/programmes. The primary objective of this tender is to ensure that all Heavy Goods Vehicle (HGV) drivers receive the same high quality of instruction when learning these techniques. The successful bidder will be responsible for developing and implementing standards that guarantee real and sustained emissions reductions through effective training interventions.\n\n**Key Objectives:**\n1. **Standardization:** Develop and maintain standardized guidelines for Eco-Driving courses to ensure uniformity in training across all HGV drivers.\n2. **Quality Assurance:** Monitor and evaluate the quality of instruction provided in Eco-Driving courses to ensure that all drivers receive consistent and effective training.\n3. **Emissions Reduction:** Ensure that the training interventions result in significant and sustained reductions in emissions from HGV vehicles.\n4. **Compliance:** Align the standards with relevant EU regulations and best practices in the field of sustainable transportation.\n5. **Integration:** Collaborate with the Department of Transport and other relevant stakeholders to integrate the new standards into existing training programs and ensure seamless implementation.\n\n**Requirements:**\n- The bidder must have extensive experience in developing and implementing training standards for the transportation sector.\n- The bidder should demonstrate a thorough understanding of eco-driving techniques and their impact on emissions reduction.\n- The bidder must provide a detailed plan for monitoring and evaluating the effectiveness of the standards.\n- The bidder should outline their methodology for ensuring compliance with EU regulations and best practices in sustainable transportation.\n- The bidder must propose a timeline for the development and implementation of the standards, including milestones and deliverables.\n\n**Evaluation Criteria:**\n1. **Technical Competence:** The bidder's expertise in developing and implementing training standards for the transportation sector.\n2. **Emissions Reduction Strategy:** The effectiveness of the bidder's plan to achieve real and sustained emissions reductions through eco-driving techniques.\n3. **Compliance with Regulations:** The bidder's ability to align the standards with relevant EU regulations and best practices.\n4. **Monitoring and Evaluation:** The bidder's proposed methodology for monitoring and evaluating the effectiveness of the standards.\n5. **Implementation Plan:** The bidder's proposed timeline and milestones for developing and implementing the standards.\n\n**Submission Requirements:**\nBidders must submit their proposals electronically through the Department of Transport's procurement portal. The proposal should include a detailed response to the above requirements, along with any supporting documentation such as case studies, references, and a comprehensive project plan. The deadline for submission will be specified in the tender notice.",
+    "identifier": "fd6c3e86-799d-41c1-8a4d-75cca1846654",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-02-02+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "80500000",
+    "additional_classifications": [
+      "80500000",
+      "80000000",
+      "80000000",
+      "80000000",
+      "80540000",
+      "80521000",
+      "80510000",
+      "80500000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "250000",
+    "currency": "",
+    "maximum_value": "250000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-02-02+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2846367"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "RFT for provision of a set of standards for a set of Eco driving courses",
+      "description": "**Title: Request for Tender (RFT) for the Provision of Standards for Eco-Driving Courses**\n\n**Description:**\nThe Department of Transport, Ireland, is seeking a qualified bidder to create and monitor standards for Eco-Driving courses/programmes. The primary objective is to ensure that all Heavy Goods Vehicle (HGV) drivers receive the same high-quality instruction when learning these techniques, thereby guaranteeing that training interventions result in real and sustained emissions reductions. This initiative aligns with Ireland's broader strategy to reduce greenhouse gas emissions from the transport sector, which accounts for over 20% of the country's annual emissions. The successful bidder will be responsible for developing comprehensive standards that meet the Department's stringent criteria, ensuring consistency and effectiveness in the delivery of Eco-Driving courses across the country. The standards should be designed to promote best practices in fuel efficiency, reduce carbon footprint, and contribute to the overall decarbonization of the transport sector. The Department of Transport is committed to supporting sustainable mobility and aims to achieve a 50% reduction in transport sector emissions by 2030, as outlined in the Climate Action Plan. The successful bidder will play a crucial role in helping Ireland meet these ambitious climate targets by ensuring that all HGV drivers are equipped with the knowledge and skills necessary to operate vehicles in an environmentally friendly manner. \n\n**Key Requirements:**\n- **Standard Development:** Create and maintain standards for Eco-Driving courses that ensure uniformity in instruction and training.\n- **Monitoring and Evaluation:** Monitor the implementation of these standards to ensure they are being adhered to and evaluate their effectiveness in reducing emissions.\n- **Compliance with Climate Goals:** Ensure that the standards developed align with Ireland's climate action plans and contribute to the overall reduction of greenhouse gas emissions from the transport sector.\n- **Quality Assurance:** Provide mechanisms for quality assurance to ensure that all HGV drivers receive high-quality instruction.\n- **Sustainability Focus:** Emphasize sustainable practices and techniques that promote fuel efficiency and reduce carbon emissions.\n- **Collaboration:** Work closely with the Department of Transport and other relevant stakeholders to ensure seamless integration with existing policies and initiatives.\n\nBy engaging a qualified bidder for this project, the Department of Transport aims to enhance the efficiency and sustainability of Ireland's transport system, contributing to a cleaner environment and supporting the country's economic and social progress.",
+      "main_nature": "services",
+      "main_classification": "80300000",
+      "additional_classifications": [
+        "80540000",
+        "80521000",
+        "80510000",
+        "80500000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "250000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "res-pub-ser",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "false",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2846367"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/761604-2023/pdf"
+}

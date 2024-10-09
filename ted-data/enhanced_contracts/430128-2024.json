@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "430128-2024",
+  "buyer": {
+    "official_name": "Education Procurement Service (EPS)",
+    "email": "Info@educationprocurmentservice.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Castletroy Limerick",
+      "city": "Limerick",
+      "postal_code": "V94 DK53",
+      "country": "IRL"
+    },
+    "website": "https://www.educationprocurementservice.ie/",
+    "company_id": "IE 6609370 G",
+    "phone": "061375155"
+  },
+  "procedure": {
+    "title": "AG2940C/GALW/CON1709/2024 – Request for Tender under Open Procedure for the Provision of an Ocular Toxicity Study for the University of Galway (UoG).",
+    "description": "The Education Procurement Service (EPS) on behalf of the University of Galway (the “Contracting Authority”) invites tenders (“Tenders”) to this request for tenders (“RFT”) from economic operators (“Tenderers”) for the supply of a site and associated services to carry out a study to evaluate the performance of the ophthalmic drug delivery system.",
+    "identifier": "31a6aab8-f5ac-4802-aef5-6b4ec5f51e70",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-08-06+01:00",
+    "deadline_time": "14:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "85200000",
+    "additional_classifications": [
+      "71620000",
+      "85148000",
+      "77100000",
+      "85121300",
+      "71620000",
+      "85148000",
+      "77100000",
+      "85121300"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "110000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-08-06+01:00",
+    "open_tender_time": "14:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3963724"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "IF",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "AG2940C/GALW/CON1709/2024 – Request for Tender under Open Procedure for the Provision of an Ocular Toxicity Study for the University of Galway (UoG).",
+      "description": "The Education Procurement Service (EPS) on behalf of the University of Galway (the “Contracting Authority”) invites tenders (“Tenders”) to this request for tenders (“RFT”) from economic operators (“Tenderers”) for the supply of a site and associated services to carry out a study to evaluate the performance of the ophthalmic drug delivery system.",
+      "main_nature": "services",
+      "main_classification": "85200000",
+      "additional_classifications": [
+        "71620000",
+        "85148000",
+        "77100000",
+        "85121300"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "110000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3963724"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/430128-2024/pdf"
+}

@@ -1,0 +1,117 @@
+{
+  "notice_publication_id": "351354-2024",
+  "buyer": {
+    "official_name": "Beaumont Hospital_403",
+    "email": "tendering@beaumont.ie",
+    "legal_type": "body-pl",
+    "activity": "health",
+    "address": {
+      "street": "Beaumont Hospital, Beaumont Road",
+      "city": "Dublin",
+      "postal_code": "Dublin 9",
+      "country": "IRL"
+    },
+    "website": "http://www.beaumont.ie",
+    "company_id": "n/a",
+    "phone": "353 1 8093000"
+  },
+  "procedure": {
+    "title": "THE SUPPLY, SUPPORT AND MAINTENANCE OF A 3D SPECIMEN TOMOSYNTHESIS RADIOGRAPHY SYSTEM FOR INTRAOPERATIVE MARGIN ASSESSMENT",
+    "description": "Beaumont Hospital require a 3D Specimen Tomosynthesis Radiography System for Intraoperative Margin Assessment use in the theatres at Beaumont Hospital to enable surgeons and radiologists to accurately identify positive or close margins, intraoperatively. The successful tenderer shall be required to supply the required equipment in addition to providing support and maintenance for the tendered equipment.",
+    "identifier": "0896e649-b45e-4774-8dfa-e18b587b217e",
+    "type": "open",
+    "accelerated": "true",
+    "deadline_date": "2024-07-02+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "33100000",
+    "additional_classifications": [
+      "33124000",
+      "33124200",
+      "33100000",
+      "33190000",
+      "33162100",
+      "33124000",
+      "33124200",
+      "33100000",
+      "33190000",
+      "33162100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "220000",
+    "currency": "",
+    "maximum_value": "220000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-07-02+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3760516"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "THE SUPPLY, SUPPORT AND MAINTENANCE OF A 3D SPECIMEN TOMOSYNTHESIS RADIOGRAPHY SYSTEM FOR INTRAOPERATIVE MARGIN ASSESSMENT",
+      "description": "Beaumont Hospital require a 3D Specimen Tomosynthesis Radiography System for Intraoperative Margin Assessment use in the theatres at Beaumont Hospital to enable surgeons and radiologists to accurately identify positive or close margins, intraoperatively. The successful tenderer shall be required to supply the required equipment in addition to providing support and maintenance for the tendered equipment.",
+      "main_nature": "supplies",
+      "main_classification": "33111600",
+      "additional_classifications": [
+        "33124000",
+        "33124200",
+        "33100000",
+        "33190000",
+        "33162100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "220000",
+        "currency": "",
+        "maximum_value": "220000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3760516"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/351354-2024/pdf"
+}

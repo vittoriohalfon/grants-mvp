@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "684548-2023",
+  "buyer": {
+    "official_name": "Westmeath County Council",
+    "email": "jpcrowley@westmeathcoco.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "county buildings",
+      "city": "Mullingar",
+      "postal_code": "N91 FH4N",
+      "country": "IRL"
+    },
+    "website": "https://www.westmeathcoco.ie",
+    "company_id": "032126W",
+    "phone": "044932000"
+  },
+  "procedure": {
+    "title": "A MultiParty Framework Agreement for the Provision of Design and Build Dwelling Projects",
+    "description": "A Multi-Party Framework Agreement for the Provision of Design and Build Dwelling Projects with values between €500,000 and €5,000,000 Type 2 including associated works for use by Cavan, Louth, Meath, Monaghan and Westmeath County Councils. The Framework will be established on foot of an initial contract for the Design and Build of 12 No. Semi-detached Dwellings including necessary site development and ancillary works at Bun Daire, Kinnegad, Co. Westmeath for Westmeath County Council.",
+    "identifier": "35f7f45d-6796-4aae-8bfa-23d943223dc4",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2023-12-15+00:00",
+    "deadline_time": "16:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45000000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "200000000",
+    "currency": "",
+    "maximum_value": "200000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2023-12-15+00:00",
+    "open_tender_time": "16:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2673013"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "180",
+    "tender_validity_period_unit": "",
+    "security_clearance": "false"
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "A MultiParty Framework Agreement for the Provision of Design and Build Dwelling Projects",
+      "description": "A Multi-Party Framework Agreement for the Provision of Design and Build Dwelling Projects with values between €500,000 and €5,000,000 Type 2 including associated works for use by Cavan, Louth, Meath, Monaghan and Westmeath County Councils. The Framework will be established on foot of an initial contract for the Design and Build of 12 No. Semi-detached Dwellings including necessary site development and ancillary works at Bun Daire, Kinnegad, Co. Westmeath for Westmeath County Council.",
+      "main_nature": "works",
+      "main_classification": "45000000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "5000000",
+        "currency": "",
+        "maximum_value": "200000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "false",
+        "framework_agreement": "fa-w-rc",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2673013"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/684548-2023/pdf"
+}

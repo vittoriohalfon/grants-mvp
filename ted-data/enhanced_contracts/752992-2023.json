@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "752992-2023",
+  "buyer": {
+    "official_name": "Midleton Educate Together National School",
+    "email": "info@jbarch.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "education",
+    "address": {
+      "street": "Four Courts, Inns Quay, Dublin 7",
+      "city": "Midleton",
+      "postal_code": "D07 WDX8",
+      "country": "IRL"
+    },
+    "website": "https://midletonet.com/",
+    "company_id": "Roll No. 20336V",
+    "phone": "0214667073"
+  },
+  "procedure": {
+    "title": "SEN Extension at Midleton Educate Together National School",
+    "description": "Construction of new single-storey building extension to provide SEN accommodation extension to the main school building and all Associated Site Works at Educate Together National School, Mill Rd., Broomfield West, Midleton, Co. Cork",
+    "identifier": "01e7a51d-ba37-4a54-b271-03b0de969c5c",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-16+00:00",
+    "deadline_time": "00:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45214210",
+    "additional_classifications": [
+      "45210000",
+      "45214230",
+      "45214200",
+      "45210000",
+      "45214230",
+      "45214200"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "680000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-18+00:00",
+    "open_tender_time": "00:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2713365"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "180",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "SEN Extension at Midleton Educate Together National School",
+      "description": "Construction of new single-storey building extension to provide SEN accommodation extension to the main school building and all Associated Site Works at Educate Together National School, Mill Rd., Broomfield West, Midleton, Co. Cork",
+      "main_nature": "works",
+      "main_classification": "45214210",
+      "additional_classifications": [
+        "45210000",
+        "45214230",
+        "45214200"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "680000.00",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2713365"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/752992-2023/pdf"
+}

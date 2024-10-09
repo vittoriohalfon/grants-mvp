@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "318847-2024",
+  "buyer": {
+    "official_name": "Office of Public Works (OPW)",
+    "email": "clonmelgs@opw.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Jonathan Swift Street",
+      "city": "Trim",
+      "postal_code": "C15 NX36",
+      "country": "IRL"
+    },
+    "website": "https://www.opw.ie",
+    "company_id": "Not Applicable",
+    "phone": "046 9426000"
+  },
+  "procedure": {
+    "title": "Clonmel Garda District HQ - Reserved Specialist - Electrical",
+    "description": "The proposed development comprises a new Garda District HQ building, a new ancillary building with plant and stores, a secure car parking area and a secure courtyard yard. The site is recorded on Tipperary County Council’s Record of Protected structures, and contains a number of entries of regional significance in the National Inventory of Architectural Heritage. It is a Protected Structure under the Clonmel and Environs Development Plan 2013-2019. RPS Reference 68 (Military Barracks Complex) and RPS Reference 69 (Main entrance gateway). The existing stone wall onto Dillon Street forms part of the Military Barracks Complex Protected Structure and its retention and consolidation as required as the Western site boundary will need to be integrated into the overall site works. The main building will range from 2 to 3 to 4 storeys in height. The finished floor level will be plus 20.50m to take account of the site’s flood risk potential with an additional 500mm freeboard to account for climate change. The development will necessitate the demolition and removal of 5 no. existing accommodation structures, as well as 10-15 no. trees. It will also involve the relocation of an existing Boar War Memorial on the subject site. The development will include soft and hard landscaping measures at the site. The stone wall currently forming the boundary to the west of the site will be retained and softened with planting. Connections will be made to the existing public water and sewer systems, which are already well established on site. The construction phase 33 months.",
+    "identifier": "fbcac964-02d8-4d0f-85ba-12899e4c8ac6",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-06-28+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45310000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1",
+    "currency": "",
+    "maximum_value": "1"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Clonmel Garda District HQ - Reserved Specialist - Electrical",
+      "description": "The proposed development comprises a new Garda District HQ building, a new ancillary building with plant and stores, a secure car parking area and a secure courtyard yard. The site is recorded on Tipperary County Council’s Record of Protected structures, and contains a number of entries of regional significance in the National Inventory of Architectural Heritage. It is a Protected Structure under the Clonmel and Environs Development Plan 2013-2019. RPS Reference 68 (Military Barracks Complex) and RPS Reference 69 (Main entrance gateway). The existing stone wall onto Dillon Street forms part of the Military Barracks Complex Protected Structure and its retention and consolidation as required as the Western site boundary will need to be integrated into the overall site works. The main building will range from 2 to 3 to 4 storeys in height. The finished floor level will be plus 20.50m to take account of the site’s flood risk potential with an additional 500mm freeboard to account for climate change. The development will necessitate the demolition and removal of 5 no. existing accommodation structures, as well as 10-15 no. trees. It will also involve the relocation of an existing Boar War Memorial on the subject site. The development will include soft and hard landscaping measures at the site. The stone wall currently forming the boundary to the west of the site will be retained and softened with planting. Connections will be made to the existing public water and sewer systems, which are already well established on site. The construction phase 33 months.",
+      "main_nature": "works",
+      "main_classification": "45310000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1",
+        "currency": "",
+        "maximum_value": "1"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3678395"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/318847-2024/pdf"
+}

@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "325568-2024",
+  "buyer": {
+    "official_name": "Office of Public Works (OPW)",
+    "email": "macroomgs@opw.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Jonathan Swift Street",
+      "city": "Trim",
+      "postal_code": "C15 NX36",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/en/organisation/office-of-public-works/",
+    "company_id": "4000274W",
+    "phone": "+353 46 942 2000"
+  },
+  "procedure": {
+    "title": "Macroom Gards Divisional HQ | Reserved Specialist | Mechanical",
+    "description": "The proposed project is 4,338 sqm in area, with a site area of 0.68 hectares. The project comprises a main building that is between 2 and 4 storey in height, as well as single storey ancillary buildings on the site. Development of the project requires the demolitions of a number of 2 No. existing agricultural sheds as well as the demolition of existing nonhistoric walls on the site. The site proposal involves the provision of 60 car parking spaces, landscaping works and bicycle and motorcycle parking provisions. The site is located on Glenview Terrace to the West of Macroom town. It a previously green field site and is accessed off of the main R618 road. A new access road has been developed by Cork County Council to provide access to the site and to a new Fire Station that has been completed on the adjacent site.",
+    "identifier": "2ffd4f4d-bb62-422c-a5ba-21b69c7bb5c3",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-07-03+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45350000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1",
+    "currency": "",
+    "maximum_value": "1"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Macroom Gards Divisional HQ | Reserved Specialist | Mechanical",
+      "description": "The proposed project is 4,338 sqm in area, with a site area of 0.68 hectares. The project comprises a main building that is between 2 and 4 storey in height, as well as single storey ancillary buildings on the site. Development of the project requires the demolitions of a number of 2 No. existing agricultural sheds as well as the demolition of existing nonhistoric walls on the site. The site proposal involves the provision of 60 car parking spaces, landscaping works and bicycle and motorcycle parking provisions. The site is located on Glenview Terrace to the West of Macroom town. It a previously green field site and is accessed off of the main R618 road. A new access road has been developed by Cork County Council to provide access to the site and to a new Fire Station that has been completed on the adjacent site.",
+      "main_nature": "works",
+      "main_classification": "45350000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1",
+        "currency": "",
+        "maximum_value": "1"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3705403"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/325568-2024/pdf"
+}

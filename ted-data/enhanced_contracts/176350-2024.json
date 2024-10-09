@@ -1,0 +1,204 @@
+{
+  "notice_publication_id": "176350-2024",
+  "buyer": {
+    "official_name": "Scoil Mhuire Community School (Clane)",
+    "email": "PadraigNolan@scoilmhuireclane.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Four Courts, Inns Quay, Dublin 7",
+      "city": "Clane",
+      "postal_code": "D07 WDX8",
+      "country": "IRL"
+    },
+    "website": "https://www.scoilmhuireclane.ie",
+    "company_id": "43798",
+    "phone": "045 868121"
+  },
+  "procedure": {
+    "title": "Scoil Mhuire Community School cFT Supply, Delivery and Installation of Construction Studies Tools ,Machines and Equipment at Scoil Mhuire CS,Clane, Co Kildare",
+    "description": "The Board of Management of Scoil Mhuire Community School (the contracting Authority)invites tenders(\"Tenders\") to this call for tenders(CFT) from economic operators (\"Tenderers\") for the supply of goods as described in this CFT.The goods are to required to be delivered and installed to Scoil Mhuire Community School,Clane Co kildare before end of July 2024.All goods must meet the specifications as outlined by the Department of Education",
+    "identifier": "c1bc8100-05bb-43b9-9996-124fe3a6fc38",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-25+00:00",
+    "deadline_time": "15:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "42642300",
+    "additional_classifications": [
+      "43830000",
+      "44512000",
+      "42676000",
+      "44511500",
+      "42621000",
+      "42642200",
+      "42611000",
+      "42642500",
+      "42640000",
+      "42600000",
+      "42610000",
+      "42670000",
+      "44510000",
+      "44511000",
+      "43830000",
+      "44512000",
+      "42676000",
+      "44511500",
+      "42621000",
+      "42642200",
+      "42611000",
+      "42642500",
+      "42640000",
+      "42600000",
+      "42610000",
+      "42670000",
+      "44510000",
+      "44511000",
+      "43830000",
+      "44512000",
+      "42676000",
+      "44511500",
+      "42621000",
+      "42642200",
+      "42611000",
+      "42642500",
+      "42640000",
+      "42600000",
+      "42610000",
+      "42670000",
+      "44510000",
+      "44511000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "100000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-04-26+00:00",
+    "open_tender_time": "00:00:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3288680"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Lists A and B",
+      "description": "The Board of Management of Scoil Mhuire Community School (the contracting Authority)invites tenders(\"Tenders\") to this call for tenders(CFT) from economic operators (\"Tenderers\") for the supply of goods as described in this CFT.The goods are to required to be delivered and installed to Scoil Mhuire Community School,Clane Co kildare before end of July 2024.All goods must meet the specifications as outlined by the Department of Education",
+      "main_nature": "supplies",
+      "main_classification": "42642300",
+      "additional_classifications": [
+        "43830000",
+        "44512000",
+        "42676000",
+        "44511500",
+        "42621000",
+        "42642200",
+        "42611000",
+        "42642500",
+        "42640000",
+        "42600000",
+        "42610000",
+        "42670000",
+        "44510000",
+        "44511000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "100000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "Wood Preparation Machines",
+      "description": "The Board of Management of Scoil Mhuire Community School (the contracting Authority)invites tenders(\"Tenders\") to this call for tenders(CFT) from economic operators (\"Tenderers\") for the supply of goods as described in this CFT.The goods are to required to be delivered and installed to Scoil Mhuire Community School,Clane Co kildare before end of July 2024.All goods must meet the specifications as outlined by the Department of Education",
+      "main_nature": "supplies",
+      "main_classification": "42642300",
+      "additional_classifications": [
+        "43830000",
+        "44512000",
+        "42676000",
+        "44511500",
+        "42621000",
+        "42642200",
+        "42611000",
+        "42642500",
+        "42640000",
+        "42600000",
+        "42610000",
+        "42670000",
+        "44510000",
+        "44511000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "100000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3288680",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3288680"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/176350-2024/pdf"
+}

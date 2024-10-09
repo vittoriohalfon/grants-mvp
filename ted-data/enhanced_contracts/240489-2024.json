@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "240489-2024",
+  "buyer": {
+    "official_name": "Education Procurement Service (EPS)",
+    "email": "Info@educationprocurmentservice.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Castletroy Limerick",
+      "city": "Limerick",
+      "postal_code": "V94 DK53",
+      "country": "IRL"
+    },
+    "website": "https://www.educationprocurementservice.ie/",
+    "company_id": "IE 6609370 G",
+    "phone": "+35361233715"
+  },
+  "procedure": {
+    "title": "PS2874C - RFT for the provision of a Business Process Improvement, Workflow Development and Scheduling Consultancy (UL)",
+    "description": "Request for Tenders for the Provision of a Business Process Improvement, Workflow Development and Scheduling Consultancy (UL).The University requires resources to deliver support and maintenance services across a number of its service offerings. SharePoint. The University requires the provision of SharePoint support for end users in the following areas: Training – delivering training sessions to individuals or groups Documentation – documentation for user reference, including user guides, FAQs and knowledge base articles Troubleshooting – login problems, document access issues, errors Security Guidance – providing information on proper permission management and data protection measures The University requires development and support services to design solutions to meet operational needs within the SharePoint online platform. Additionally, the University requires support and maintenance services for an existing suite of developments within our SharePoint on premise platform. Scheduling, The University uses the Facility CMIS system to generate its academic timetables, including Lectures, Labs, Tutorials, Exams and Room Bookings. The University requires support and development services in the provision of its academic scheduling service. These services include support of existing processes and developments within the scheduling service, support and maintenance of bespoke scheduling applications, development of new processes/workflows to assist in scheduling, and advice on data management and process changes to enhance the service provision and optimise the end-to-end scheduling process. Bespoke Development ,The University has a requirement for resources to provide development and support services in a range of technologies. These technologies have been used to develop a number of bespoke applications and web services to meet the operational needs of the organisation.",
+    "identifier": "cda22c5d-faba-42b5-bb43-3b9eb2192a46",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-22+01:00",
+    "deadline_time": "14:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72250000",
+    "additional_classifications": [
+      "71356300",
+      "72611000",
+      "72600000",
+      "72253200",
+      "71356300",
+      "72611000",
+      "72600000",
+      "72253200"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1540000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-05-22+01:00",
+    "open_tender_time": "14:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3441610"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "PS2874C - RFT for the provision of a Business Process Improvement, Workflow Development and Scheduling Consultancy (UL)",
+      "description": "Request for Tenders for the Provision of a Business Process Improvement, Workflow Development and Scheduling Consultancy (UL).The University requires resources to deliver support and maintenance services across a number of its service offerings. SharePoint. The University requires the provision of SharePoint support for end users in the following areas: Training – delivering training sessions to individuals or groups Documentation – documentation for user reference, including user guides, FAQs and knowledge base articles Troubleshooting – login problems, document access issues, errors Security Guidance – providing information on proper permission management and data protection measures The University requires development and support services to design solutions to meet operational needs within the SharePoint online platform. Additionally, the University requires support and maintenance services for an existing suite of developments within our SharePoint on premise platform. Scheduling, The University uses the Facility CMIS system to generate its academic timetables, including Lectures, Labs, Tutorials, Exams and Room Bookings. The University requires support and development services in the provision of its academic scheduling service. These services include support of existing processes and developments within the scheduling service, support and maintenance of bespoke scheduling applications, development of new processes/workflows to assist in scheduling, and advice on data management and process changes to enhance the service provision and optimise the end-to-end scheduling process. Bespoke Development ,The University has a requirement for resources to provide development and support services in a range of technologies. These technologies have been used to develop a number of bespoke applications and web services to meet the operational needs of the organisation.",
+      "main_nature": "services",
+      "main_classification": "72250000",
+      "additional_classifications": [
+        "71356300",
+        "72611000",
+        "72600000",
+        "72253200"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1540000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3441610"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/240489-2024/pdf"
+}

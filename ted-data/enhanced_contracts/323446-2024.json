@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "323446-2024",
+  "buyer": {
+    "official_name": "Clare County Council",
+    "email": "procurement@clarecoco.ie",
+    "legal_type": "la",
+    "activity": "hc-am",
+    "address": {
+      "street": "Áras Contae an Chláir New Road Ennis County Clare",
+      "city": "Ennis",
+      "postal_code": "V95 DXP2",
+      "country": "IRL"
+    },
+    "website": "https://www.clarecoco.ie",
+    "company_id": "0000",
+    "phone": "0656846269"
+  },
+  "procedure": {
+    "title": "Refurbishment Works to Fire Damaged House at No. 4 Bridge View, Roslevan, Ennis, Co. Clare",
+    "description": "**Title: Refurbishment Works to Fire Damaged House at No. 4 Bridge View, Roslevan, Ennis, Co. Clare**\n\n**Description:**\nClare County Council invites bids for the refurbishment of a fire-damaged house located at No. 4 Bridge View, Roslevan, Ennis, Co. Clare. The successful bidder will be responsible for restoring the property to a safe and habitable condition, ensuring compliance with all relevant building codes and regulations. The project involves comprehensive refurbishment works, including but not limited to, structural repairs, electrical and plumbing upgrades, interior and exterior renovations, and ensuring the property meets modern safety standards.\n\n**Key Requirements:**\n- **Experience:** The bidder must have a proven track record in similar refurbishment projects, particularly in restoring fire-damaged properties.\n- **Qualifications:** The bidder should hold relevant certifications and licenses, such as a valid builder's license and compliance with local building regulations.\n- **Insurance:** The bidder must provide adequate insurance coverage for the project, including public liability and employer's liability insurance.\n- **Health and Safety:** The bidder must demonstrate a strong commitment to health and safety protocols, ensuring the well-being of workers and the public during the project.\n- **Environmental Considerations:** The bidder should adhere to environmental best practices, minimizing waste and ensuring sustainable practices are employed during the refurbishment process.\n- **Community Engagement:** The bidder should be able to engage with the local community, addressing any concerns and ensuring that the project is completed with minimal disruption to residents.\n\n**Submission Guidelines:**\nBidders must submit their proposals electronically through the Clare County Council website. The proposal should include a detailed project plan, a comprehensive breakdown of costs, and evidence of the bidder's qualifications and experience. The deadline for submission is clearly stated in the tender notice.\n\n**Evaluation Criteria:**\nProposals will be evaluated based on the bidder's experience, qualifications, project plan, cost breakdown, and commitment to health and safety protocols. The council reserves the right to conduct site visits and interviews as part of the evaluation process.\n\nBy submitting a proposal, the bidder acknowledges that they have read and understood the terms and conditions outlined in the tender notice and agrees to comply with all requirements specified.",
+    "identifier": "3d81d19c-9fd9-41a3-954e-0f854866cdd4",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-27+01:00",
+    "deadline_time": "16:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45211100",
+    "additional_classifications": [
+      "45211300",
+      "45453100",
+      "45211300",
+      "45453100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "200000",
+    "currency": "",
+    "maximum_value": "200000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-06-27+01:00",
+    "open_tender_time": "16:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3692886"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Refurbishment Works to Fire Damaged House at No. 4 Bridge View, Roslevan, Ennis, Co. Clare",
+      "description": "**Title:** Refurbishment Works to Fire Damaged House at No. 4 Bridge View, Roslevan, Ennis, Co. Clare\n\n**Description:**\nClare County Council invites bids for the refurbishment of a fire-damaged house located at No. 4 Bridge View, Roslevan, Ennis, Co. Clare. The successful bidder will be responsible for restoring the property to a safe and habitable condition, adhering to all relevant building codes and regulations. The scope of work includes but is not limited to:\n\n- **Structural Repairs:** Assessing and repairing any structural damage caused by the fire.\n- **Electrical and Plumbing Systems:** Replacing or repairing electrical and plumbing systems to ensure they are safe and functional.\n- **Insulation and Ventilation:** Ensuring proper insulation and ventilation to meet current building standards.\n- **Interior and Exterior Finishing:** Completing interior and exterior finishing works, including painting, flooring, and roofing.\n- **Safety Measures:** Implementing necessary safety measures to prevent future fires.\n- **Environmental Compliance:** Ensuring all works comply with environmental regulations and waste management practices.\n- **Community Engagement:** Collaborating with local community groups and stakeholders to minimize disruption and ensure the project aligns with the council's community development goals.\n\nThe refurbishment works must be completed within a specified timeframe, and the bidder must provide a detailed project plan, including timelines, budgets, and a comprehensive risk assessment. Clare County Council reserves the right to request additional information or clarification during the bidding process. The council is committed to enhancing the quality of life in County Clare through leadership and partnership, and this project is part of its broader efforts to support community development and housing needs.\n\n**Contact Information:**\nFor further information or to submit a bid, please contact Clare County Council's Customer Services at customerservices@clarecoco.ie or (065) 6821616. Bidders must ensure they meet the eligibility criteria outlined in the tender notice and adhere to all specified requirements.",
+      "main_nature": "works",
+      "main_classification": "45211100",
+      "additional_classifications": [
+        "45211300",
+        "45453100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "200000",
+        "currency": "",
+        "maximum_value": "200000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3692886"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/323446-2024/pdf"
+}

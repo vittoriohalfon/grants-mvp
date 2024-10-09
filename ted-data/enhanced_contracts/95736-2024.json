@@ -1,0 +1,144 @@
+{
+  "notice_publication_id": "95736-2024",
+  "buyer": {
+    "official_name": "Fingal County Council_371",
+    "email": "procurement@fingal.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Main Street",
+      "city": "Dublin",
+      "postal_code": "K67 X8Y2",
+      "country": "IRL"
+    },
+    "website": "https://www.fingal.ie",
+    "company_id": "9509807N",
+    "phone": "018075000"
+  },
+  "procedure": {
+    "title": "FCC/478/24 - Purchase of Wide Area Trailed Wing Roller Mowers in Two Lots",
+    "description": "Fingal County Council, the local government authority responsible for Fingal County, is seeking the Purchase of Trailed Wide Area Roller Mowers in Two Lots. The immediate requirement is for the purchase of two mowers under each lot, with the possibility of future purchases arising during the contract period. The mowers are needed to maintain the county's parks and trails, ensuring the upkeep of its green spaces and infrastructure. The successful bidder will be expected to provide high-quality, reliable, and efficient machinery capable of handling the demands of large-scale maintenance tasks. The procurement process aims to support the council's ongoing efforts to enhance the county's natural beauty and recreational areas, contributing to the overall quality of life for residents and visitors. \n\n**Lot 1:**\n- **4m Wide Trailed Wing Roller Mowers**\n- Immediate requirement: 2 units\n- Potential future requirement: Additional units may be needed during the contract period\n\n**Lot 2:**\n- **5m Wide Trailed Wing Roller Mowers**\n- Immediate requirement: 2 units\n- Potential future requirement: Additional units may be needed during the contract period\n\nBidders should have a proven track record in supplying and maintaining heavy machinery, particularly in the context of local government or similar large-scale maintenance projects. The proposal should include detailed specifications for the mowers, including but not limited to, engine power, cutting width, maneuverability, and durability. Additionally, bidders should provide information on their maintenance and support services, as well as any warranties or guarantees offered. The council is committed to sustainability and environmental responsibility, so bidders should also highlight any eco-friendly features of their products. The procurement process will prioritize bidders who demonstrate a strong commitment to quality, reliability, and customer service.",
+    "identifier": "342cb32b-d64d-4af5-be22-8f5c73f14c14",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-03-15+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "16310000",
+    "additional_classifications": [
+      "16311000",
+      "16311100",
+      "16311000",
+      "16311100",
+      "16311000",
+      "16311100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "500000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-03-15+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3087777"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "4m Wide Trailed Wing Roller Mowers",
+      "description": "Fingal County Council seeks the Purchase of Trailed Wide Area Roller Mowers in Two Lots as per below: Lot 1: 4m Wide Trailed Wing Roller Mowers Lot 2: 5m Wide Trailed Wing Roller Mowers Each Lot may result in a separate contract. The immediate requirement for Trailed Wide Area Roller Mowers is for the purchase of two mowers under each lot. There may be a requirement for future purchases which may arise during the period of the contract.",
+      "main_nature": "supplies",
+      "main_classification": "16310000",
+      "additional_classifications": [
+        "16311000",
+        "16311100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "500000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "5m Wide Trailed Wing Roller Mowers",
+      "description": "Fingal County Council seeks the Purchase of Trailed Wide Area Roller Mowers in Two Lots as per below: Lot 1: 4m Wide Trailed Wing Roller Mowers Lot 2: 5m Wide Trailed Wing Roller Mowers Each Lot may result in a separate contract. The immediate requirement for Trailed Wide Area Roller Mowers is for the purchase of two mowers under each lot. There may be a requirement for future purchases which may arise during the period of the contract.",
+      "main_nature": "supplies",
+      "main_classification": "16310000",
+      "additional_classifications": [
+        "16311000",
+        "16311100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "500000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3087777",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3087777"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/95736-2024/pdf"
+}

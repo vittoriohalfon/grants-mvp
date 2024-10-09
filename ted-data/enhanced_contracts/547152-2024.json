@@ -1,0 +1,135 @@
+{
+  "notice_publication_id": "547152-2024",
+  "buyer": {
+    "official_name": "Department of the Environment Climate and Communications",
+    "email": "susan.fleming@decc.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Tom Johnson House, Haddington Road",
+      "city": "Dublin",
+      "postal_code": "D04K7X4",
+      "country": "IRL"
+    },
+    "website": "http://www.decc.gov.ie",
+    "company_id": "4002073W",
+    "phone": "01 678 2000"
+  },
+  "procedure": {
+    "title": "Provision of Metocean Surveys and Geotechnical Desktop Study to Tonn Nua and Lí Ban within the South Coast DMAP",
+    "description": "**Title:** Provision of Metocean Surveys and Geotechnical Desktop Study to Tonn Nua and Lí Ban within the South Coast DMAP\n\n**Description:**\nThe Minister for the Environment, Climate and Communications (DECC) invites interested parties to submit responses to this request for tender for the provision of MetOcean Surveys and Geotechnical Desktop Study relating to Tonn Nua and Lí Ban. For the avoidance of doubt, this would include survey data and a geotechnical desktop study within the Tonn Nua site in the South Coast ORE DMAP.\n\n**Background:**\nThe Tonn Nua site (A) and Lí Ban site (B) are situated off the coast of County Waterford and encompass a total marine area of 312.6 km² and 486 km² respectively. As part of a new plan-led regime, the offshore wind Phase Two policy approved by Government in March 2023 requires that all future offshore renewable energy developments in Ireland will take place within Designated Maritime Area Plans (DMAPs), which will be established according to provisions in the Maritime Area Planning Act, 2021. Specifically, all future developments will take place at specific sites within DMAPs that have been identified for this purpose by Government.\n\n**Project Context:**\nThe first DMAP for Offshore Renewable Energy will be located off the South Coast, and the first offshore wind project with a capacity of approximately 900 MW will take place in Tonn Nua, aiming for deployment by 2030. The updated draft South Coast DMAP identifying four maritime areas off the south coast was published on 3 May 2024 and was subject to a six-week statutory public consultation period closing on 14 June 2024. The Draft South Coast DMAP has undergone a further period of additional public consultation from 1 August – 30 August 2024. The boundaries of the south coast DMAP maritime areas may be subject to change as a result of the public consultation.\n\n**Survey Activities:**\nCommencing with the South Coast DMAP Proposal, the State will undertake comprehensive surveying activities primarily through our partners in the Marine Institute (MI) and Geological Survey Ireland (GSI). This will take place through a comprehensive programme of survey activity within the geographical area of each DMAP proposed and/or marine areas identified for offshore wind development within the future DMAPs, and/or marine areas identified for offshore wind development within the final DMAPs approved by the Oireachtas. For the avoidance of doubt, this surveying will be without prejudice to the South Coast DMAP establishment process, which will be informed by comprehensive public engagement, including targeted engagement with key stakeholders, as well as environmental assessments.\n\n**Current Status:**\nGeophysical surveys of the Tonn Nua site are currently being carried out by the MI. The final steps in the South Coast DMAP establishment process will require approval of the draft DMAP by the Minister for Housing, Local Government and Heritage, which if achieved will be followed by its being laid before both houses of the Oireachtas. The DMAP is only established upon receiving Oireachtas approval.\n\n**Requirements:**\nThe successful bidder will be required to provide detailed MetOcean Surveys and Geotechnical Desktop Study for both Tonn Nua and Lí Ban sites. The scope of work includes:\n- Conducting comprehensive MetOcean surveys to gather data on ocean conditions, including wind, waves, and currents.\n- Performing a geotechnical desktop study to assess the site's geological and geotechnical properties.\n- Providing survey data and a detailed report on the geotechnical conditions of the Tonn Nua site.\n- Ensuring compliance with all relevant environmental and safety regulations.\n- Collaborating with the Marine Institute (MI) and Geological Survey Ireland (GSI) as required.\n- Delivering high-quality reports and data that meet the standards set by DECC and relevant regulatory bodies.\n\n**Evaluation Criteria:**\nThe tender will be evaluated based on the following criteria:\n- Technical competence and experience in conducting MetOcean surveys and geotechnical studies.\n- Ability to deliver high-quality reports and data within the specified timelines.\n- Compliance with environmental and safety regulations.\n- Past performance and references from previous projects.\n- Competitive pricing and value for money.\n\n**Submission Guidelines:**\nInterested parties should submit their responses to this request for tender in accordance with the guidelines provided in the tender document. The tender document includes detailed information on the submission process, evaluation criteria, and any additional requirements. All submissions must be made electronically through the eTenders portal by the specified deadline.\n\n**Contact Information:**\nFor any queries or further information, please contact the DECC procurement team at [insert contact details].",
+    "identifier": "fcacabbd-a7e7-41be-b025-680832866af5",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-08+01:00",
+    "deadline_time": "17:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "76520000",
+    "additional_classifications": [
+      "71332000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "700000",
+    "currency": "",
+    "maximum_value": "700000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-08+01:00",
+    "open_tender_time": "17:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4290407"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Provision of Metocean Surveys for Tonn Nua and Li Ban",
+      "description": "**Title:** Provision of Metocean Surveys for Tonn Nua and Lí Ban, and Geotechnical Desktop Study\n\n**Description:**\nThe Department of the Environment, Climate and Communications (DECC) invites interested parties to submit responses to this request for tender for the provision of MetOcean Surveys and a Geotechnical desktop study relating to Tonn Nua and Lí Ban. This tender is part of a new plan-led regime for offshore renewable energy developments in Ireland, as mandated by the Maritime Area Planning Act, 2021. Specifically, this project aims to support the establishment of the first Designated Maritime Area Plan (DMAP) for Offshore Renewable Energy off the South Coast of Ireland.\n\n**Key Details:**\n- **Location:** The Tonn Nua site (A) and Lí Ban site (B) are situated off the coast of County Waterford, encompassing a total marine area of 312.6 km² and 486 km² respectively.\n- **Project Scope:** The tender includes survey data and a geotechnical desktop study within the Tonn Nua site in the South Coast ORE DMAP. Geophysical surveys of the Tonn Nua site are currently being carried out by the Marine Institute (MI).\n- **Public Consultation:** The Draft South Coast DMAP has undergone public consultations from May 3, 2024, to June 14, 2024, and an additional period from August 1 to August 30, 2024. The boundaries of the south coast DMAP maritime areas may be subject to change based on these consultations.\n- **Establishment Process:** The final steps in the South Coast DMAP establishment process will require approval of the draft DMAP by the Minister for Housing, Local Government and Heritage, followed by its being laid before both houses of the Oireachtas. The DMAP is only established upon receiving Oireachtas approval.\n- **Partnership:** The State will undertake comprehensive surveying activities primarily through partners in the Marine Institute (MI) and Geological Survey Ireland (GSI).\n\n**Requirements:**\n- The successful bidder must have expertise in MetOcean surveys and geotechnical studies.\n- The bidder should have experience in conducting surveys in marine environments.\n- The bidder should be able to provide detailed survey data and a comprehensive geotechnical desktop study.\n- The bidder should be familiar with the Maritime Area Planning Act, 2021, and the requirements for establishing DMAPs.\n- The bidder should be able to work collaboratively with the Marine Institute (MI) and Geological Survey Ireland (GSI).\n\n**Submission Guidelines:**\nInterested parties should submit their responses through the DECC’s public consultation portal. The submission should include detailed proposals outlining the bidder’s experience, methodology, and timeline for completing the MetOcean surveys and geotechnical desktop study. The bidder should also provide any relevant documentation or references that demonstrate their capability to undertake this project.\n\n**Timeline:**\nThe tender process will be conducted in accordance with the public procurement regulations of Ireland. The exact timeline for the tender process will be communicated through the DECC’s public consultation portal. It is essential for bidders to regularly check the portal for updates and any additional information required.\n\nBy submitting a response to this tender, the bidder acknowledges their understanding of the project’s scope, timeline, and requirements. The successful bidder will be required to work closely with the DECC, MI, and GSI to ensure the successful completion of the project.",
+      "main_nature": "services",
+      "main_classification": "76520000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "700000",
+        "currency": "",
+        "maximum_value": "700000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "Provision of Geotechnical Desktop Study for Tonn Nua and Li Ban",
+      "description": "**Title:** Provision of Geotechnical Desktop Study for Tonn Nua and Lí Ban\n\n**Description:**\nThe Department of the Environment, Climate and Communications (DECC) invites interested parties to submit responses to this request for tender for the provision of MetOcean Surveys and Geotechnical desktop studies relating to Tonn Nua and Lí Ban. This tender aims to support the development of offshore renewable energy projects in Ireland, specifically within the Designated Maritime Area Plans (DMAPs) established under the Maritime Area Planning Act, 2021.\n\n**Background:**\nThe offshore wind Phase Two policy, approved by the Government in March 2023, requires all future offshore renewable energy developments to take place within DMAPs. The first DMAP for Offshore Renewable Energy will be located off the South Coast, with the first offshore wind project of approximately 900MW planned for Tonn Nua, aiming for deployment by 2030. The Draft South Coast DMAP, published on May 3, 2024, underwent a six-week statutory public consultation period from May 14 to June 14, 2024, and an additional six-week public consultation period from August 1 to August 30, 2024.\n\n**Scope of Work:**\nThe successful bidder will be responsible for conducting comprehensive survey activities, including MetOcean surveys and geotechnical desktop studies, within the Tonn Nua site and Lí Ban site. These surveys will cover a total marine area of 312.6 km² and 486 km² respectively, located off the coast of County Waterford. The scope includes:\n\n- **MetOcean Surveys:** Gathering survey data to support the development of offshore renewable energy projects.\n- **Geotechnical Desktop Study:** Conducting a detailed geotechnical analysis of the Tonn Nua site to assess its suitability for offshore wind development.\n\n**Key Requirements:**\n- **Survey Data:** Providing detailed survey data that will inform the establishment of the South Coast DMAP.\n- **Geotechnical Analysis:** Conducting a thorough geotechnical desktop study to evaluate the site's conditions and potential impacts on offshore wind development.\n- **Compliance:** Ensuring all work is carried out in compliance with environmental assessments and public engagement requirements.\n\n**Timeline:**\nThe successful bidder will need to commence work immediately, with the final steps in the South Coast DMAP establishment process requiring approval of the draft DMAP by the Minister for Housing, Local Government and Heritage, followed by Oireachtas approval.\n\n**Partnership with Marine Institute and Geological Survey Ireland:**\nThe State will undertake comprehensive surveying activities primarily through partnerships with the Marine Institute (MI) and Geological Survey Ireland (GSI). The successful bidder will need to collaborate with these organizations to ensure seamless integration of their work into the broader survey program.\n\n**Public Engagement and Environmental Assessments:**\nThe surveying activities will be conducted without prejudice to the South Coast DMAP establishment process, which will be informed by comprehensive public engagement, including targeted engagement with key stakeholders, as well as environmental assessments.\n\n**Submission Guidelines:**\nInterested parties should submit their responses to this request for tender through the DECC's online portal, ensuring all required documentation is included. The registration process for making a submission is a one-time process, and registered users can manage their submissions across multiple consultations.\n\n**Contact Information:**\nFor any queries or additional information, please contact the Department of the Environment, Climate and Communications at [DECC Contact Information].",
+      "main_nature": "services",
+      "main_classification": "76520000",
+      "additional_classifications": [
+        "71332000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "700000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "not-allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-w-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4290407",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4290407"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/547152-2024/pdf"
+}

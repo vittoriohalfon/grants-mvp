@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "442200-2024",
+  "buyer": {
+    "official_name": "University College Dublin ( UCD )",
+    "email": "procurement@ucd.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Belfield, Dublin 4",
+      "city": "Dublin",
+      "postal_code": "Belfield, Dublin 4",
+      "country": "IRL"
+    },
+    "website": "https://www.ucd.ie",
+    "company_id": "IE6517386K",
+    "phone": "+353 1 717777"
+  },
+  "procedure": {
+    "title": "UCDOPP5421 Wood Pellets kWh Heat and Biomass Boiler PPM Maintenance",
+    "description": "**Title:** UCDOPP5421 Wood Pellets kWh Heat and Biomass Boiler PPM Maintenance\n\n**Description:**\nUniversity College Dublin (UCD) is one of Europe's leading research-intensive universities, providing a broad range of courses across six Colleges: College of Arts & Humanities, College of Business, College of Engineering & Architecture, College of Health & Agricultural Sciences, College of Social Sciences & Law, and College of Science. UCD operates a KOB Pyrtec 950kW Wood Pellet boiler as part of its District Heating heat generator portfolio, contributing heat for space heating and hot water to approximately 120,000m² of campus floor area. The district heating scheme serves a significant portion of the university's heating needs and has future connections planned.\n\nUCD is seeking a reliable and efficient provider for the Wood Pellets kWh Heat and Biomass Boiler PPM (Preventive Maintenance) services. The successful bidder will be responsible for ensuring the optimal performance and longevity of the boiler system. The full details of the requirements are available in Appendix 1: Requirements and Specifications in the RFT.\n\n**Key Requirements:**\n- **Boiler Maintenance:** The bidder must have experience in maintaining wood pellet boilers, ensuring they operate at peak efficiency and meet all safety standards.\n- **District Heating Scheme:** The bidder should have a deep understanding of district heating systems and the specific needs of a large educational institution like UCD.\n- **Environmental Considerations:** Given UCD's commitment to sustainability, the bidder should demonstrate a strong environmental ethos and adherence to green practices.\n- **Technical Expertise:** The bidder must possess advanced technical knowledge of biomass boilers and their maintenance requirements.\n- **Reliability and Flexibility:** The bidder should be able to provide flexible maintenance schedules to accommodate the university's operational needs.\n\n**Evaluation Criteria:**\nThe proposal will be evaluated based on the bidder's experience in maintaining similar biomass boiler systems, their technical expertise, environmental sustainability practices, and their ability to meet the specific requirements outlined in Appendix 1. The successful bidder will be selected based on their ability to provide comprehensive and reliable maintenance services that ensure the optimal performance of UCD's biomass boiler system.\n\n**Contact Information:**\nFor further information and to submit a proposal, please refer to the detailed requirements in Appendix 1 of the RFT. All inquiries should be directed to the UCD Procurement Office at [UCD Procurement Contact Information].",
+    "identifier": "70e7bc5e-53f2-4aa5-9a8a-8ca382ffdf0d",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-08-21+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "03413000",
+    "additional_classifications": [
+      "09111400",
+      "09111400"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "660000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "2024-08-21+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3917121"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "UCDOPP5421 Wood Pellets kWh Heat and Biomass Boiler PPM Maintenance",
+      "description": "**Title: UCDOPP5421 Wood Pellets kWh Heat and Biomass Boiler PPM Maintenance**\n\n**Description:**\nUniversity College Dublin (UCD) is seeking a reliable and experienced bidder to provide comprehensive maintenance services for its KOB Pyrtec 950kW Wood Pellet boiler, which is a critical component of the UCD District Heating scheme. The district heating system serves approximately 120,000 square meters of campus floor area, providing heat for space heating and hot water. The successful bidder will be responsible for ensuring the optimal performance and efficiency of the boiler, thereby maintaining the reliability and sustainability of the district heating scheme.\n\n**Key Requirements:**\n- **Boiler Maintenance:** The bidder must have extensive experience in maintaining wood pellet boilers, particularly the KOB Pyrtec 950kW model.\n- **District Heating Scheme:** The bidder should be familiar with the operation and maintenance of district heating systems, ensuring seamless integration with existing infrastructure.\n- **Environmental Considerations:** Given UCD's commitment to sustainability, the bidder should demonstrate a strong understanding of environmental best practices in biomass boiler maintenance.\n- **Technical Expertise:** The bidder must possess advanced technical knowledge and skills to troubleshoot and resolve any issues that may arise with the boiler.\n- **Compliance:** The bidder must comply with all relevant health, safety, and environmental regulations.\n- **Future Connections:** The district heating scheme is expanding, and the bidder should be prepared to accommodate future connections and upgrades.\n\n**Full Details:**\nFor detailed requirements and specifications, please refer to Appendix 1: Requirements and Specifications in the Request for Tender (RFT) document.\n\nBy selecting a bidder with the necessary expertise and experience, UCD aims to ensure the continued efficient operation of its district heating system, supporting its commitment to sustainability and academic excellence.",
+      "main_nature": "supplies",
+      "main_classification": "03413000",
+      "additional_classifications": [
+        "09111400"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "660000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3917121"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/442200-2024/pdf"
+}

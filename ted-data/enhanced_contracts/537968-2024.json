@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "537968-2024",
+  "buyer": {
+    "official_name": "St. Michael's and St. Patrick's N.S. (Roll No. 19720P)",
+    "email": "cootehallns@gmail.com",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Cootehall",
+      "city": "Boyle",
+      "postal_code": "F52TV26",
+      "country": "IRL"
+    },
+    "website": "www.cootehallns.com",
+    "company_id": "19720P",
+    "phone": "0719667264"
+  },
+  "procedure": {
+    "title": "2024 St Michael's and St Patrick's NS: Civil Structural Engineering Services for Additional Accommodation at St Michael's and St Patrick's National School, Cootehall, Boyle, Co Roscommon.",
+    "description": "St Michael’s and St Patrick’s National School is a primary school under the patronage of the Catholic Bishop of Elphin. Please see attached Project Brief and Schedule of Additional Accommodation Section A • 3 Pastoral Offices/Special Resource Rooms 15 m2 each • 1 Universal Access Toilet 4.5 m2 • Giving a floor area (incl. circulation and internal walls) of: 67.8 m2 Section B • 2 Classroom SEN Base 359 m2 • Giving a floor area (incl. circulation and internal walls) of: 459.5 m2 Giving a Gross Floor Area (incl. circulation and internal walls) of: 527 m2. Also: External SEN Facilities • Secure Hard and soft play area 100 m2 • Sensory Garden 100 m2 • 6 parking spaces",
+    "identifier": "a9ae9c10-519b-43cf-97a9-b8a5107ebb5d",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-10-08+01:00",
+    "deadline_time": "13:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71300000",
+    "additional_classifications": [
+      "71318000",
+      "71310000",
+      "71311000",
+      "71312000",
+      "71318000",
+      "71310000",
+      "71311000",
+      "71312000"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-10-08+01:00",
+    "open_tender_time": "13:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=4276753"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "2024 St Michael's and St Patrick's NS: Civil Structural Engineering Services for Additional Accommodation at St Michael's and St Patrick's National School, Cootehall, Boyle, Co Roscommon.",
+      "description": "St Michael’s and St Patrick’s National School is a primary school under the patronage of the Catholic Bishop of Elphin. Please see attached Project Brief and Schedule of Additional Accommodation Section A • 3 Pastoral Offices/Special Resource Rooms 15 m2 each • 1 Universal Access Toilet 4.5 m2 • Giving a floor area (incl. circulation and internal walls) of: 67.8 m2 Section B • 2 Classroom SEN Base 359 m2 • Giving a floor area (incl. circulation and internal walls) of: 459.5 m2 Giving a Gross Floor Area (incl. circulation and internal walls) of: 527 m2. Also: External SEN Facilities • Secure Hard and soft play area 100 m2 • Sensory Garden 100 m2 • 6 parking spaces",
+      "main_nature": "services",
+      "main_classification": "71300000",
+      "additional_classifications": [
+        "71318000",
+        "71310000",
+        "71311000",
+        "71312000"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "0",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=4276753"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/537968-2024/pdf"
+}

@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "740533-2023",
+  "buyer": {
+    "official_name": "St. Kevin's G.N.S.",
+    "email": "info@stkevinsgns.com",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "St. Kevin's GNS, Treepark Road",
+      "city": "Dublin 24",
+      "postal_code": "D24 R6PT",
+      "country": "IRL"
+    },
+    "website": "http://www.stkevinsgns.com",
+    "company_id": "http://www.stkevinsgns.com",
+    "phone": "014517981"
+  },
+  "procedure": {
+    "title": "2023 St Kevins Girls NS Quantity Surveying Services for additional accommodation for St Kevins Girls NS, Treepark Drive Kilnamanagh, Dublin 24",
+    "description": "**Title:** 2023 St. Kevin's Girls National School Quantity Surveying Services for Additional Accommodation\n\n**Description:**\nSt. Kevin's Girls National School, located at Treepark Road, Kilnamanagh, Tallaght, Dublin 24, is a co-educational primary school under the patronage of the Archdiocese of Dublin. The school is committed to providing a nurturing and inclusive environment for its students, fostering academic excellence, social growth, and emotional well-being.\n\nThe proposed project aims to enhance the school's infrastructure by adding additional accommodation to support the growing student population and improve the overall learning environment. The project will comprise the following key components:\n\n- **Staffroom Extension:** A 30m² extension to the existing staffroom, providing a more spacious and functional area for teachers.\n- **SEN Base and Classrooms:** Two new classrooms specifically designed for students with Special Educational Needs (SEN), each including a WC. The total floor area for these classrooms, including circulation and internal walls, will be approximately 459m².\n- **Secure and Soft Play Area:** A 100m² secure and soft play area designed to ensure the safety and enjoyment of students during outdoor activities.\n- **Sensory Garden:** A 100m² sensory garden, which will provide a calming and educational space for students to explore and learn.\n- **Total Gross Floor Area:** The total gross floor area for the project will be 501m².\n- **Secure Parking:** Six designated parking spaces to facilitate staff and visitors.\n- **Demolition/Removal of Existing Link Corridor:** The removal of an existing 32m² link corridor to make way for the new infrastructure.\n\nThe successful bidder will be responsible for providing quantity surveying services to manage the project effectively, ensuring that all aspects of the construction are executed within the specified budget and timeline. The project's success is crucial for enhancing the educational experience and facilities at St. Kevin's Girls National School, aligning with the school's mission to provide a supportive and inclusive environment for all students.\n\n**Key Requirements:**\n- Detailed project planning and management\n- Accurate cost estimation and budget control\n- Compliance with relevant building regulations and safety standards\n- Coordination with the school administration to ensure minimal disruption to daily operations\n- Provision of regular progress reports and updates\n\nBy engaging a reputable and experienced quantity surveyor, St. Kevin's Girls National School aims to ensure that the additional accommodation is built efficiently, effectively, and in line with the school's values of excellence, inclusivity, and community.",
+    "identifier": "79ecdd6f-7a05-40cb-9755-ef23ca6427b7",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-16+00:00",
+    "deadline_time": "13:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71324000",
+    "additional_classifications": [
+      "71322100",
+      "71322100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": "2460000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-16+00:00",
+    "open_tender_time": "13:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2804534"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "2023 St Kevins Girls NS Quantity Surveying Services for additional accommodation for St Kevins Girls NS, Treepark Drive Kilnamanagh, Dublin 24",
+      "description": "St Kevins Girls NS, Treepark Drive Kilnamanagh, Dublin 24, is under the patronage of the Arch Diocese of Dublin Arch Bishop Dermot Farell Please see attached Project Brief and Schedule of Additional Accommodation In summary, the project will comprise: Staffroom Extension of 30m2 2 x Classroom SEN base incl WC Giving a floor area incl circulation and internal walls of: 459m2 Secure and soft play area 100 m2 Sensory garden 100m2 Total gross floor area 501m2 Secure Soft Play area 100m2 6 parking spaces Also Building for demolition/removal of existing link corridor 32m2",
+      "main_nature": "services",
+      "main_classification": "71324000",
+      "additional_classifications": [
+        "71322100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "0",
+        "currency": "",
+        "maximum_value": "2460000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2804534"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/740533-2023/pdf"
+}

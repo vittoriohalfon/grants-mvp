@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "305017-2024",
+  "buyer": {
+    "official_name": "EirGrid plc",
+    "email": "tenders@eirgrid.com",
+    "legal_type": "body-pl",
+    "activity": "gen-pub",
+    "address": {
+      "street": "160 Shelbourne Road, Ballsbridge",
+      "city": "Dublin",
+      "postal_code": "Dublin 4",
+      "country": "IRL"
+    },
+    "website": "https://www.eirgridgroup.com/",
+    "company_id": "6358522H",
+    "phone": "+35317272000"
+  },
+  "procedure": {
+    "title": "ENQEIR898 – Green Electricity for EirGrid in Republic of Ireland",
+    "description": "**Title:** ENQEIR898 – Green Electricity for EirGrid in Republic of Ireland\n\n**Description:**\nEirGrid, the state-owned electric power transmission operator in Ireland, is seeking a single party Framework for the provision of Green Electricity to support its operations in the Republic of Ireland. As the developer and operator of Ireland's national electricity grid, EirGrid is committed to leading the transition to a low-carbon future. The successful bidder will be responsible for supplying green electricity to EirGrid, ensuring a reliable and sustainable energy supply that aligns with Ireland's renewable energy goals.\n\nKey requirements include:\n\n- **Sustainability:** The green electricity must be sourced from renewable energy sources such as wind, solar, or hydroelectric power.\n- **Reliability:** The supplier must guarantee a stable and continuous supply of green electricity to meet EirGrid's operational needs.\n- **Compliance:** The bidder must comply with all relevant Irish and European regulations regarding renewable energy and grid integration.\n- **Innovation:** The supplier should demonstrate innovative approaches to renewable energy sourcing and grid management.\n- **Community Engagement:** The bidder should have a track record of engaging with local communities and minimizing disruption during grid infrastructure projects.\n\nEirGrid operates the wholesale power market on the island of Ireland and is regulated by the Commission for Regulation of Utilities. The successful bidder will contribute to Ireland's energy independence and sustainability by providing high-quality, green electricity to support the country's transition to a low-carbon future. The framework will be used to secure a long-term supply of green electricity, ensuring a stable and sustainable energy infrastructure for Ireland's growing economy and population.\n\n**Additional Information:**\n- **Project Scope:** The framework will cover the entire Republic of Ireland, with a focus on regions where renewable energy sources are abundant.\n- **Duration:** The framework will be for a period of [X] years, with the option to extend based on performance and mutual agreement.\n- **Technical Specifications:** The bidder must provide detailed technical specifications of their proposed green electricity supply, including but not limited to, generation capacity, transmission infrastructure, and grid integration plans.\n- **Financial Terms:** The financial terms of the framework will include pricing models, payment schedules, and any other relevant financial conditions.\n\nBy responding to this tender, bidders will have the opportunity to contribute to Ireland's renewable energy goals and support EirGrid's mission to ensure a reliable and sustainable energy supply for all Irish citizens and businesses.",
+    "identifier": "e3f7bb69-f4b1-4ac7-910b-5305d74a4389",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-06-24+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "09310000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "830000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "",
+    "electronic_ordering": "",
+    "electronic_payment": ""
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-06-24+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3632590"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "ENQEIR898 – Green Electricity for EirGrid in Republic of Ireland",
+      "description": "A single party Framework for the provision of Green Electricity for EirGrid in Republic of Ireland",
+      "main_nature": "supplies",
+      "main_classification": "09310000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "830000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "",
+        "electronic_ordering": "",
+        "electronic_payment": ""
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3632590"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/305017-2024/pdf"
+}

@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "267420-2024",
+  "buyer": {
+    "official_name": "Office of Public Works (OPW)",
+    "email": "niall.dunne@opw.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Jonathan Swift Street",
+      "city": "Trim",
+      "postal_code": "C15 NX36",
+      "country": "IRL"
+    },
+    "website": "https://www.opw.ie",
+    "company_id": "4869268D",
+    "phone": "0469422258"
+  },
+  "procedure": {
+    "title": "Supply and Delivery of Conservation Steam Cleaning units",
+    "description": "The Office of Public Works (OPW) is a government agency responsible for managing Ireland's property portfolio, including heritage properties, and leading flood risk management efforts. The OPW is seeking the supply and delivery of Conservation Steam Cleaning units to support the preservation and maintenance of its extensive portfolio of historical and cultural sites. Specifically, the OPW requires 5-7 units over the period of the contract to ensure the effective cleaning and conservation of its properties, which include Ireland's two World Heritage Sites, 780 National Monuments, and over 2,000 acres of gardens and parklands. The successful bidder will need to demonstrate expertise in providing high-quality conservation steam cleaning equipment that meets the stringent standards required for preserving Ireland's cultural heritage. The OPW is committed to sustainable planning and minimizing the impacts of flooding, and the selected supplier must align with these environmental and conservation goals. The contract will involve the delivery of the specified number of units, ensuring they are suitable for the diverse range of historical and cultural sites under the OPW's management. The bidder should provide detailed information about the units' specifications, including their ability to handle delicate surfaces, their eco-friendliness, and any certifications related to conservation practices. The proposal should also outline the bidder's experience in similar projects, their ability to meet the required delivery timeline, and any additional services they can offer to support the OPW's conservation efforts.",
+    "identifier": "297aa657-9f57-46b0-a078-c089b0302590",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-22+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "42924200",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "70000",
+    "currency": "",
+    "maximum_value": "70000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-05-22+01:00",
+    "open_tender_time": "12:00:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3521704"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Supply and Delivery of Conservation Steam Cleaning units",
+      "description": "Supply and Delivery of Conservation Steam Cleaning unit’s (5-7 No.) over the period of the contract.",
+      "main_nature": "supplies",
+      "main_classification": "42924200",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "70000",
+        "currency": "",
+        "maximum_value": "70000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3521704"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/267420-2024/pdf"
+}

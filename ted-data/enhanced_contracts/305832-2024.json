@@ -1,0 +1,109 @@
+{
+  "notice_publication_id": "305832-2024",
+  "buyer": {
+    "official_name": "Fingal County Council_371",
+    "email": "procurement@fingal.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Main Street",
+      "city": "Dublin",
+      "postal_code": "K67 X8Y2",
+      "country": "IRL"
+    },
+    "website": "https://www.fingal.ie",
+    "company_id": "9509807N",
+    "phone": "0035318075000"
+  },
+  "procedure": {
+    "title": "FCC/199/24 - Construction of Naul Village Park for Fingal County Council",
+    "description": "**Title:** FCC/199/24 - Construction of Naul Village Park for Fingal County Council\n\n**Description:**\nFingal County Council, the local government authority responsible for the development and maintenance of public spaces in Fingal County, is seeking a contractor to construct the Naul Village Park. This project aims to enhance the community's recreational facilities and promote sustainable urban development. The successful bidder will be responsible for designing and building a modern park that includes amenities such as playgrounds, walking trails, public art installations, and accessible pathways. The project will also involve landscaping and ensuring the park is environmentally friendly. The contractor must have experience in public park construction, adhere to local regulations, and demonstrate a commitment to community engagement. The total value of the contract is up to €5 million, reflecting the significant investment in this community project. Fingal County Council is committed to delivering high-quality public spaces that reflect the region's unique heritage and modern lifestyle. The successful contractor will be expected to collaborate with local stakeholders and ensure the project is completed within the specified timeframe. \n\n**Key Requirements:**\n- **Design and Construction:** The contractor must design and build a modern park with various amenities.\n- **Sustainability:** The park must be environmentally friendly and incorporate sustainable practices.\n- **Community Engagement:** The contractor must engage with local stakeholders and ensure the project meets community needs.\n- **Regulatory Compliance:** The contractor must adhere to all local regulations and standards.\n- **Project Timeline:** The project must be completed within the specified timeframe.\n- **Budget:** The total value of the contract is up to €5 million.\n\n**Additional Information:**\nFingal County Council is committed to supporting local businesses and promoting economic growth in the region. The successful bidder will contribute to the development of Fingal as a vibrant and attractive place to live, work, and visit. The council encourages bidders to highlight their experience in similar projects, their ability to manage and deliver large-scale public infrastructure projects, and their commitment to community involvement and sustainability.",
+    "identifier": "1b9279a0-73b8-41d0-9dd1-27c1cceaf574",
+    "type": "restricted",
+    "accelerated": "false",
+    "deadline_date": "2024-06-24+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45220000",
+    "additional_classifications": [
+      "45200000",
+      "45222000",
+      "45200000",
+      "45222000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1975000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "restricted",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "FCC/199/24 - Construction of Naul Village Park for Fingal County Council",
+      "description": "Construction of Naul Village Park for Fingal County Council",
+      "main_nature": "works",
+      "main_classification": "45220000",
+      "additional_classifications": [
+        "45200000",
+        "45222000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1975000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3644352",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3644352"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/305832-2024/pdf"
+}

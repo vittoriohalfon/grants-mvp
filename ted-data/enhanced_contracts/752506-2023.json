@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "752506-2023",
+  "buyer": {
+    "official_name": "Courts Service",
+    "email": "cddirectorate@courts.ie",
+    "legal_type": "body-pl",
+    "activity": "pub-os",
+    "address": {
+      "street": "Phoenix House, 15 - 24 Phoenix Street North",
+      "city": "Dublin",
+      "postal_code": "D07 F95Y",
+      "country": "IRL"
+    },
+    "website": "https://www.courts.ie",
+    "company_id": "0000",
+    "phone": "+353 18886000"
+  },
+  "procedure": {
+    "title": "Request for Tenders for the provision of Cash, Coin, Cheque and Money Order collection, processing, and Cash in Transit Services",
+    "description": "The Courts Service of Ireland is tendering for the provision of a secure collection service for cash, cheques, money orders, postal orders and bank drafts from Court Locations nationwide to be processed and deposited to the Courts Service Bank Account. The \"secure cash in transit service\" shall include collection of cash, cheques, money orders, postal orders and bank drafts at specified Court locations on specified days and times, overnight vaulting at the Contractor's premises, prompt lodgment to the Courts Service Bank Account and insurance cover for all consignments conveyed by the contractor.",
+    "identifier": "b1ed5ccb-82df-4e6d-a946-c70228455dbf",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-26+00:00",
+    "deadline_time": "15:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "79710000",
+    "additional_classifications": [
+      "60000000",
+      "66110000",
+      "66133000",
+      "75241000",
+      "60000000",
+      "66110000",
+      "66133000",
+      "75241000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "750000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-26+00:00",
+    "open_tender_time": "15:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2829021"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Request for Tenders for the provision of Cash, Coin, Cheque and Money Order collection, processing, and Cash in Transit Services",
+      "description": "The Courts Service of Ireland is tendering for the provision of a secure collection service for cash, cheques, money orders, postal orders and bank drafts from Court Locations nationwide to be processed and deposited to the Courts Service Bank Account. The \"secure cash in transit service\" shall include collection of cash, cheques, money orders, postal orders and bank drafts at specified Court locations on specified days and times, overnight vaulting at the Contractor's premises, prompt lodgment to the Courts Service Bank Account and insurance cover for all consignments conveyed by the contractor.",
+      "main_nature": "services",
+      "main_classification": "79710000",
+      "additional_classifications": [
+        "60000000",
+        "66110000",
+        "66133000",
+        "75241000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "750000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2829021"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/752506-2023/pdf"
+}

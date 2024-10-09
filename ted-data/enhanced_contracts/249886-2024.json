@@ -1,0 +1,114 @@
+{
+  "notice_publication_id": "249886-2024",
+  "buyer": {
+    "official_name": "Science Foundation Ireland",
+    "email": "joan.hynes@sfi.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "education",
+    "address": {
+      "street": "Three Park Place, Hatch Street Upper,  Dublin 2, Ireland",
+      "city": "Dublin",
+      "postal_code": "D02 FX65",
+      "country": "IRL"
+    },
+    "website": "https://www.sfi.ie",
+    "company_id": "1288",
+    "phone": "+35316073200"
+  },
+  "procedure": {
+    "title": "Website Development and Support Services",
+    "description": "**Title:** Website Development and Support Services for Taighde Éireann/Research Ireland\n\n**Description:**\nThe Services comprise the design, development, and support of new websites for Taighde Éireann/Research Ireland, which will amalgamate the activities and functions of Science Foundation Ireland (SFI) and the Irish Research Council (IRC). The new website will serve as the primary platform for the national competitive research and innovation funding agency, facilitating the dissemination of research opportunities, funding information, and strategic initiatives in the fields of science, technology, engineering, and mathematics (STEM). The website will need to integrate seamlessly with existing systems, ensuring a smooth transition from the current SFI website. Key functionalities should include:\n\n- **User-Friendly Interface:** Easy navigation and intuitive design to cater to diverse users, including researchers, industry partners, and the general public.\n- **Content Management System:** Robust CMS to manage and update content efficiently, ensuring timely dissemination of information.\n- **Integration with Existing Systems:** Seamless integration with current databases and systems to maintain continuity and accuracy.\n- **Accessibility Features:** Compliance with accessibility standards to ensure inclusivity for all users.\n- **Security Measures:** Implementation of robust security protocols to protect sensitive information.\n- **Search Engine Optimization (SEO):** Optimization for search engines to enhance visibility and reach.\n- **Multilingual Support:** Option for multilingual support to cater to a diverse audience.\n- **Analytics and Reporting:** In-built analytics tools to track website performance and provide actionable insights.\n- **Ongoing Support:** Comprehensive support services to ensure the website remains up-to-date and functional.\n\nThe successful bidder will be responsible for delivering a modern, user-centric, and technologically advanced website that supports the strategic goals of Taighde Éireann/Research Ireland in promoting scientific research, innovation, and economic growth in Ireland.",
+    "identifier": "250c8099-2e69-4227-9506-912d241ffe1c",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-29+01:00",
+    "deadline_time": "17:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72000000",
+    "additional_classifications": [
+      "72413000",
+      "72415000",
+      "72414000",
+      "72212222",
+      "72413000",
+      "72415000",
+      "72414000",
+      "72212222"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "450000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "2024-05-29+01:00",
+    "open_tender_time": "17:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3466644"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "180",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Website Development and Support Services",
+      "description": "**Title: Website Development and Support Services for Taighde Éireann/Research Ireland**\n\n**Description:**\nThe Services comprise the design, development, and support of new websites for Taighde Éireann/Research Ireland, which will amalgamate the activities and functions of Science Foundation Ireland (SFI) and the Irish Research Council (IRC). The new website will serve as the primary platform for the newly formed national competitive research and innovation funding agency, aiming to promote and support scientific and engineering research in Ireland. The website must effectively communicate the agency's mission, which includes funding oriented basic and applied research in the areas of science, technology, engineering, and mathematics (STEM), as well as promoting an awareness and understanding of the value of STEM to society and the economy.\n\nKey requirements include:\n- **Design:** The website should be visually appealing, user-friendly, and responsive across various devices.\n- **Development:** The new website must integrate seamlessly with existing systems, ensuring smooth data transfer and minimal downtime.\n- **Support:** Ongoing support services are required to maintain the website's functionality, address technical issues promptly, and ensure continuous improvement based on user feedback.\n- **Content Management System (CMS):** The website should utilize a robust CMS that allows for easy updates, management of content, and integration with other digital tools.\n- **Accessibility:** The website must adhere to accessibility standards to ensure inclusivity for all users.\n- **Security:** The website must have robust security measures in place to protect sensitive information and comply with relevant data protection regulations.\n- **Collaboration Tools:** The website should facilitate collaboration among researchers, industry partners, and stakeholders by providing tools for knowledge sharing, project management, and communication.\n- **Analytics and Reporting:** The website should include analytics tools to track user engagement, provide insights into website performance, and support data-driven decision-making.\n\nThe successful bidder will be responsible for delivering a high-quality website that aligns with the strategic goals of Taighde Éireann/Research Ireland, enhancing its online presence and supporting its mission to drive positive change through STEM research and innovation.",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "72413000",
+        "72415000",
+        "72414000",
+        "72212222"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "450000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3466644"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/249886-2024/pdf"
+}

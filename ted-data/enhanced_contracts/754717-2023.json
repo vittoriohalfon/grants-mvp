@@ -1,0 +1,117 @@
+{
+  "notice_publication_id": "754717-2023",
+  "buyer": {
+    "official_name": "Louisburgh National School",
+    "email": "info@louisburghns.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Tooreen, Louisburgh, Co Mayo",
+      "city": "Louisburgh",
+      "postal_code": "F28 T189",
+      "country": "IRL"
+    },
+    "website": "https://www.louisburghns.ie",
+    "company_id": "20037L",
+    "phone": "09866300"
+  },
+  "procedure": {
+    "title": "Louisburgh National School: Civil Structural Engineering Services for Additional Accommodation at Louisburgh National School, Louisburgh, Co Mayo.",
+    "description": "Louisburgh National School is a primary school under the patronage of the Catholic Archbishop of Tuam. Please see attached Project Brief and Schedule of Additional Accommodation Section A • 1 SET Room 15 m2 • 1 User Assisted Toilet/Shower 10.5 m2 • Giving a floor area (incl. circulation and internal walls) of: 35.2 m2 Section B • 1 Classroom SEN Base 207.4 m2 Giving a Gross Floor Area (incl. circulation and internal walls) of: 243 m2",
+    "identifier": "348954f7-f708-4ff7-9f41-55582457dc97",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-16+00:00",
+    "deadline_time": "13:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71318000",
+    "additional_classifications": [
+      "71300000",
+      "71320000",
+      "71310000",
+      "71311000",
+      "71312000",
+      "71300000",
+      "71320000",
+      "71310000",
+      "71311000",
+      "71312000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-17+00:00",
+    "open_tender_time": "00:00:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2837517"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "false",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Louisburgh National School: Civil Structural Engineering Services for Additional Accommodation at Louisburgh National School, Louisburgh, Co Mayo.",
+      "description": "Louisburgh National School is a primary school under the patronage of the Catholic Archbishop of Tuam. Please see attached Project Brief and Schedule of Additional Accommodation Section A • 1 SET Room 15 m2 • 1 User Assisted Toilet/Shower 10.5 m2 • Giving a floor area (incl. circulation and internal walls) of: 35.2 m2 Section B • 1 Classroom SEN Base 207.4 m2 Giving a Gross Floor Area (incl. circulation and internal walls) of: 243 m2",
+      "main_nature": "services",
+      "main_classification": "71318000",
+      "additional_classifications": [
+        "71300000",
+        "71320000",
+        "71310000",
+        "71311000",
+        "71312000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1020000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2837517"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/754717-2023/pdf"
+}

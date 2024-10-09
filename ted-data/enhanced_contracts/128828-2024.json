@@ -1,0 +1,123 @@
+{
+  "notice_publication_id": "128828-2024",
+  "buyer": {
+    "official_name": "Sligo County Council",
+    "email": "procurement@sligococo.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "County Hall, Riverside",
+      "city": "Sligo",
+      "postal_code": "F91 Y763",
+      "country": "IRL"
+    },
+    "website": "https://www.sligococo.ie",
+    "company_id": "Sligo County Council",
+    "phone": "0719111111"
+  },
+  "procedure": {
+    "title": "SCC2023 039 Sligo County Council Establishment of a Regional Consultant Architect Framework - Lot 1 – Architectural Services",
+    "description": "Lot 1 Architectural Services. Sligo County Council are seeking to appoint capable Architectural Service providers to establish a Regional Architectural Framework for 4 no. years to deliver: New Build Housing via Design and Build New Build Housing based on Traditional Service This framework is a regional programme for the Accelerated Delivery of Housing (ADP) intending to promote the adoption of modern methods of construction. Participants to this framework are Sligo County Council; Mayo County Council; Roscommon County Council; Leitrim County Council; Donegal County Council, Galway City Council and Galway County Council. The funding mechanism for these projects is the Housing for All Strategy and any subsequent policies to be announced by government in the future for the life of the framework. Sligo County Council: Regional Multi-Party Frameworks for Type 3 Project Consultancy Services for Various Projects Established on Foot of Initial Contract Of Development of 30 Social Housing Units at Owenmore Court, Collooney, Co. Sligo via the Design and Build Service Delivery. Participating Local Authorities to this framework are Sligo County Council; Mayo County Council; Roscommon County Council; Leitrim County Council; Donegal County Council, Galway City Council and Galway County Council.",
+    "identifier": "93b71a9f-2122-4a62-baaf-d5d27b0813d2",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-03-15+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "71221000",
+    "additional_classifications": [
+      "71000000",
+      "71240000",
+      "71251000",
+      "71220000",
+      "71200000",
+      "71210000",
+      "71250000",
+      "71000000",
+      "71240000",
+      "71251000",
+      "71220000",
+      "71200000",
+      "71210000",
+      "71250000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "18000000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-03-15+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2803629"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "SCC2023 039 Sligo County Council Establishment of a Regional Consultant Architect Framework - Lot 1 – Architectural Services",
+      "description": "Lot 1 Architectural Services. Sligo County Council are seeking to appoint capable Architectural Service providers to establish a Regional Architectural Framework for 4 no. years to deliver: New Build Housing via Design and Build New Build Housing based on Traditional Service This framework is a regional programme for the Accelerated Delivery of Housing (ADP) intending to promote the adoption of modern methods of construction. Participants to this framework are Sligo County Council; Mayo County Council; Roscommon County Council; Leitrim County Council; Donegal County Council, Galway City Council and Galway County Council. The funding mechanism for these projects is the Housing for All Strategy and any subsequent policies to be announced by government in the future for the life of the framework. Sligo County Council: Regional Multi-Party Frameworks for Type 3 Project Consultancy Services for Various Projects Established on Foot of Initial Contract Of Development of 30 Social Housing Units at Owenmore Court, Collooney, Co. Sligo via the Design and Build Service Delivery. Participating Local Authorities to this framework are Sligo County Council; Mayo County Council; Roscommon County Council; Leitrim County Council; Donegal County Council, Galway City Council and Galway County Council.",
+      "main_nature": "services",
+      "main_classification": "71221000",
+      "additional_classifications": [
+        "71000000",
+        "71240000",
+        "71251000",
+        "71220000",
+        "71200000",
+        "71210000",
+        "71250000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "18000000",
+        "currency": "",
+        "maximum_value": "18000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-mix",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2803629"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/128828-2024/pdf"
+}

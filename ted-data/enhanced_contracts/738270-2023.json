@@ -1,0 +1,179 @@
+{
+  "notice_publication_id": "738270-2023",
+  "buyer": {
+    "official_name": "Coláiste Cholmcille",
+    "email": "info@ccbs.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "College Street Ballyshannon Co. Donegal",
+      "city": "Ballyshannon",
+      "postal_code": "F94 NW62",
+      "country": "IRL"
+    },
+    "website": "http://ccbs.ie/",
+    "company_id": "21689",
+    "phone": "+353719858288"
+  },
+  "procedure": {
+    "title": "cFT Call for Tender for the Supply and Delivery of Home Economics and Dressmaking Equipment to Colaiste Cholmcille Community School,Ballyshannon, Co Donegal",
+    "description": "**Enhanced Proposal Description:**\n\nThe Centre for Cross Border Studies (CCBS) is a charity based in Armagh, committed to ongoing peace and cross-border cooperation. We empower citizens through initiatives that foster understanding and cooperation across the island of Ireland. Our organization has a strong track record in promoting grassroots efforts and civic society groups, which are crucial for building a more cohesive community.\n\nIn this public tender, we are seeking a reliable and experienced supplier to provide Home Economics and Dressmaking Equipment to Coláiste Cholmcille Community School in Ballyshannon, Co. Donegal. The equipment must meet the specifications outlined by the Department of Education and be delivered and installed before the end of March 2024.\n\nWe are looking for a bidder who can demonstrate a thorough understanding of the educational needs of a community school, particularly in the areas of Home Economics and Dressmaking. The successful tenderer should have a proven history of supplying high-quality educational equipment, ensuring that the goods meet the required standards and are suitable for the specific curriculum requirements of Coláiste Cholmcille.\n\nAdditionally, the bidder should be able to provide comprehensive support and maintenance services to ensure that the equipment remains functional and effective throughout its lifespan. Given our commitment to cross-border cooperation, we also value bidders who have experience working in collaborative environments and can contribute to the broader educational goals of our community.\n\nBy selecting a bidder who aligns with our values and can deliver high-quality equipment, we aim to enhance the educational experience of students at Coláiste Cholmcille and support the development of a more cohesive and cooperative community across the island of Ireland.",
+    "identifier": "00a433d5-8548-45f0-9af3-255af19c0941",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-08+00:00",
+    "deadline_time": "15:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "39221000",
+    "additional_classifications": [
+      "39221100",
+      "39220000",
+      "39227000",
+      "39227100",
+      "39227110",
+      "39227120",
+      "37823500",
+      "42715000",
+      "37800000",
+      "39221100",
+      "39220000",
+      "39227000",
+      "39227100",
+      "39227110",
+      "39227120",
+      "37823500",
+      "42715000",
+      "37800000",
+      "39221100",
+      "39220000",
+      "39227000",
+      "39227100",
+      "39227110",
+      "39227120",
+      "37823500",
+      "42715000",
+      "37800000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "20000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-09+00:00",
+    "open_tender_time": "00:00:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2769096"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Home Economics",
+      "description": "**Title: Home Economics Supply Tender**\n\n**Description:**\nThe Board of Management of Coláiste Cholmcille Community School, a reputable educational institution located in Ballyshannon, County Donegal, invites tenders from economic operators for the supply of goods as described in this call for tenders (CFT). The goods are required to be delivered and installed at Coláiste Cholmcille Community School before the end of March 2024. All goods must meet the specifications outlined by the Department of Education.\n\n**Key Requirements:**\n- **Delivery and Installation:** Goods must be delivered and installed at Coláiste Cholmcille Community School, Ballyshannon, Co. Donegal, before the end of March 2024.\n- **Specifications:** Goods must meet the specifications outlined by the Department of Education.\n- **Reputation and Experience:** Bidders should have a proven track record in supplying educational equipment and materials, ensuring high-quality products that align with the educational standards of the Department of Education.\n- **Reliability and Timeliness:** Bidders must demonstrate reliability and the ability to meet deadlines, ensuring that the goods are delivered and installed on time.\n- **Customer Support:** Bidders should provide excellent customer support, including any necessary training or assistance to ensure the effective use of the supplied goods.\n\n**Evaluation Criteria:**\n- **Technical Competence:** The bidder's ability to supply goods that meet the specified requirements.\n- **Price:** The cost of the goods and any associated services.\n- **Delivery and Installation Plan:** The bidder's plan for delivering and installing the goods, including timelines and logistics.\n- **Customer Support and Training:** The level of customer support and training provided by the bidder.\n- **Reputation and References:** The bidder's reputation and references from previous clients.\n\nBy considering these criteria, we aim to select a bidder who can provide high-quality goods that meet the educational needs of our students while ensuring timely delivery and excellent customer support.",
+      "main_nature": "supplies",
+      "main_classification": "39221000",
+      "additional_classifications": [
+        "39221100",
+        "39220000",
+        "39227000",
+        "39227100",
+        "39227110",
+        "39227120",
+        "37823500",
+        "42715000",
+        "37800000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "20000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "Dress Design",
+      "description": "**Title: Dress Design**\n\n**Description:**\nThe Board of Management of Colaiste Cholmcille Community School, a reputable educational institution in Ballyshannon, County Donegal, invites tenders from economic operators for the supply of goods as described in this call for tenders (CFT). The goods required are specifically for the school's uniform, which must meet the stringent specifications outlined by the Department of Education. The successful bidder will be responsible for delivering and installing the uniforms to Colaiste Cholmcille Community School before the end of March 2024. The school prioritizes quality, durability, and comfort, ensuring that the uniforms align with the educational institution's values and standards. The tender process aims to select a reliable and efficient supplier who can provide excellent customer service and support throughout the procurement process. \n\n**Key Requirements:**\n- **Quality:** The uniforms must meet the specifications outlined by the Department of Education, ensuring they are of high quality and durable.\n- **Comfort:** The uniforms should be designed for comfort, allowing students to focus on their education without any discomfort.\n- **Reliability:** The supplier must be reliable and able to deliver the goods on time.\n- **Customer Service:** Excellent customer service is essential, including support for any queries or issues that may arise during the procurement process.\n- **Compliance:** The supplier must comply with all relevant health and safety regulations and standards.\n\n**Additional Information:**\nColaiste Cholmcille Community School is committed to fostering a supportive and inclusive learning environment. The uniforms should reflect this commitment by being accessible and suitable for all students. The school values transparency and fairness in all its dealings, ensuring that the tender process is conducted in an open and competitive manner. The successful bidder will be expected to provide detailed documentation of their proposal, including but not limited to, product samples, pricing, delivery timelines, and any additional services they offer.\n\nBy selecting a suitable bidder, Colaiste Cholmcille Community School aims to enhance the educational experience of its students by providing high-quality uniforms that meet both functional and aesthetic requirements. The school looks forward to collaborating with a reliable and efficient supplier who shares its commitment to excellence and customer satisfaction.",
+      "main_nature": "supplies",
+      "main_classification": "39221000",
+      "additional_classifications": [
+        "39221100",
+        "39220000",
+        "39227000",
+        "39227100",
+        "39227110",
+        "39227120",
+        "37823500",
+        "42715000",
+        "37800000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "20000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2769096",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2769096"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/738270-2023/pdf"
+}

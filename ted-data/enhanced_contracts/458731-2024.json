@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "458731-2024",
+  "buyer": {
+    "official_name": "National Treasury Management Agency (NTMA)",
+    "email": "procurement@ntma.ie",
+    "legal_type": "body-pl",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Treasury Dock, North Wall Quay",
+      "city": "Dublin",
+      "postal_code": "D01A9T8",
+      "country": "IRL"
+    },
+    "website": "https://www.ntma.ie",
+    "company_id": "549300KXBEJAOJ9OVF93",
+    "phone": "+353 (0) 1 2384000"
+  },
+  "procedure": {
+    "title": "2024PR045 Request for Tenders (RFT) for the provision of a Video Conferencing Solution and associated services to the National Treasury Management Agency (NTMA)",
+    "description": "The National Treasury Management Agency (NTMA) is seeking tenders for the provision of a Video Conferencing Solution and associated services. Please see the RFT attached to this notice for further information.",
+    "identifier": "16e82163-c46f-44aa-9b9f-b4ccf0328f95",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-08-30+01:00",
+    "deadline_time": "14:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "32321200",
+    "additional_classifications": [
+      "32321300",
+      "32351300",
+      "50342000",
+      "32321300",
+      "32351300",
+      "50342000"
+    ],
+    "place_of_performance": "anyw-cou"
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-08-30+01:00",
+    "open_tender_time": "14:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3997921"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "2024PR045 Request for Tenders (RFT) for the provision of a Video Conferencing Solution and associated services to the National Treasury Management Agency (NTMA)",
+      "description": "The National Treasury Management Agency (NTMA) is seeking tenders for the provision of a Video Conferencing Solution and associated services. Please see the RFT attached to this notice for further information.",
+      "main_nature": "supplies",
+      "main_classification": "32321200",
+      "additional_classifications": [
+        "32321300",
+        "32351300",
+        "50342000"
+      ],
+      "place_of_performance": "anyw-cou",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "0",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3997921"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/458731-2024/pdf"
+}

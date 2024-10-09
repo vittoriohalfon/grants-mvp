@@ -1,0 +1,108 @@
+{
+  "notice_publication_id": "114970-2024",
+  "buyer": {
+    "official_name": "Irish Defence Forces_1144",
+    "email": "info@military.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "defence",
+    "address": {
+      "street": "Station Rd.",
+      "city": "Newbridge",
+      "postal_code": "W12AD93",
+      "country": "IRL"
+    },
+    "website": "https://www.military.ie/en/",
+    "company_id": "IE651797956c",
+    "phone": "+35345492483"
+  },
+  "procedure": {
+    "title": "Learjet 45 Simulator Training and Flight Attendant Training",
+    "description": "**Title: Learjet 45 Simulator Training and Flight Attendant Training**\n\n**Description:**\nThe Defence Forces, an integral part of Ireland's national defense, require a comprehensive training solution for their aviation personnel. The services to be provided include:\n\n- **Learjet 45 Pilot Training:**\n  - **Recurrent Training Courses:** Up to ten (10) individual recurrent training courses per year for Learjet 45 pilots. These courses will ensure that pilots maintain their proficiency and adhere to the highest standards of aviation safety.\n  - **Initial Pilot Training Courses:** Up to two (2) initial pilot training courses per year for Learjet 45 pilots. This training will cover the foundational skills and knowledge required for new pilots to operate the aircraft safely and effectively.\n\n- **Flight Attendant Training:**\n  - **Recurrent Cabin Attendant Courses:** Up to seven (7) recurrent cabin attendant courses per year. These courses will focus on maintaining the skills and knowledge of existing flight attendants, ensuring they are prepared to handle emergency situations and provide exceptional service.\n  - **Initial Flight Attendant Courses:** Up to seven (7) initial flight attendant courses per year. This training will equip new flight attendants with the necessary skills and knowledge to perform their duties safely and efficiently.\n\nThe Defence Forces are seeking a reliable and experienced provider capable of delivering high-quality, specialized training services. The ideal bidder should have a proven track record in aviation training, particularly with Learjet 45 aircraft. The bidder must demonstrate expertise in both simulator-based training and practical flight attendant training. The ability to tailor the training programs to meet the specific needs of the Defence Forces is crucial. Additionally, the bidder should be able to provide flexible scheduling to accommodate the Defence Forces' operational requirements.\n\nThe successful bidder will be expected to deliver training that meets or exceeds international aviation standards, ensuring the highest level of safety and professionalism. The proposal should include detailed information about the training methodologies, instructor qualifications, and any relevant certifications or accreditations. A comprehensive plan for ongoing evaluation and improvement of the training programs is also essential.\n\nBy selecting a bidder with the necessary expertise and experience, the Defence Forces aim to enhance the skills of their aviation personnel, thereby contributing to the overall effectiveness and efficiency of their operations.",
+    "identifier": "a64c9c37-00ae-4ff4-9dc8-0c8efc9744e7",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-03-29+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "80650000",
+    "additional_classifications": [
+      "80510000",
+      "80630000",
+      "80510000",
+      "80630000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "290000",
+    "currency": "",
+    "maximum_value": "290000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-03-29+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3133271"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Learjet 45 Simulator Training and Flight Attendant Training",
+      "description": "**Enhanced Proposal Description:**\n\nThe Irish Defence Forces, a standing military force responsible for providing primary capabilities for joint military operations at home and combined military Peace Support Operations abroad, is seeking a provider for Learjet 45 Simulator Training and Flight Attendant Training services. The Defence Forces operate under the Defence Act, contributing to the security of the State by providing military air defence and other essential services.\n\nThe proposed services include:\n\n- **Learjet 45 Pilot Training:**\n  - Up to ten (10) individual recurrent training courses per year.\n  - Up to two (2) initial pilot training courses per year.\n\n- **Flight Attendant Training:**\n  - Up to seven (7) recurrent cabin attendant courses per year.\n  - Up to seven (7) initial flight attendant courses per year.\n\nThe Defence Forces require a reliable and efficient training provider to ensure that their pilots and flight attendants receive the highest level of training, adhering to stringent military standards. The selected bidder must demonstrate expertise in simulator training, aviation safety protocols, and the ability to meet the specific needs of the Defence Forces.\n\nThe successful bidder will be expected to provide comprehensive training programs that include theoretical and practical sessions, utilizing state-of-the-art simulators and adhering to all relevant aviation regulations. The training should be tailored to meet the unique requirements of the Defence Forces, ensuring that all personnel are adequately prepared for their roles in maintaining national security.\n\nThe Defence Forces are committed to excellence in all aspects of their operations, and the selected bidder will be expected to uphold these standards. The proposal should include detailed information about the bidder's experience in aviation training, their ability to meet the specified course requirements, and any additional services they can offer to support the Defence Forces' training needs.\n\nBy selecting a suitable bidder, the Defence Forces aim to enhance their operational capabilities, ensuring that their personnel are well-trained and equipped to perform their duties effectively. The successful bidder will play a critical role in supporting the Defence Forces' mission to defend Ireland and its interests both domestically and internationally.",
+      "main_nature": "services",
+      "main_classification": "80650000",
+      "additional_classifications": [
+        "80510000",
+        "80630000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "290000",
+        "currency": "",
+        "maximum_value": "290000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": "true"
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3133271"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/114970-2024/pdf"
+}

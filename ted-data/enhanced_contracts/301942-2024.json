@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "301942-2024",
+  "buyer": {
+    "official_name": "Teagasc - the Agriculture and Food Development Authority",
+    "email": "procurement@teagasc.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Head Office, Oak Park",
+      "city": "Carlow",
+      "postal_code": "R93 XE12",
+      "country": "IRL"
+    },
+    "website": "https://www.teagasc.ie",
+    "company_id": "000",
+    "phone": "0599183150"
+  },
+  "procedure": {
+    "title": "Multi Supplier Framework Agreement for the provision of periodic inspection and testing of electrical installations",
+    "description": "The Contracting Authority proposes to engage in a competitive process for the establishment of a multi-party framework agreement for the Provision of Periodic Inspection and Testing of Electrical Installations in compliance with the Electro Technical Council of Ireland (ETCI) rules for electrical installations at Teagasc facilities nationwide.",
+    "identifier": "18cee41d-2eb0-4ad3-b72b-b41d0a506ea0",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-07-02+01:00",
+    "deadline_time": "14:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "50532400",
+    "additional_classifications": [
+      "50116100",
+      "45310000",
+      "31600000",
+      "50116100",
+      "45310000",
+      "31600000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "0",
+    "currency": "",
+    "maximum_value": "200000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-07-02+01:00",
+    "open_tender_time": "14:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3632062"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Multi Supplier Framework Agreement for the provision of periodic inspection and testing of electrical installations",
+      "description": "The Contracting Authority proposes to engage in a competitive process for the establishment of a multi-party framework agreement for the Provision of Periodic Inspection and Testing of Electrical Installations in compliance with the Electro Technical Council of Ireland (ETCI) rules for electrical installations at Teagasc facilities nationwide.",
+      "main_nature": "services",
+      "main_classification": "50532400",
+      "additional_classifications": [
+        "50116100",
+        "45310000",
+        "31600000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "0",
+        "currency": "",
+        "maximum_value": "200000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3632062"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/301942-2024/pdf"
+}

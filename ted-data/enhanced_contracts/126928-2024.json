@@ -1,0 +1,279 @@
+{
+  "notice_publication_id": "126928-2024",
+  "buyer": {
+    "official_name": "The Office of Government Procurement",
+    "email": "support@ogp.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "3A Mayor Street Upper, Dublin 1",
+      "city": "Dublin",
+      "postal_code": "D01 PF72",
+      "country": "IRL"
+    },
+    "website": "https://www.ogp.gov.ie",
+    "company_id": "IE3229842HH",
+    "phone": "+353 17738000"
+  },
+  "procedure": {
+    "title": "Multi Supplier Framework Agreement for the provision of External ICT Technical Support Services (provided by individual Technical ICT Resources) IPS016F",
+    "description": "Multi Supplier Framework Agreement for the provision of External ICT Technical Support Services (provided by individual Technical ICT Resources) IPS016F",
+    "identifier": "e0ceb193-c4d7-4ac3-8ccf-08280cf179a8",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-04-08+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "72000000",
+    "additional_classifications": [
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000",
+      "72100000",
+      "72200000",
+      "72300000",
+      "72400000",
+      "72500000",
+      "72600000",
+      "72700000",
+      "72800000",
+      "72900000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "250000000.00",
+    "currency": "",
+    "maximum_value": "250000000.00"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-04-08+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3175589"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Lot 1 ICT Infrastructure and Operations Support Services",
+      "description": "Multi Supplier Framework Agreement for the provision of External ICT Technical Support Services (provided by individual Technical ICT Resources) IPS016F",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "72100000",
+        "72200000",
+        "72300000",
+        "72400000",
+        "72500000",
+        "72600000",
+        "72700000",
+        "72800000",
+        "72900000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "95000000.00",
+        "currency": "",
+        "maximum_value": "95000000.00"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0002",
+      "title": "Lot 2 Applications Development Lifecycle",
+      "description": "Multi Supplier Framework Agreement for the provision of External ICT Technical Support Services (provided by individual Technical ICT Resources) IPS016F",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "72100000",
+        "72200000",
+        "72300000",
+        "72400000",
+        "72500000",
+        "72600000",
+        "72700000",
+        "72800000",
+        "72900000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "75000000.00",
+        "currency": "",
+        "maximum_value": "75000000.00"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0003",
+      "title": "Lot 3 Database, Data and Analytics",
+      "description": "Multi Supplier Framework Agreement for the provision of External ICT Technical Support Services (provided by individual Technical ICT Resources) IPS016F",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "72100000",
+        "72200000",
+        "72300000",
+        "72400000",
+        "72500000",
+        "72600000",
+        "72700000",
+        "72800000",
+        "72900000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "55000000.00",
+        "currency": "",
+        "maximum_value": "55000000.00"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    },
+    {
+      "lot": "LOT-0004",
+      "title": "Lot 4 Cyber Security",
+      "description": "Multi Supplier Framework Agreement for the provision of External ICT Technical Support Services (provided by individual Technical ICT Resources) IPS016F",
+      "main_nature": "services",
+      "main_classification": "72000000",
+      "additional_classifications": [
+        "72100000",
+        "72200000",
+        "72300000",
+        "72400000",
+        "72500000",
+        "72600000",
+        "72700000",
+        "72800000",
+        "72900000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "25000000.00",
+        "currency": "",
+        "maximum_value": "25000000.00"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3175589",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3175589",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3175589",
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3175589"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/126928-2024/pdf"
+}

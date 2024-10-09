@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "359784-2024",
+  "buyer": {
+    "official_name": "Cork City Council",
+    "email": "eamon_hayes@corkcity.ie",
+    "legal_type": "la",
+    "activity": "gen-pub",
+    "address": {
+      "street": "City Hall",
+      "city": "Cork",
+      "postal_code": "T12 T997",
+      "country": "IRL"
+    },
+    "website": "https://www.corkcity.ie/",
+    "company_id": "0005426M",
+    "phone": "+353 214924359"
+  },
+  "procedure": {
+    "title": "Road Drainage Improvement Works Contract 2024",
+    "description": "Road Drainage Improvement Works Contract 2024",
+    "identifier": "5b722828-a6bb-435a-8262-40289eee3682",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-07-02+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45111240",
+    "additional_classifications": [
+      "45232452",
+      "45232450",
+      "45232451",
+      "45232452",
+      "45232450",
+      "45232451"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "250000",
+    "currency": "",
+    "maximum_value": "250000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-07-02+01:00",
+    "open_tender_time": "12:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3760037"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Road Drainage Improvement Works Contract 2024",
+      "description": "Road Drainage Improvement Works Contract 2024",
+      "main_nature": "works",
+      "main_classification": "45111240",
+      "additional_classifications": [
+        "45232452",
+        "45232450",
+        "45232451"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "250000",
+        "currency": "",
+        "maximum_value": "10"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3760037"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/359784-2024/pdf"
+}

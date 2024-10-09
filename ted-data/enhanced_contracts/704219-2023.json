@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "704219-2023",
+  "buyer": {
+    "official_name": "Ramsgrange Community School",
+    "email": "rachel.oconnor@ramsgrangecommunityschool.ie",
+    "legal_type": "cga",
+    "activity": "education",
+    "address": {
+      "street": "Four Courts, Inns Quay, Dublin 7",
+      "city": "New Ross Co. Wexford",
+      "postal_code": "D07 WDX8",
+      "country": "IRL"
+    },
+    "website": "http://www.eduction.gov.ie",
+    "company_id": "N/A",
+    "phone": "051389211"
+  },
+  "procedure": {
+    "title": "Ramsgrange CS - Heating Upgrade Works",
+    "description": "The works proposed comprise of the upgrading of the existing system of space heating throughout the school, to include upgrading of the heating centres (main school / sports hall), with a gross floor area of approximately 4500m2. The space heating in the sports hall will also be upgraded by replacing the existing oil-fired boiler with high-output LPG condensing boiler units. The system of space heating within the sports hall will also be replaced by using a system of radiant panels",
+    "identifier": "ee9af413-59b1-4f8b-b8b8-5c956f82e25c",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2023-12-06+00:00",
+    "deadline_time": "15:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "51000000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "1700000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "not-allowed",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "not-allowed",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2023-12-08+00:00",
+    "open_tender_time": "00:00:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2711386"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Ramsgrange CS - Heating Upgrade Works",
+      "description": "The works proposed comprise of the upgrading of the existing system of space heating throughout the school, to include upgrading of the heating centres (main school / sports hall), with a gross floor area of approximately 4500m2. The space heating in the sports hall will also be upgraded by replacing the existing oil-fired boiler with high-output LPG condensing boiler units. The system of space heating within the sports hall will also be replaced by using a system of radiant panels",
+      "main_nature": "services",
+      "main_classification": "51000000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "1700000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2711386"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/704219-2023/pdf"
+}

@@ -1,0 +1,150 @@
+{
+  "notice_publication_id": "774953-2023",
+  "buyer": {
+    "official_name": "Department of Tourism Culture Arts Gaeltacht Sport Media",
+    "email": "procurement@tcagsm.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Government Buildings, New Road",
+      "city": "Killarney",
+      "postal_code": "V93 A49X",
+      "country": "IRL"
+    },
+    "website": "https://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media",
+    "company_id": "4000113V",
+    "phone": "016313800"
+  },
+  "procedure": {
+    "title": "Conservation Services to support the 1926 Census project",
+    "description": "The National Archives is proposing to contract paper conservators to work on the 1926 Census project. The work will take place in the conservation workshop of the National Archives, Bishop Street, Dublin 8 and be carried out under the supervision of the Senior Conservator for the project.",
+    "identifier": "42127360-dc7c-416a-8a4d-ca9c67412909",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-29+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "92500000",
+    "additional_classifications": [
+      "92400000",
+      "80500000",
+      "80000000",
+      "79000000",
+      "73300000",
+      "73100000",
+      "73200000",
+      "92000000",
+      "75000000",
+      "75100000",
+      "73000000",
+      "71000000",
+      "38000000",
+      "22000000",
+      "19000000",
+      "98300000",
+      "92400000",
+      "80500000",
+      "80000000",
+      "79000000",
+      "73300000",
+      "73100000",
+      "73200000",
+      "92000000",
+      "75000000",
+      "75100000",
+      "73000000",
+      "71000000",
+      "38000000",
+      "22000000",
+      "19000000",
+      "98300000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "75000",
+    "currency": "",
+    "maximum_value": "75000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-29+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2872285"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Conservation Services to support the 1926 Census project",
+      "description": "The National Archives is proposing to contract paper conservators to work on the 1926 Census project. The work will take place in the conservation workshop of the National Archives, Bishop Street, Dublin 8 and be carried out under the supervision of the Senior Conservator for the project.",
+      "main_nature": "services",
+      "main_classification": "92500000",
+      "additional_classifications": [
+        "92400000",
+        "80500000",
+        "80000000",
+        "79000000",
+        "73300000",
+        "73100000",
+        "73200000",
+        "92000000",
+        "75000000",
+        "75100000",
+        "73000000",
+        "71000000",
+        "38000000",
+        "22000000",
+        "19000000",
+        "98300000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "75000",
+        "currency": "",
+        "maximum_value": "75000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2872285"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/774953-2023/pdf"
+}

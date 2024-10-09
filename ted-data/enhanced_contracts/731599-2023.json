@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "731599-2023",
+  "buyer": {
+    "official_name": "Fingal County Council_371",
+    "email": "procurement@fingal.ie",
+    "legal_type": "body-pl-cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Main Street",
+      "city": "Dublin",
+      "postal_code": "K67 X8Y2",
+      "country": "IRL"
+    },
+    "website": "https://www.fingal.ie",
+    "company_id": "9509807N",
+    "phone": "018075000"
+  },
+  "procedure": {
+    "title": "FCC/267/23 Multi Party Framework for the Construction of New Sports Facilities and the Refurbishment/Upgrades and Maintenance of existing facilities within Fingal County Council’s Administrative Area",
+    "description": "The initial contract is to develop two full size natural GAA pitches, and associated ancillary works at Ballymastone Recreational Hub, Donabate. The framework agreement will be established on foot of this initial contract. The scope of works is for the construction (design by others) of the following: i. The construction of two full size GAA natural GAA pitches to the standards set out in the Gaelic Athletic Association Performance and Construction Standards – involving significant earthworks and drainage works ii. Associated works to include ball stops, goal posts and perimeter fencing iii. A series of 3m and 5m wide bound surfaced spectator access and perimeter paths to service the new facility designed in accordance with industry best practice iv. The construction of a new engineered vehicular bridge/culverted crossing to traverse existing water course on site – for incorporation with the new path networks v. The modification/upgrade of two existing bridge crossings traversing existing water course – for incorporation with new path network",
+    "identifier": "6c9e241c-40b2-44e9-be6e-9d11b9c14432",
+    "type": "neg-w-call",
+    "accelerated": "false",
+    "deadline_date": "2024-01-12+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45212200",
+    "additional_classifications": [
+      "45212210",
+      "45000000",
+      "45212221",
+      "45212210",
+      "45000000",
+      "45212221"
+    ],
+    "place_of_performance": "IRL"
+  },
+  "value": {
+    "estimated_value": "20000000",
+    "currency": "",
+    "maximum_value": "20000000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "false",
+    "electronic_payment": "false"
+  },
+  "tendering_process": {
+    "procedure_code": "neg-w-call",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2685112"
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "FCC/267/23 Multi Party Framework for the Construction of New Sports Facilities and the Refurbishment/Upgrades and Maintenance of existing facilities within Fingal County Council’s Administrative Area",
+      "description": "The initial contract is to develop two full size natural GAA pitches, and associated ancillary works at Ballymastone Recreational Hub, Donabate. The framework agreement will be established on foot of this initial contract. The scope of works is for the construction (design by others) of the following: i. The construction of two full size GAA natural GAA pitches to the standards set out in the Gaelic Athletic Association Performance and Construction Standards – involving significant earthworks and drainage works ii. Associated works to include ball stops, goal posts and perimeter fencing iii. A series of 3m and 5m wide bound surfaced spectator access and perimeter paths to service the new facility designed in accordance with industry best practice iv. The construction of a new engineered vehicular bridge/culverted crossing to traverse existing water course on site – for incorporation with the new path networks v. The modification/upgrade of two existing bridge crossings traversing existing water course – for incorporation with new path network",
+      "main_nature": "works",
+      "main_classification": "45212200",
+      "additional_classifications": [
+        "45212210",
+        "45000000",
+        "45212221"
+      ],
+      "place_of_performance": "IRL",
+      "country": "IRL",
+      "value": {
+        "estimated_value": "20000000",
+        "currency": "",
+        "maximum_value": "20000000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "other",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "false",
+        "electronic_payment": "false"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-mix",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2685112"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/731599-2023/pdf"
+}

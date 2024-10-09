@@ -1,0 +1,100 @@
+{
+  "notice_publication_id": "18432-2024",
+  "buyer": {
+    "official_name": "Kildare Town Educate Together NS",
+    "email": "office@ktet.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Kildare Town Educate Together NS, Melitta Road, Kildare Town",
+      "city": "Kildare",
+      "postal_code": "R51 RX38",
+      "country": "IRL"
+    },
+    "website": "https://kildaretownet.ie/",
+    "company_id": "20403K",
+    "phone": "086 224 9909"
+  },
+  "procedure": {
+    "title": "Call for Tenders for the provision of Hot Meals to Kildare Town Educate Together NS under the School Meals Scheme.",
+    "description": "The Board of Management of Kildare Town Educate Together National School is seeking tenders for the provision of Hot Meals under the School Meals Scheme through the Department of Employment Affairs and Social Protection (DEASP) Kildare Town Educate Together is a primary school in Kildare Town with 16 mainstream classes and 2 special classes for autistic children. We have 425 children in total from junior Infants to 6th. We are an Educate Together school and as such we are co educational, Equality based, child centred and democratically run. We opened in 2012 and moved into our permanent building in 2015. We have 31 teachers, 9 SNAs a school caretaker and a school administrator.",
+    "identifier": "7559a1c5-9946-44b1-a7b2-898b26dd02cb",
+    "type": "",
+    "accelerated": "",
+    "deadline_date": "2024-01-31+00:00",
+    "deadline_time": "15:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "55524000",
+    "additional_classifications": [],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "742000",
+    "currency": "",
+    "maximum_value": ""
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "not-allowed",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "not-allowed",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Call for Tenders for the provision of Hot Meals to Kildare Town Educate Together NS under the School Meals Scheme.",
+      "description": "The Board of Management of Kildare Town Educate Together National School is seeking tenders for the provision of Hot Meals under the School Meals Scheme through the Department of Employment Affairs and Social Protection (DEASP) Kildare Town Educate Together is a primary school in Kildare Town with 16 mainstream classes and 2 special classes for autistic children. We have 425 children in total from junior Infants to 6th. We are an Educate Together school and as such we are co educational, Equality based, child centred and democratically run. We opened in 2012 and moved into our permanent building in 2015. We have 31 teachers, 9 SNAs a school caretaker and a school administrator.",
+      "main_nature": "services",
+      "main_classification": "55524000",
+      "additional_classifications": [],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "742000",
+        "currency": "",
+        "maximum_value": ""
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "not-allowed",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "",
+        "dps_usage": "",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2924235"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/18432-2024/pdf"
+}

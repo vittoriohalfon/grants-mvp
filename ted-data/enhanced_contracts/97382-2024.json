@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "97382-2024",
+  "buyer": {
+    "official_name": "Department of Housing Local Government and Heritage",
+    "email": "strategy@housing.gov.ie",
+    "legal_type": "cga",
+    "activity": "gen-pub",
+    "address": {
+      "street": "Newtown Road",
+      "city": "Wexford",
+      "postal_code": "Y35 AP90",
+      "country": "IRL"
+    },
+    "website": "https://www.ogp.gov.ie",
+    "company_id": "IE4000068T",
+    "phone": "+53 9117551"
+  },
+  "procedure": {
+    "title": "To Hire a Paint Contractor",
+    "description": "**Title: To Hire a Paint Contractor for Various Paint Projects in Glenveagh National Park, Co. Donegal**\n\n**Description:**\nThe Office of Government Procurement (OGP) is seeking a reliable and experienced Paint Contractor to undertake various paint projects within Glenveagh National Park, County Donegal. The successful bidder will be responsible for ensuring high-quality paint work, adhering to environmental and safety standards, and meeting the specific requirements of the Department.\n\n**Key Requirements:**\n- **Experience:** The bidder must have a proven track record in paint contracting, with previous experience in similar projects, particularly in a national park setting.\n- **Environmental Considerations:** The contractor must be aware of and comply with all environmental regulations and guidelines to minimize impact on the park's ecosystem.\n- **Safety Standards:** The bidder must demonstrate a strong commitment to safety protocols, ensuring the well-being of both personnel and visitors to the park.\n- **Quality Assurance:** The contractor must provide high-quality paint work, meeting or exceeding the Department's standards for durability and aesthetic appeal.\n- **Project Management:** The bidder should be able to manage the project efficiently, ensuring timely completion and minimal disruption to park activities.\n- **Compliance:** The contractor must comply with all relevant procurement regulations and guidelines set by the OGP.\n\n**Additional Information:**\n- **Contact Details:** For further information or to submit a bid, please visit the OGP website at [www.ogp.gov.ie](https://www.ogp.gov.ie) and follow the instructions for registering and submitting a tender.\n- **Registration:** Bidders must register on the OGP Buyer Zone to access the tender documentation and submit their bid. Registration details can be found on the OGP website.\n\nBy responding to this tender, the bidder will be contributing to the maintenance and preservation of Glenveagh National Park, ensuring that the park's natural beauty and historical significance are protected for future generations.",
+    "identifier": "b7a9fe31-b020-4f66-82f5-5bb50f5fbce4",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-03-22+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "50000000",
+    "additional_classifications": [
+      "45442100",
+      "45442100"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "70000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "not-allowed",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "not-allowed",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-03-22+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3091143"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "To Hire a Paint Contractor",
+      "description": "The Dept has a requirement for a Paint Contractor for various paint projects in Glenveagh National Park Co. Donegal",
+      "main_nature": "services",
+      "main_classification": "50000000",
+      "additional_classifications": [
+        "45442100"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "70000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3091143"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/97382-2024/pdf"
+}

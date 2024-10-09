@@ -1,0 +1,120 @@
+{
+  "notice_publication_id": "742390-2023",
+  "buyer": {
+    "official_name": "University College Dublin ( UCD )",
+    "email": "procurement@ucd.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "Belfield, Dublin 4",
+      "city": "Dublin",
+      "postal_code": "Belfield, Dublin 4",
+      "country": "IRL"
+    },
+    "website": "https://www.ucd.ie",
+    "company_id": "23564",
+    "phone": "+353 1 7164991"
+  },
+  "procedure": {
+    "title": "ECommerce, Student Information System and an Integrated Payment Solution",
+    "description": "**Enhanced Proposal Description:**\n\nThe University College Dublin (UCD) is seeking a comprehensive solution for its ECommerce, Student Information System, and Integrated Payment Solution. UCD is one of Europe's leading research-intensive universities, with a diverse student body of over 32,000 students from various backgrounds. The institution provides a broad range of courses across six Colleges, including the College of Arts & Humanities, College of Business, College of Engineering & Architecture, College of Health & Agricultural Sciences, College of Social Sciences & Law, and College of Science.\n\nThe proposed solution must cater to the unique needs of UCD, which includes managing student enrollment, course registration, payment processing, and e-commerce transactions. The system should be highly configurable to meet the requirements detailed in Appendix 1 of the Invitation to Tender document. Key functionalities should include:\n\n- **ECommerce Solution:** A robust platform for online transactions, ensuring secure and efficient payment processing.\n- **Student Information System:** A comprehensive system for managing student data, including enrollment, course registration, and academic records.\n- **Integrated Payment Solution:** A seamless integration of payment processing with the Student Information System, ensuring accurate and timely financial transactions.\n\nThe solution should be scalable to accommodate the growing needs of UCD and its diverse student population. It should also ensure high levels of data security and compliance with relevant regulations. The bidder should demonstrate expertise in implementing similar solutions in higher education institutions, highlighting their experience in managing complex student information systems and integrated payment solutions.\n\nThe successful bidder will be expected to provide a detailed implementation plan, including project timelines, resource allocation, and a comprehensive testing strategy. The solution should be user-friendly, with intuitive interfaces for both students and administrative staff. Additionally, the bidder should provide ongoing support and maintenance services to ensure the system remains operational and efficient over time.\n\nBy selecting a bidder with a proven track record in delivering such solutions, UCD aims to enhance its operational efficiency, improve student experience, and streamline financial transactions. The proposed solution will be a critical component in supporting UCD's mission to provide high-quality education and research opportunities to its students.",
+    "identifier": "ca888af1-3d1c-4f3d-a71f-47f3232e6088",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-01-17+00:00",
+    "deadline_time": "12:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "supplies",
+    "main_classification": "48400000",
+    "additional_classifications": [
+      "48333000",
+      "48217000",
+      "48219300",
+      "66115000",
+      "48445000",
+      "72212445",
+      "48333000",
+      "48217000",
+      "48219300",
+      "66115000",
+      "48445000",
+      "72212445"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "250000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "required",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "true",
+    "open_tender_date": "2024-01-17+00:00",
+    "open_tender_time": "12:30:00+00:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=2806677"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "ECommerce, Student Information System and an Integrated Payment Solution",
+      "description": "**Title:** ECommerce, Student Information System, and Integrated Payment Solution\n\n**Description:**\n\nThe subject-matter of this competition comprises a consolidated solution, which shall include both an e-commerce solution, a Student Information System, and a Payments System. The complete solution shall be tailored to the needs of the Contracting Authority, University College Dublin (UCD), and shall be configured to fulfil the requirements detailed in Appendix 1 of this Invitation to Tender document.\n\n**Key Requirements:**\n\n1. **E-commerce Solution:**\n   - The e-commerce platform must be user-friendly and accessible for both students and staff.\n   - It should support various payment methods, including online transactions and mobile payments.\n   - Integration with existing UCD systems, such as the student portal and financial management systems, is essential.\n\n2. **Student Information System:**\n   - The system must manage student data efficiently, including enrollment, course registration, and academic records.\n   - It should provide real-time updates and notifications to students and staff.\n   - Integration with existing UCD systems, such as the student records system and academic calendars, is crucial.\n\n3. **Integrated Payment Solution:**\n   - The payment system must ensure secure and efficient processing of transactions.\n   - It should support multiple payment gateways and currencies.\n   - Real-time reporting and analytics for financial transactions are required.\n\n4. **Customization and Configuration:**\n   - The solution must be highly customizable to meet the specific needs of UCD, including integration with existing systems and processes.\n   - Configuration to meet the requirements detailed in Appendix 1 of the Invitation to Tender document is essential.\n\n5. **Scalability and Security:**\n   - The solution must be scalable to accommodate the growing needs of UCD.\n   - High-level security measures to protect student data and financial transactions are mandatory.\n\n6. **Support and Maintenance:**\n   - The bidder must provide comprehensive support and maintenance services, including regular updates, bug fixes, and technical assistance.\n   - A dedicated support team with expertise in higher education technology is required.\n\n7. **Compliance and Standards:**\n   - The solution must comply with relevant data protection regulations, such as GDPR.\n   - Adherence to industry standards for security and performance is essential.\n\n8. **User Experience:**\n   - The system should provide an excellent user experience for both students and staff, with intuitive interfaces and minimal downtime.\n   - Regular user feedback mechanisms to improve the system are recommended.\n\n9. **Integration with Third-Party Services:**\n    - The solution should be able to integrate with third-party services such as library systems, career services, and student unions.\n    - APIs for seamless integration with other UCD systems are required.\n\n10. **Project Timeline and Milestones:**\n    - A detailed project timeline with clear milestones and deliverables is necessary.\n    - Regular progress updates and status reports are expected.\n\n11. **Training and Documentation:**\n    - Comprehensive training sessions for UCD staff on the new system are required.\n    - Detailed documentation of the system, including user manuals and technical guides, is essential.\n\n12. **Warranty and Support Period:**\n    - A warranty period for the solution is expected, ensuring that the bidder stands behind their product.\n    - A minimum support period of at least two years is recommended.\n\nBy addressing these key requirements, the bidder will be able to provide a comprehensive solution tailored to the specific needs of University College Dublin, ensuring seamless integration with existing systems and processes.",
+      "main_nature": "supplies",
+      "main_classification": "48400000",
+      "additional_classifications": [
+        "48333000",
+        "48217000",
+        "48219300",
+        "66115000",
+        "48445000",
+        "72212445"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "250000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "required",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=2806677"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/742390-2023/pdf"
+}

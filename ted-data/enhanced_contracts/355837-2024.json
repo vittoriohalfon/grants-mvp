@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "355837-2024",
+  "buyer": {
+    "official_name": "James's Street CBS Secondary School",
+    "email": "pqueally@cbsjamesstreet.ie",
+    "legal_type": "body-pl",
+    "activity": "education",
+    "address": {
+      "street": "8 Basin View, The Liberties",
+      "city": "Dublin 8",
+      "postal_code": "D08H2H9",
+      "country": "IRL"
+    },
+    "website": "http://www.cbsjamesstreet.ie/",
+    "company_id": "60410I",
+    "phone": "+353 1 4547756"
+  },
+  "procedure": {
+    "title": "Call for Tenders for the provision of Catering Services under the School Meals Scheme to CBS James’s Street, Dublin 8 (60410I)",
+    "description": "**Title:** Call for Tenders for the Provision of Catering Services under the School Meals Scheme to CBS James’s Street, Dublin 8 (60410I)\n\n**Description:**\nThe Board of Management of CBS James’s Street, a co-educational second-level school established in 1820 in the heart of Dublin 8, is seeking proposals for the provision of Catering Services under the School Meals Scheme. This scheme is facilitated through the Department of Social Protection (DSP) and is contingent on the level of DSP funding approved for 2024/2025. The school intends to provide catering services daily throughout the school year for 207 students. The successful bidder will be responsible for ensuring the provision of nutritious and safe meals that meet the dietary needs of students, while also adhering to all relevant health and safety standards. The school values a broad and balanced curriculum and a strong pastoral approach, encouraging student involvement in intellectual, sporting, and extracurricular activities. The successful bidder should demonstrate experience in catering for large groups, particularly in educational settings, and have a proven track record of delivering high-quality meals that meet the nutritional requirements of students. The tender process aims to secure a reliable and efficient catering service that supports the educational and well-being goals of CBS James’s Street. By participating in this tender, bidders agree to our use of cookies as described in our cookie policy.",
+    "identifier": "cad70d3f-7c0a-41d3-ad14-df5210783d4b",
+    "type": "open",
+    "accelerated": "",
+    "deadline_date": "2024-07-05+01:00",
+    "deadline_time": "15:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "55523100",
+    "additional_classifications": [
+      "55524000",
+      "55524000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "335000",
+    "currency": "",
+    "maximum_value": "0"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "",
+    "electronic_ordering": "",
+    "electronic_payment": ""
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "",
+    "open_tender_date": "2024-07-05+01:00",
+    "open_tender_time": "15:30:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3781872"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Call for Tenders for the provision of Catering Services under the School Meals Scheme to CBS James’s Street, Dublin 8 (60410I)",
+      "description": "The Board of Management of CBS James’s Street, Dublin 8 is seeking proposals for the provision of Catering Services under the School Meals Scheme through the Department of Social Protection (DSP) and is dependent on the level of DSP funding approved for 2024/2025. CBS James’s Street, Dublin 8 intends to facilitate the availability of this service for school meals scheme each day of the school year for 207 students.",
+      "main_nature": "services",
+      "main_classification": "55523100",
+      "additional_classifications": [
+        "55524000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "335000",
+        "currency": "",
+        "maximum_value": "0"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "",
+        "electronic_ordering": "",
+        "electronic_payment": ""
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3781872"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/355837-2024/pdf"
+}

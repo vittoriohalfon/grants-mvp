@@ -1,0 +1,105 @@
+{
+  "notice_publication_id": "201387-2024",
+  "buyer": {
+    "official_name": "The Irish Air Navigation Service",
+    "email": "patrick.d.mcgrath@airnav.ie",
+    "legal_type": "body-pl",
+    "activity": "gen-pub",
+    "address": {
+      "street": "The Times Building, 11-12 D'Olier Street",
+      "city": "Dublin 2",
+      "postal_code": "D02 T449",
+      "country": "IRL"
+    },
+    "website": "https://www.airnav.ie",
+    "company_id": "130364",
+    "phone": "3531 6031486"
+  },
+  "procedure": {
+    "title": "Test and Measurement Equipment Calibration and Repair Service",
+    "description": "The Services requires the provision of Test and Measurement Equipment Calibration and Repair Services at various AirNav Ireland Locations in the state. To ensure a dependable accuracy of measurement, Engineers working on the AIRNAV IRELAND’s CNS/ATM (Communication, Navigation, Surveillance and Air Traffic Management) systems use calibrated test and measurement equipment. Where appropriate, all test equipment’s are calibrated to manufacturers and international standards.",
+    "identifier": "d1674b46-2811-4016-8f7d-ca49f6df48b4",
+    "type": "open",
+    "accelerated": "false",
+    "deadline_date": "2024-05-16+01:00",
+    "deadline_time": "12:00:00+01:00"
+  },
+  "purpose": {
+    "main_nature": "services",
+    "main_classification": "50433000",
+    "additional_classifications": [
+      "50412000",
+      "50412000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "550000",
+    "currency": "",
+    "maximum_value": "550000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "open",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "2024-05-17+01:00",
+    "open_tender_time": "00:00:00+01:00",
+    "open_tender_location": "https://www.etenders.gov.ie/epps/cft/prepareViewCfTWS.do?resourceId=3311212"
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "not-allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Test and Measurement Equipment Calibration and Repair Service",
+      "description": "The Services requires the provision of Test and Measurement Equipment Calibration and Repair Services at various AirNav Ireland Locations in the state. To ensure a dependable accuracy of measurement, Engineers working on the AIRNAV IRELAND’s CNS/ATM (Communication, Navigation, Surveillance and Air Traffic Management) systems use calibrated test and measurement equipment. Where appropriate, all test equipment’s are calibrated to manufacturers and international standards.",
+      "main_nature": "services",
+      "main_classification": "50433000",
+      "additional_classifications": [
+        "50412000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "550000",
+        "currency": "",
+        "maximum_value": "550000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "ef-stand",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "none",
+        "dps_usage": "none",
+        "reserved_execution": "no",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3311212"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/201387-2024/pdf"
+}

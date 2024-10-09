@@ -1,0 +1,111 @@
+{
+  "notice_publication_id": "128038-2024",
+  "buyer": {
+    "official_name": "Energy Communities Tipperary Cooperative",
+    "email": "mairtin@ectc.ie",
+    "legal_type": "body-pl",
+    "activity": "env-pro",
+    "address": {
+      "street": "2nd Floor, Friar's Court, Nenagh,    Co. Tipperary, E45 KN59, Ireland.",
+      "city": "Nenagh",
+      "postal_code": "E45KN59",
+      "country": "IRL"
+    },
+    "website": "https://energycommunitiestipp.ie/",
+    "company_id": "Energy Communities Tipperary Cooperative",
+    "phone": "0879464650"
+  },
+  "procedure": {
+    "title": "Community Energy Grant Scheme Project Coordinator Invitation to Tender",
+    "description": "Community Energy Scheme Project Coordinator Invitation to Tender Energy Communities Tipperary Cooperative CLG (ECTC) trading as EcoVision, invites applications to provide project coordination services for community energy schemes overseen by ECTC in the Mid West in 2024. This tender is for work on the 2024 SEAI schemes including National Retrofit Scheme. The promoter reserves the right to extend the contract for a further 2 to 3 years, in agreement with the winning tender. The project coordinator will be expected to work collaboratively with the General Manager and other staff on the Just Transition Fund projects in North Tipperary. The project coordinator will assist with systems design to improve internal retrofit processes, to assist EcoVision’s development as an Integrated Home Renovation Service, including securing status as a designated SEAI One Stop Shop, this may include using internal CRM tools.",
+    "identifier": "4c04faed-9c4e-4f4b-b7a0-4cd31f4c11fa",
+    "type": "neg-w-call",
+    "accelerated": "false",
+    "deadline_date": "2024-04-11+00:00",
+    "deadline_time": "17:00:00+00:00"
+  },
+  "purpose": {
+    "main_nature": "works",
+    "main_classification": "45000000",
+    "additional_classifications": [
+      "50000000",
+      "71314300",
+      "71541000",
+      "71314000",
+      "71314300",
+      "71541000"
+    ],
+    "place_of_performance": ""
+  },
+  "value": {
+    "estimated_value": "150000",
+    "currency": "",
+    "maximum_value": "200000"
+  },
+  "general_information": {
+    "terms_of_submission": "required",
+    "variant_submissions": "",
+    "electronic_invoicing": "allowed",
+    "electronic_ordering": "true",
+    "electronic_payment": "true"
+  },
+  "tendering_process": {
+    "procedure_code": "neg-w-call",
+    "submission_method": "required",
+    "government_agreement_constraint": "false",
+    "open_tender_date": "",
+    "open_tender_time": "",
+    "open_tender_location": ""
+  },
+  "tendering_terms": {
+    "variant_constraint": "",
+    "funding_program": "no-eu-funds",
+    "recurring_procurement": "",
+    "multiple_tenders": "allowed",
+    "esignature_submission": "",
+    "ecatalog_submission": "not-allowed",
+    "tender_validity_period": "",
+    "tender_validity_period_unit": "",
+    "security_clearance": ""
+  },
+  "lots": [
+    {
+      "lot": "LOT-0001",
+      "title": "Community Energy Grant Scheme Project Coordinator Invitation to Tender",
+      "description": "Community Energy Scheme Project Co-ordinator - Invitation to Tender Energy Communities Tipperary Cooperative CLG (ECTC) trading as EcoVision, invites applications to provide project coordination services for community energy schemes overseen by ECTC in the Mid West in 2024. This tender is for work on the 2024 SEAI schemes including National Retrofit Scheme. The promoter reserves the right to extend the contract for a further 2 to 3 years, in agreement with the winning tender. The project coordinator will be expected to work collaboratively with the General Manager and other staff on the Just Transition Fund projects in North Tipperary. The project coordinator will assist with systems design to improve internal retrofit processes, to assist EcoVision’s development as an Integrated Home Renovation Service, including securing status as a designated SEAI One Stop Shop, this may include using internal CRM tools",
+      "main_nature": "works",
+      "main_classification": "45000000",
+      "additional_classifications": [
+        "71314000",
+        "71314300",
+        "71541000"
+      ],
+      "place_of_performance": "",
+      "country": "",
+      "value": {
+        "estimated_value": "150000",
+        "currency": "",
+        "maximum_value": "200000"
+      },
+      "general_information": {
+        "reserved_participation": "none",
+        "selection_criteria": "tp-abil",
+        "variant_submissions": "",
+        "electronic_invoicing": "allowed",
+        "electronic_ordering": "true",
+        "electronic_payment": "true"
+      },
+      "specific_information": {
+        "procedure_relaunch": "",
+        "framework_agreement": "fa-wo-rc",
+        "dps_usage": "none",
+        "reserved_execution": "not-known",
+        "second_stage_indicator": ""
+      }
+    }
+  ],
+  "useful_links": [
+    "https://www.etenders.gov.ie/epps/cft/listContractDocuments.do?resourceId=3171519"
+  ],
+  "pdf_link": "https://ted.europa.eu/en/notice/128038-2024/pdf"
+}
