@@ -37,28 +37,3 @@ yarn-error.log*
 
 # Next.js
 .next/
-
-# Logs
-*.log
-
-# ALL XML FILES
-*.xml
-
-# ALL JSON FILES
-processed_contracts.json
-processed_files_hashes.json
-TED_IRELAND_CONTRACTS_*.json
-processed_contracts/*
-processed_contracts_*.json
-processed_contracts*
-
-# ENHANCED JSON FILES
-enhanced_contracts/*
-contracts_xml/*
-processed_contracts_2/*
-enhance_descriptions.log
-ted-data/enhanced_contracts/
-ted-data/contracts_xml/
-ted-data/processed_contracts_2/
-processed_ted_contracts/*
-ted-data/processed_ted_contracts/*
